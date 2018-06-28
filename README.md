@@ -5,9 +5,9 @@
 | Session Time  | Day 1                                           | Day 2                                        | Day 3                                               | Day 4 | Day 5 |
 | ------------- | ----------------------------------------------- | -------------------------------------------- | --------------------------------------------------- | ----- | ----- |
 | 9:00 - 10:30  | [Welcome to Data Science][1-1a]                 | [lesson-1-lists-and-dictionaries][1-2a]      | [Lesson_1-list_and_dictionary_comprehensions][1-3a] |[Linear algebra - Lesson][1-4a]|       |
-| 10:45 - 12:30 | [Command line lesson][1-1b]                     | [lesson-2-for-and-while-loops][1-2b]         | [Lesson_2-descriptive_statistics][1-3b] |[Linear algebra - Lab][1-4a]       |       |
-| 13:30 - 15:00 | [Introduction to Github][1-1c]                  | [lesson-3-control-flows-and-functions][1-2c] | [Lab_1-sales_data_lab][1-3c]   |[Data visualisation - Lesson][1-4c]       |       |
-| 15:15 - 17:00 | [Installations/ Stand-ups / Get together][1-1d] | [lab-python-practice][1-2d]                  |   |[Lab_2-python_movies_lab][1-3d]       |       |
+| 10:45 - 12:30 | [Command line lesson][1-1b]                     | [lesson-2-for-and-while-loops][1-2b]         | [Lesson_1-list_and_dictionary_comprehensions][1-3a] |[Linear algebra - Lab][1-4a]       |       |
+| 13:30 - 15:00 | [Introduction to Github][1-1c]                  | [lesson-3-control-flows-and-functions][1-2c] | [Lesson_2-descriptive_statistics][1-3b] |[Data visualisation - Lesson][1-4c]       |       |
+| 15:15 - 17:00 | [Installations/ Stand-ups / Get together][1-1d] | [lab-python-practice][1-2d]                  | [Lab_1-sales_data_lab][1-3c]    |[Lab_2-python_movies_lab][1-4d]       |       |
 
 
 [1-1a]: ./week01/day1_intro_command_line_and_github/DSI_intro
