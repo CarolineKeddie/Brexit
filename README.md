@@ -26,4 +26,4 @@
 
 [1-4a]: ./week01/day4_linalgreview_datavis_pythonpractice/lesson-1-linear-algebra-review
 [1-4c]: ./week01/day4_linalgreview_datavis_pythonpractice/lesson-2-data-visualisation
-[1-4d]: ./week01/day3_comprehensions_and_descriptive_stats/Lab_2-python_movies_lab
+[1-4d]: ./week01/day4_linalgreview_datavis_pythonpractice/Lab_2-python_movies_lab
