@@ -44,3 +44,6 @@
 [2-1a]: ./week02/day1_intro_pandas_and_EDA/lesson1_intro_to_pandas
 [2-1b]: ./week02/day1_intro_pandas_and_EDA/lab1_pandas_masking_and_indexing
 [2-1c]: ./week02/day1_intro_pandas_and_EDA/pandas-eda-walkthrough
+
+[2-2a]: ./week02/day2_pandas_join_and_cleaning/lesson1-pandas-concatenation_joining_data
+[2-2b]: ./week02/day2_pandas_join_and_cleaning/lab1-pandas-joining
