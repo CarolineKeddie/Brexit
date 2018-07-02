@@ -18,7 +18,7 @@
 | 9:00 - 10:30  | [Introduction to Pandas Lessons][2-1a] | [lesson1-pandas-concatenation_joining_data][2-2a] | [Pandas Long vs Wide Format, Pivot & Melting Lesson][2-3a] |       |       |
 | 10:45 - 12:30 | [Introduction to Pandas Lab][2-1b]     | [lab1-pandas-joining][2-2b]                       | [Pandas Long vs Wide Format, Pivot & Melting Lab][2-3b]    |       |       |
 | 13:30 - 15:00 | [Basic EDA walkthrough - Lesson][2-1c] |                                                   | [Pandas grouping - Lesson][2-3c]                           |       |       |
-| 15:15 - 17:00 | [Basic EDA walkthrough - Lesson][2-1d] |                                                   |                                                            |       |       |
+| 15:15 - 17:00 | [Basic EDA walkthrough - Lesson][2-1c] |                                                   |                                                            |       |       |
 
 
 [1-1a]: ./week01/day1_intro_command_line_and_github/DSI_intro
@@ -43,3 +43,4 @@
 
 [2-1a]: ./week02/day1_intro_pandas_and_EDA/lesson1_intro_to_pandas
 [2-1b]: ./week02/day1_intro_pandas_and_EDA/lab1_pandas_masking_and_indexing
+[2-1c]: ./week02/day1_intro_pandas_and_EDA/pandas-eda-walkthrough
