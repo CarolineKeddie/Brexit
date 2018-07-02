@@ -43,3 +43,4 @@
 
 [2-1a]: ./week02/day1_intro_pandas_and_EDA/lesson1_intro_to_pandas
 [2-1b]: ./week02/day1_intro_pandas_and_EDA/lab1_pandas_masking_and_indexing
+[2-1c]: ./week02/day1_intro_pandas_and_EDA/pandas_eda_walkthrough
