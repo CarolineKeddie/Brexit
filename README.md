@@ -47,3 +47,5 @@
 
 [2-2a]: ./week02/day2_pandas_join_and_cleaning/lesson1-pandas-concatenation_joining_data
 [2-2b]: ./week02/day2_pandas_join_and_cleaning/lab1-pandas-joining
+[2-2c]: ./week02/day2_pandas_join_and_cleaning/lesson-2-intro-to-data-cleaning
+[2-2d]: ./week02/day2_pandas_join_and_cleaning/lab-2-data-cleaning
