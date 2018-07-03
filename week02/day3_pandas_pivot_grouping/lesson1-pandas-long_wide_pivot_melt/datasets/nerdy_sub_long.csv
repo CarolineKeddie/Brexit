@@ -1,0 +1,2101 @@
+subject_id,major,variable,value
+1,biophysics,anxious,4.0
+2,biology,anxious,7.0
+5,Geology,anxious,5.0
+6,missing,anxious,1.0
+7,missing,anxious,7.0
+8,psychology,anxious,5.0
+9,missing,anxious,6.0
+10,missing,anxious,7.0
+14,information technology,anxious,3.0
+15,Digital Media,anxious,2.0
+19,missing,anxious,6.0
+22,chemical engineering,anxious,1.0
+26,missing,anxious,6.0
+27,Math,anxious,3.0
+29,missing,anxious,4.0
+36,missing,anxious,1.0
+38,Math,anxious,7.0
+39,missing,anxious,5.0
+42,missing,anxious,5.0
+44,missing,anxious,7.0
+45,none,anxious,7.0
+46,biochemistry,anxious,2.0
+47,Software Engineering,anxious,3.0
+48,missing,anxious,7.0
+49,Art,anxious,6.0
+50,missing,anxious,1.0
+53,history,anxious,2.0
+54,psychology,anxious,4.0
+55,Internet Computing,anxious,5.0
+56,engineering,anxious,2.0
+57,missing,anxious,2.0
+58,psychology,anxious,2.0
+61,missing,anxious,7.0
+62,missing,anxious,5.0
+65,missing,anxious,6.0
+66,Physics,anxious,6.0
+69,missing,anxious,2.0
+70,English,anxious,6.0
+71,Comp Sci and Math,anxious,2.0
+72,missing,anxious,3.0
+75,Chemistry,anxious,4.0
+76,missing,anxious,0.0
+77,German,anxious,5.0
+79,missing,anxious,5.0
+84,Computer Information Systens,anxious,2.0
+85,history,anxious,2.0
+89,missing,anxious,7.0
+91,Business,anxious,5.0
+93,Astrophysics,anxious,5.0
+95,Education,anxious,5.0
+96,Engineering,anxious,1.0
+97,missing,anxious,7.0
+98,Art,anxious,6.0
+103,missing,anxious,6.0
+104,missing,anxious,7.0
+105,missing,anxious,4.0
+107,missing,anxious,7.0
+108,missing,anxious,4.0
+110,missing,anxious,2.0
+114,missing,anxious,5.0
+115,art history and psychology,anxious,6.0
+118,missing,anxious,6.0
+119,mechanical engineering,anxious,5.0
+125,missing,anxious,7.0
+126,history,anxious,6.0
+128,Biology,anxious,2.0
+132,missing,anxious,5.0
+135,missing,anxious,7.0
+136,Psychology,anxious,1.0
+140,missing,anxious,6.0
+142,missing,anxious,6.0
+144,Chemistry,anxious,2.0
+148,history,anxious,3.0
+149,Chemistry,anxious,5.0
+152,missing,anxious,7.0
+153,Library science ,anxious,6.0
+154,Architecture,anxious,1.0
+155,missing,anxious,5.0
+156,missing,anxious,7.0
+157,Computing,anxious,4.0
+159,Occupational Therapy,anxious,1.0
+161,Engineering,anxious,2.0
+163,architecture,anxious,5.0
+164,Early Childhood Education,anxious,2.0
+166,processing animal products ( food technology ,anxious,7.0
+167,Statistics,anxious,1.0
+168,English,anxious,5.0
+169,Physical Education,anxious,4.0
+172,general education ,anxious,5.0
+175,Computer Science,anxious,6.0
+180,missing,anxious,2.0
+182,missing,anxious,6.0
+183,Commerce,anxious,1.0
+188,missing,anxious,7.0
+190,Social work,anxious,7.0
+193,Mechanical and electrical engineering,anxious,1.0
+194,music directors,anxious,1.0
+202,IT,anxious,5.0
+203,missing,anxious,3.0
+204,History,anxious,5.0
+205,missing,anxious,1.0
+206,Psychology,anxious,5.0
+207,missing,anxious,5.0
+209,missing,anxious,6.0
+211,chemistry engineering,anxious,7.0
+212,missing,anxious,1.0
+213,missing,anxious,1.0
+215,missing,anxious,5.0
+216,missing,anxious,1.0
+219,agri+AC0-business management,anxious,5.0
+220,missing,anxious,6.0
+222,missing,anxious,2.0
+223,computer science,anxious,2.0
+224,Law,anxious,1.0
+229,medical transcription,anxious,1.0
+230,missing,anxious,4.0
+231,missing,anxious,5.0
+237,missing,anxious,3.0
+239,missing,anxious,6.0
+240,Computer Science,anxious,7.0
+241,Agricultural Economics,anxious,2.0
+243,Languages,anxious,5.0
+244,missing,anxious,7.0
+247,psychology,anxious,1.0
+248,economics,anxious,5.0
+253,Linguistics,anxious,5.0
+256,missing,anxious,5.0
+257,missing,anxious,5.0
+262,Chemistry ,anxious,7.0
+263,missing,anxious,6.0
+264,Criminal Justice,anxious,1.0
+266,missing,anxious,6.0
+267,Mathematics,anxious,2.0
+268,missing,anxious,7.0
+269,nursing,anxious,5.0
+275,Medical,anxious,7.0
+276,art,anxious,3.0
+277,Art,anxious,5.0
+279,missing,anxious,6.0
+280,paraspsychology,anxious,6.0
+281,Engineering,anxious,1.0
+283,Health Science,anxious,6.0
+285,missing,anxious,6.0
+286,missing,anxious,1.0
+289,Civil engineering,anxious,1.0
+290,Nursing,anxious,2.0
+292,Electronic Engineering +ACY- Physics,anxious,5.0
+293,missing,anxious,4.0
+294,Physics,anxious,6.0
+295,Computer Science,anxious,3.0
+299,missing,anxious,2.0
+300,missing,anxious,6.0
+302,Orthopedagogiek ,anxious,5.0
+303,philosophy,anxious,7.0
+304,anthropology,anxious,5.0
+305,missing,anxious,6.0
+307,Photography,anxious,5.0
+309,missing,anxious,6.0
+310,missing,anxious,4.0
+311,missing,anxious,6.0
+320,Psychology,anxious,4.0
+322,Business Management,anxious,6.0
+324,biology,anxious,5.0
+328,missing,anxious,5.0
+329,Economics,anxious,5.0
+330,biochemistry,anxious,6.0
+332,missing,anxious,2.0
+334,Philosophy,anxious,1.0
+335,Computers ,anxious,1.0
+336,physics,anxious,6.0
+337,missing,anxious,3.0
+338,missing,anxious,4.0
+339,Electrical Engineeirng,anxious,1.0
+341,Computer science,anxious,2.0
+343,Computer Science,anxious,1.0
+345,Healthcare ,anxious,7.0
+347,Information tech,anxious,5.0
+349,missing,anxious,6.0
+353,Elementary Education,anxious,6.0
+356,missing,anxious,7.0
+361,missing,anxious,7.0
+362,Tourism management,anxious,7.0
+363,missing,anxious,6.0
+365,Natural Sciences,anxious,5.0
+367,Industrial Engineering and Education,anxious,3.0
+368,missing,anxious,6.0
+370,Business,anxious,1.0
+371,psychology,anxious,4.0
+377,Creative writing,anxious,3.0
+378,missing,anxious,7.0
+381,missing,anxious,7.0
+383,missing,anxious,1.0
+387,Science,anxious,4.0
+388,Nursing,anxious,6.0
+391,cognitive science,anxious,3.0
+392,missing,anxious,7.0
+395,Classics,anxious,5.0
+396,sociology,anxious,6.0
+403,missing,anxious,6.0
+411,neuroscience,anxious,2.0
+415,Linguistics,anxious,6.0
+416,missing,anxious,4.0
+419,missing,anxious,3.0
+422,general,anxious,4.0
+424,Business,anxious,6.0
+425,missing,anxious,7.0
+426,Communications,anxious,7.0
+427,engineering,anxious,5.0
+428,missing,anxious,3.0
+433,missing,anxious,1.0
+434,missing,anxious,6.0
+437,missing,anxious,1.0
+438,missing,anxious,7.0
+440,missing,anxious,7.0
+441,missing,anxious,1.0
+442,missing,anxious,6.0
+444,Music,anxious,6.0
+445,Aerospace Engineer ,anxious,2.0
+449,english,anxious,5.0
+451,missing,anxious,4.0
+452,Business,anxious,1.0
+453,missing,anxious,6.0
+455,geology,anxious,6.0
+457,missing,anxious,3.0
+458,Economics,anxious,7.0
+459,Biomedical,anxious,6.0
+460,Geography and Politics,anxious,3.0
+462,psychology,anxious,6.0
+464,political science,anxious,5.0
+466,missing,anxious,7.0
+467,missing,anxious,6.0
+468,missing,anxious,5.0
+469,missing,anxious,7.0
+470,Political science,anxious,7.0
+471,Communication,anxious,5.0
+476,computer sciences,anxious,6.0
+477,physiology,anxious,4.0
+478,missing,anxious,7.0
+480,missing,anxious,6.0
+481,missing,anxious,5.0
+482,industrial engineering,anxious,2.0
+486,missing,anxious,7.0
+488,missing,anxious,2.0
+489,missing,anxious,5.0
+492,missing,anxious,6.0
+493,Chemical Engineering,anxious,1.0
+495,missing,anxious,7.0
+498,PACS,anxious,4.0
+500,English,anxious,1.0
+501,English,anxious,5.0
+505,comparative literature,anxious,6.0
+510,Sports +ACY- Exercise Science,anxious,4.0
+513,Psychology,anxious,5.0
+515,missing,anxious,7.0
+516,missing,anxious,5.0
+518,missing,anxious,1.0
+520,religion,anxious,2.0
+521,business,anxious,1.0
+524,missing,anxious,5.0
+527,missing,anxious,7.0
+529,missing,anxious,5.0
+530,Nursing,anxious,5.0
+531,Currently business,anxious,1.0
+533,missing,anxious,6.0
+534,missing,anxious,6.0
+535,missing,anxious,6.0
+536,missing,anxious,5.0
+537,Electronic Media / Film,anxious,6.0
+538,medicine,anxious,1.0
+540,Biology ,anxious,7.0
+541,Theatre,anxious,7.0
+542,missing,anxious,3.0
+543,English,anxious,5.0
+545,missing,anxious,3.0
+546,Psychology,anxious,4.0
+547,psychology,anxious,4.0
+551,Journalism,anxious,3.0
+552,psychiatry ,anxious,2.0
+555,missing,anxious,6.0
+558,Art history,anxious,6.0
+559,It will be engineering,anxious,4.0
+561,missing,anxious,5.0
+562,missing,anxious,7.0
+564,Managerial Economics,anxious,3.0
+566,missing,anxious,6.0
+567,missing,anxious,5.0
+569,English and psychology,anxious,2.0
+570,missing,anxious,5.0
+572,psychology,anxious,1.0
+575,Politics,anxious,7.0
+576,missing,anxious,6.0
+578,missing,anxious,2.0
+580,Physics,anxious,4.0
+583,missing,anxious,7.0
+584,Biology/Chemistry,anxious,6.0
+585,Human resources,anxious,5.0
+586,Political Science,anxious,2.0
+587,computer repair,anxious,7.0
+588,missing,anxious,6.0
+589,missing,anxious,4.0
+590,missing,anxious,4.0
+591,Psychology,anxious,6.0
+592,Computer Engineering,anxious,2.0
+593,Biology,anxious,7.0
+594,missing,anxious,5.0
+595,missing,anxious,7.0
+596,missing,anxious,5.0
+597,missing,anxious,7.0
+598,psychology,anxious,5.0
+601,Graphics Engineering,anxious,4.0
+602,Political Science,anxious,2.0
+603,Computers,anxious,4.0
+604,missing,anxious,7.0
+605, None yet,anxious,7.0
+614,psychology,anxious,7.0
+616,missing,anxious,5.0
+618,Mathematics,anxious,7.0
+619,Civil Engineering ,anxious,1.0
+622,social work,anxious,6.0
+624,political science,anxious,5.0
+627,Architecture,anxious,4.0
+629,missing,anxious,6.0
+635,mathmatics,anxious,2.0
+636,missing,anxious,7.0
+637,Psychology,anxious,6.0
+638,missing,anxious,2.0
+639,missing,anxious,5.0
+640,Biology ,anxious,7.0
+641,Double major: Computer Science +ACY- Studio Art,anxious,6.0
+644,molecular/cell bio +ACY- Arabic (dble mjr),anxious,1.0
+646,missing,anxious,5.0
+649,Electrical Engineering,anxious,3.0
+650,missing,anxious,6.0
+651,missing,anxious,7.0
+652,linguistics,anxious,7.0
+656,Arts,anxious,5.0
+658,Art,anxious,1.0
+661,missing,anxious,2.0
+665,missing,anxious,4.0
+666,Digital Media,anxious,7.0
+671,Anthropology ,anxious,5.0
+674,Civil Engineering,anxious,6.0
+675,science,anxious,5.0
+676,missing,anxious,1.0
+677,missing,anxious,5.0
+678,missing,anxious,5.0
+680,missing,anxious,7.0
+686,English,anxious,4.0
+687,Psychology,anxious,3.0
+689,Education,anxious,3.0
+691,Business Economics,anxious,6.0
+693,Liberal Arts,anxious,2.0
+696,Psychology,anxious,2.0
+697,hospitality,anxious,5.0
+700,Art,anxious,1.0
+703,Sport Science,anxious,1.0
+704,Human Services,anxious,7.0
+706,missing,anxious,6.0
+707,missing,anxious,7.0
+708,History,anxious,5.0
+710,missing,anxious,3.0
+711,English,anxious,4.0
+712,Psychology,anxious,6.0
+714,Film,anxious,2.0
+722,missing,anxious,7.0
+723,missing,anxious,4.0
+724,missing,anxious,7.0
+730,Psychology,anxious,2.0
+732,Phiolosophy,anxious,3.0
+735,missing,anxious,7.0
+736,missing,anxious,4.0
+740,missing,anxious,5.0
+742,English,anxious,6.0
+743,missing,anxious,7.0
+746,Environmental Engineering,anxious,5.0
+747,psychology,anxious,6.0
+752,missing,anxious,5.0
+753,missing,anxious,6.0
+754,English ,anxious,2.0
+758,Music,anxious,7.0
+759,Music,anxious,5.0
+760,missing,anxious,5.0
+763,Psychology,anxious,6.0
+765,missing,anxious,6.0
+770,missing,anxious,5.0
+773,laboratory studies,anxious,4.0
+774,missing,anxious,5.0
+777,missing,anxious,6.0
+781,missing,anxious,2.0
+787,missing,anxious,6.0
+790,Psychology,anxious,7.0
+791,missing,anxious,4.0
+793,missing,anxious,3.0
+794,Music,anxious,7.0
+796,chemical engineering,anxious,3.0
+800,missing,anxious,5.0
+802,Drama,anxious,6.0
+803,Information Technology,anxious,4.0
+805,missing,anxious,7.0
+806,missing,anxious,5.0
+808,Political Science,anxious,1.0
+809,missing,anxious,7.0
+811,civil engineering,anxious,3.0
+812,missing,anxious,5.0
+814,Physiology,anxious,3.0
+816,Chemistry,anxious,4.0
+817,education,anxious,7.0
+821,missing,anxious,6.0
+823,missing,anxious,6.0
+826,missing,anxious,6.0
+830,missing,anxious,7.0
+835,missing,anxious,4.0
+836,missing,anxious,6.0
+837,missing,anxious,6.0
+838,psychology +AC0- engineering,anxious,6.0
+840,Computer Science,anxious,5.0
+842,Physics,anxious,6.0
+844,English,anxious,6.0
+846,missing,anxious,1.0
+849,Biology,anxious,7.0
+852,Education,anxious,4.0
+857,Medicine,anxious,1.0
+858,Psychology,anxious,4.0
+859,psychology crimminology,anxious,1.0
+861,Psychology,anxious,1.0
+862,Nursing,anxious,5.0
+864,missing,anxious,2.0
+865,missing,anxious,2.0
+868,missing,anxious,5.0
+870,missing,anxious,4.0
+877,Psychology,anxious,7.0
+880,Language,anxious,5.0
+881,Zoology,anxious,6.0
+882,missing,anxious,7.0
+883,Economics ,anxious,6.0
+884,Digital Media,anxious,5.0
+885,Medical Sciences,anxious,5.0
+886,Communication,anxious,7.0
+888,missing,anxious,7.0
+893,missing,anxious,2.0
+896,fine arts,anxious,6.0
+897,physics,anxious,3.0
+898,psychology,anxious,3.0
+899,Business Administration,anxious,6.0
+900,liberal arts,anxious,6.0
+904,education,anxious,4.0
+909,missing,anxious,5.0
+910,missing,anxious,5.0
+912,Molecular Biology,anxious,2.0
+915,accounting,anxious,7.0
+916,missing,anxious,6.0
+917,missing,anxious,4.0
+921,missing,anxious,6.0
+924,missing,anxious,5.0
+925,Anthropology,anxious,6.0
+931,Information Technolpgy,anxious,3.0
+932,missing,anxious,6.0
+934,missing,anxious,5.0
+936,missing,anxious,3.0
+937,Law,anxious,7.0
+939,Biotechnology,anxious,7.0
+940,missing,anxious,7.0
+942,computers,anxious,6.0
+943,missing,anxious,1.0
+944,Psychology ,anxious,1.0
+945,English,anxious,5.0
+948,Computer Science,anxious,3.0
+951,missing,anxious,2.0
+955,missing,anxious,7.0
+956,missing,anxious,7.0
+957,Computer science,anxious,6.0
+959,missing,anxious,4.0
+960,Mathematics,anxious,4.0
+961,missing,anxious,6.0
+962,Music,anxious,5.0
+966,missing,anxious,6.0
+968,zoology,anxious,3.0
+971,neurology,anxious,5.0
+972,missing,anxious,6.0
+974,psychology,anxious,1.0
+975,Psychologia,anxious,3.0
+976,Medicine,anxious,1.0
+977,missing,anxious,6.0
+980,Math,anxious,4.0
+982,missing,anxious,6.0
+984,missing,anxious,4.0
+985,missing,anxious,6.0
+990,missing,anxious,2.0
+993,Astronomy,anxious,0.0
+995,Linguistics,anxious,5.0
+996,missing,anxious,5.0
+998,Psychology,anxious,5.0
+1000,missing,anxious,6.0
+1003,missing,anxious,0.0
+1004,Science of speech and hearing,anxious,3.0
+1005,missing,anxious,6.0
+1006,missing,anxious,5.0
+1008,missing,anxious,5.0
+1009,History,anxious,1.0
+1010,Anthropology,anxious,5.0
+1013,missing,anxious,2.0
+1016,Information security,anxious,1.0
+1020,missing,anxious,2.0
+1021,missing,anxious,2.0
+1022,sociology,anxious,5.0
+1024,Biochemistry ,anxious,4.0
+1025,missing,anxious,5.0
+1026,Psychology,anxious,5.0
+1027,Food Technology,anxious,6.0
+1029,Computational Linguistics,anxious,1.0
+1030,medical science,anxious,5.0
+1032,missing,anxious,5.0
+1033,missing,anxious,6.0
+1034,missing,anxious,2.0
+1035,Computer science,anxious,1.0
+1036,Psychology,anxious,6.0
+1040,Biology,anxious,7.0
+1045,Music,anxious,5.0
+1046,missing,anxious,7.0
+1047,missing,anxious,2.0
+1048,missing,anxious,1.0
+1050,Architecture ,anxious,5.0
+1052,missing,anxious,7.0
+1054,veterinary medicine,anxious,2.0
+1055,psychology,anxious,3.0
+1056,arts,anxious,7.0
+1060,missing,anxious,6.0
+1061,missing,anxious,5.0
+1062,Psychology,anxious,6.0
+1063,Dietetics,anxious,3.0
+1064,missing,anxious,7.0
+1065,music,anxious,7.0
+1066,missing,anxious,7.0
+1067,Arts,anxious,2.0
+1068,English,anxious,6.0
+1072,Music,anxious,4.0
+1074,Psychology,anxious,4.0
+1077,Electrical engineering,anxious,2.0
+1078,History ,anxious,7.0
+1079,Communications,anxious,7.0
+1080,Computer Science ,anxious,4.0
+1081,business administration,anxious,5.0
+1082,missing,anxious,2.0
+1083,psychology,anxious,5.0
+1086,missing,anxious,3.0
+1087,art +ACY- psychology,anxious,3.0
+1088,missing,anxious,7.0
+1089,missing,anxious,5.0
+1091,missing,anxious,7.0
+1092,missing,anxious,5.0
+1093,Film,anxious,5.0
+1096,psychology,anxious,5.0
+1097,art history,anxious,6.0
+1098,computer science,anxious,7.0
+1099,fine arts,anxious,7.0
+1101,psychology,anxious,5.0
+1104,missing,anxious,7.0
+1106,Psychology,anxious,1.0
+1107,English,anxious,1.0
+1108,Management,anxious,3.0
+1110,history,anxious,7.0
+1111,Economics,anxious,2.0
+1112,business,anxious,2.0
+1116,missing,anxious,5.0
+1117,Economics,anxious,2.0
+1119,library and information sciences,anxious,4.0
+1121,missing,anxious,1.0
+1124,missing,anxious,6.0
+1125,music+ADs- theology,anxious,5.0
+1127,Geology,anxious,6.0
+1128,neuroscience,anxious,6.0
+1129,math,anxious,1.0
+1130,missing,anxious,4.0
+1132,missing,anxious,2.0
+1133,Art,anxious,5.0
+1135,English/philosophy/law,anxious,6.0
+1136,missing,anxious,7.0
+1137,Anthropology,anxious,5.0
+1138,missing,anxious,5.0
+1140,Math,anxious,3.0
+1141,Computer Engineering,anxious,2.0
+1143,Economics and History (double major),anxious,1.0
+1149,psychology,anxious,6.0
+1150,Computer Sciences,anxious,3.0
+1156,Biology,anxious,5.0
+1157,nursing,anxious,5.0
+1160,missing,anxious,6.0
+1162,Biology,anxious,5.0
+1163,Physics,anxious,6.0
+1164,geography,anxious,5.0
+1165,Political Science,anxious,1.0
+1166,missing,anxious,5.0
+1168,missing,anxious,7.0
+1170,Sociology,anxious,2.0
+1171,Political Science,anxious,5.0
+1173,missing,anxious,7.0
+1175,chemistry,anxious,6.0
+1176,Electrical Engineering,anxious,2.0
+1177,communications,anxious,4.0
+1180,missing,anxious,3.0
+1183,missing,anxious,3.0
+1185,Physics,anxious,5.0
+1186,English/History,anxious,4.0
+1187,English,anxious,6.0
+1189,Philosophy,anxious,2.0
+1190,mba,anxious,5.0
+1195,Music,anxious,2.0
+1196,Computer Science,anxious,3.0
+1198,Physics,anxious,3.0
+1200,missing,anxious,4.0
+1202,missing,anxious,6.0
+1203,civil engineering/history,anxious,3.0
+1205,mechanical engineering,anxious,2.0
+1210,History,anxious,7.0
+1213,psychology,anxious,1.0
+1214,biology,anxious,5.0
+1215,mechanical engineering,anxious,6.0
+1217,Econ,anxious,3.0
+1218,Biology,anxious,4.0
+1221,Italian,anxious,5.0
+1225,Sociology,anxious,1.0
+1228,missing,anxious,2.0
+1229,english,anxious,5.0
+1230,missing,anxious,3.0
+1232,missing,anxious,3.0
+1235,Physics,anxious,3.0
+1236,physics,anxious,5.0
+1239,Biochemistry,anxious,1.0
+1242,International Relations,anxious,5.0
+1243,Nursing,anxious,2.0
+1245,Economics,anxious,2.0
+1248,Philosophy,anxious,6.0
+1250,Engineering,anxious,2.0
+1253,General Science/Philosophy,anxious,2.0
+1254,Geology,anxious,1.0
+1255,Aerospace Engineering,anxious,3.0
+1261,Math and computer science,anxious,6.0
+1263,Medicin,anxious,4.0
+1264,Naval engineering ,anxious,3.0
+1265,Police Foindations,anxious,5.0
+1266,English,anxious,6.0
+1269,missing,anxious,5.0
+1270,Psychology,anxious,7.0
+1271,Economics,anxious,5.0
+1273,Economics,anxious,3.0
+1274,English ,anxious,5.0
+1275,Psychology,anxious,6.0
+1278,Physical therapy,anxious,5.0
+1279,Chemical Engineering,anxious,6.0
+1284,biology,anxious,2.0
+1285,missing,anxious,3.0
+1290,missing,anxious,7.0
+1291,computer science,anxious,6.0
+1299,missing,anxious,5.0
+1302,Psychology,anxious,6.0
+1303,missing,anxious,5.0
+1304,Biology,anxious,5.0
+1306,pyschology,anxious,5.0
+1311,rhetoric,anxious,2.0
+1312,Fine art sculpture,anxious,1.0
+1313,Economics +ACY- Psychology,anxious,2.0
+1314,Statistics,anxious,1.0
+1319,Computer Science,anxious,4.0
+1320,biology,anxious,2.0
+1321,Theatre,anxious,5.0
+1323,Psychology ,anxious,6.0
+1325,education,anxious,2.0
+1327,missing,anxious,4.0
+1333,missing,anxious,1.0
+1334,History,anxious,2.0
+1335,mechanical engineering,anxious,2.0
+1338,Psychology,anxious,5.0
+1339,aerospace engineering ,anxious,6.0
+1341,missing,anxious,5.0
+1344,missing,anxious,6.0
+1350,Architecture,anxious,4.0
+1353,Mechatronics Engineering,anxious,2.0
+1354,electrical engineering,anxious,1.0
+1356,Psychology,anxious,7.0
+1357,+ACI-+ACIAIg-hotel and restaurant management+ACIAIg-+ACI-,anxious,2.0
+1358,business,anxious,2.0
+1359,Economy and maths,anxious,2.0
+1360,Computer Science,anxious,4.0
+1361,communications,anxious,5.0
+1362,missing,anxious,5.0
+1363,English,anxious,2.0
+1364,Family Therapy,anxious,5.0
+1366,missing,anxious,3.0
+1368,English,anxious,2.0
+1370,Biochemistry,anxious,6.0
+1373,Biochemical Engineering,anxious,4.0
+1375,missing,anxious,6.0
+1378,Art Education,anxious,5.0
+1381,IT,anxious,1.0
+1383,missing,anxious,2.0
+1385,sociology,anxious,2.0
+1386,biomedical engineering,anxious,5.0
+1388,missing,anxious,2.0
+1389,Computer Science,anxious,5.0
+1390,Science,anxious,4.0
+1,biophysics,bookish,4.0
+2,biology,bookish,5.0
+5,Geology,bookish,3.0
+6,missing,bookish,4.0
+7,missing,bookish,3.0
+8,psychology,bookish,5.0
+9,missing,bookish,4.0
+10,missing,bookish,5.0
+14,information technology,bookish,1.0
+15,Digital Media,bookish,2.0
+19,missing,bookish,5.0
+22,chemical engineering,bookish,5.0
+26,missing,bookish,0.0
+27,Math,bookish,5.0
+29,missing,bookish,3.0
+36,missing,bookish,4.0
+38,Math,bookish,5.0
+39,missing,bookish,5.0
+42,missing,bookish,2.0
+44,missing,bookish,5.0
+45,none,bookish,5.0
+46,biochemistry,bookish,3.0
+47,Software Engineering,bookish,5.0
+48,missing,bookish,4.0
+49,Art,bookish,5.0
+50,missing,bookish,4.0
+53,history,bookish,3.0
+54,psychology,bookish,3.0
+55,Internet Computing,bookish,4.0
+56,engineering,bookish,4.0
+57,missing,bookish,3.0
+58,psychology,bookish,4.0
+61,missing,bookish,2.0
+62,missing,bookish,5.0
+65,missing,bookish,5.0
+66,Physics,bookish,2.0
+69,missing,bookish,3.0
+70,English,bookish,1.0
+71,Comp Sci and Math,bookish,5.0
+72,missing,bookish,3.0
+75,Chemistry,bookish,2.0
+76,missing,bookish,5.0
+77,German,bookish,3.0
+79,missing,bookish,4.0
+84,Computer Information Systens,bookish,4.0
+85,history,bookish,5.0
+89,missing,bookish,3.0
+91,Business,bookish,1.0
+93,Astrophysics,bookish,5.0
+95,Education,bookish,5.0
+96,Engineering,bookish,5.0
+97,missing,bookish,5.0
+98,Art,bookish,4.0
+103,missing,bookish,2.0
+104,missing,bookish,5.0
+105,missing,bookish,1.0
+107,missing,bookish,5.0
+108,missing,bookish,1.0
+110,missing,bookish,3.0
+114,missing,bookish,2.0
+115,art history and psychology,bookish,5.0
+118,missing,bookish,5.0
+119,mechanical engineering,bookish,1.0
+125,missing,bookish,5.0
+126,history,bookish,3.0
+128,Biology,bookish,4.0
+132,missing,bookish,3.0
+135,missing,bookish,2.0
+136,Psychology,bookish,5.0
+140,missing,bookish,4.0
+142,missing,bookish,5.0
+144,Chemistry,bookish,5.0
+148,history,bookish,5.0
+149,Chemistry,bookish,4.0
+152,missing,bookish,1.0
+153,Library science ,bookish,3.0
+154,Architecture,bookish,5.0
+155,missing,bookish,1.0
+156,missing,bookish,3.0
+157,Computing,bookish,5.0
+159,Occupational Therapy,bookish,4.0
+161,Engineering,bookish,3.0
+163,architecture,bookish,2.0
+164,Early Childhood Education,bookish,5.0
+166,processing animal products ( food technology ,bookish,5.0
+167,Statistics,bookish,2.0
+168,English,bookish,5.0
+169,Physical Education,bookish,3.0
+172,general education ,bookish,2.0
+175,Computer Science,bookish,5.0
+180,missing,bookish,5.0
+182,missing,bookish,5.0
+183,Commerce,bookish,3.0
+188,missing,bookish,5.0
+190,Social work,bookish,4.0
+193,Mechanical and electrical engineering,bookish,3.0
+194,music directors,bookish,1.0
+202,IT,bookish,3.0
+203,missing,bookish,5.0
+204,History,bookish,1.0
+205,missing,bookish,3.0
+206,Psychology,bookish,2.0
+207,missing,bookish,5.0
+209,missing,bookish,4.0
+211,chemistry engineering,bookish,1.0
+212,missing,bookish,5.0
+213,missing,bookish,1.0
+215,missing,bookish,1.0
+216,missing,bookish,5.0
+219,agri+AC0-business management,bookish,3.0
+220,missing,bookish,5.0
+222,missing,bookish,3.0
+223,computer science,bookish,5.0
+224,Law,bookish,3.0
+229,medical transcription,bookish,5.0
+230,missing,bookish,4.0
+231,missing,bookish,1.0
+237,missing,bookish,5.0
+239,missing,bookish,3.0
+240,Computer Science,bookish,3.0
+241,Agricultural Economics,bookish,2.0
+243,Languages,bookish,3.0
+244,missing,bookish,3.0
+247,psychology,bookish,4.0
+248,economics,bookish,5.0
+253,Linguistics,bookish,3.0
+256,missing,bookish,5.0
+257,missing,bookish,2.0
+262,Chemistry ,bookish,3.0
+263,missing,bookish,3.0
+264,Criminal Justice,bookish,4.0
+266,missing,bookish,5.0
+267,Mathematics,bookish,2.0
+268,missing,bookish,5.0
+269,nursing,bookish,5.0
+275,Medical,bookish,5.0
+276,art,bookish,4.0
+277,Art,bookish,3.0
+279,missing,bookish,5.0
+280,paraspsychology,bookish,3.0
+281,Engineering,bookish,5.0
+283,Health Science,bookish,5.0
+285,missing,bookish,5.0
+286,missing,bookish,1.0
+289,Civil engineering,bookish,1.0
+290,Nursing,bookish,3.0
+292,Electronic Engineering +ACY- Physics,bookish,3.0
+293,missing,bookish,5.0
+294,Physics,bookish,1.0
+295,Computer Science,bookish,5.0
+299,missing,bookish,3.0
+300,missing,bookish,4.0
+302,Orthopedagogiek ,bookish,5.0
+303,philosophy,bookish,4.0
+304,anthropology,bookish,5.0
+305,missing,bookish,3.0
+307,Photography,bookish,4.0
+309,missing,bookish,5.0
+310,missing,bookish,1.0
+311,missing,bookish,1.0
+320,Psychology,bookish,4.0
+322,Business Management,bookish,5.0
+324,biology,bookish,3.0
+328,missing,bookish,5.0
+329,Economics,bookish,3.0
+330,biochemistry,bookish,4.0
+332,missing,bookish,1.0
+334,Philosophy,bookish,2.0
+335,Computers ,bookish,5.0
+336,physics,bookish,3.0
+337,missing,bookish,4.0
+338,missing,bookish,4.0
+339,Electrical Engineeirng,bookish,2.0
+341,Computer science,bookish,2.0
+343,Computer Science,bookish,5.0
+345,Healthcare ,bookish,4.0
+347,Information tech,bookish,4.0
+349,missing,bookish,5.0
+353,Elementary Education,bookish,3.0
+356,missing,bookish,5.0
+361,missing,bookish,4.0
+362,Tourism management,bookish,4.0
+363,missing,bookish,4.0
+365,Natural Sciences,bookish,5.0
+367,Industrial Engineering and Education,bookish,3.0
+368,missing,bookish,5.0
+370,Business,bookish,1.0
+371,psychology,bookish,5.0
+377,Creative writing,bookish,5.0
+378,missing,bookish,4.0
+381,missing,bookish,5.0
+383,missing,bookish,5.0
+387,Science,bookish,4.0
+388,Nursing,bookish,4.0
+391,cognitive science,bookish,3.0
+392,missing,bookish,5.0
+395,Classics,bookish,4.0
+396,sociology,bookish,5.0
+403,missing,bookish,4.0
+411,neuroscience,bookish,4.0
+415,Linguistics,bookish,5.0
+416,missing,bookish,2.0
+419,missing,bookish,1.0
+422,general,bookish,3.0
+424,Business,bookish,1.0
+425,missing,bookish,5.0
+426,Communications,bookish,3.0
+427,engineering,bookish,2.0
+428,missing,bookish,3.0
+433,missing,bookish,5.0
+434,missing,bookish,3.0
+437,missing,bookish,5.0
+438,missing,bookish,5.0
+440,missing,bookish,3.0
+441,missing,bookish,2.0
+442,missing,bookish,2.0
+444,Music,bookish,5.0
+445,Aerospace Engineer ,bookish,2.0
+449,english,bookish,3.0
+451,missing,bookish,1.0
+452,Business,bookish,5.0
+453,missing,bookish,4.0
+455,geology,bookish,5.0
+457,missing,bookish,1.0
+458,Economics,bookish,3.0
+459,Biomedical,bookish,5.0
+460,Geography and Politics,bookish,1.0
+462,psychology,bookish,4.0
+464,political science,bookish,5.0
+466,missing,bookish,5.0
+467,missing,bookish,2.0
+468,missing,bookish,3.0
+469,missing,bookish,4.0
+470,Political science,bookish,2.0
+471,Communication,bookish,4.0
+476,computer sciences,bookish,5.0
+477,physiology,bookish,4.0
+478,missing,bookish,5.0
+480,missing,bookish,3.0
+481,missing,bookish,4.0
+482,industrial engineering,bookish,1.0
+486,missing,bookish,4.0
+488,missing,bookish,3.0
+489,missing,bookish,3.0
+492,missing,bookish,5.0
+493,Chemical Engineering,bookish,5.0
+495,missing,bookish,3.0
+498,PACS,bookish,1.0
+500,English,bookish,4.0
+501,English,bookish,4.0
+505,comparative literature,bookish,5.0
+510,Sports +ACY- Exercise Science,bookish,3.0
+513,Psychology,bookish,5.0
+515,missing,bookish,5.0
+516,missing,bookish,2.0
+518,missing,bookish,5.0
+520,religion,bookish,5.0
+521,business,bookish,3.0
+524,missing,bookish,3.0
+527,missing,bookish,5.0
+529,missing,bookish,5.0
+530,Nursing,bookish,2.0
+531,Currently business,bookish,3.0
+533,missing,bookish,4.0
+534,missing,bookish,3.0
+535,missing,bookish,1.0
+536,missing,bookish,4.0
+537,Electronic Media / Film,bookish,5.0
+538,medicine,bookish,3.0
+540,Biology ,bookish,1.0
+541,Theatre,bookish,5.0
+542,missing,bookish,5.0
+543,English,bookish,2.0
+545,missing,bookish,5.0
+546,Psychology,bookish,1.0
+547,psychology,bookish,4.0
+551,Journalism,bookish,3.0
+552,psychiatry ,bookish,3.0
+555,missing,bookish,5.0
+558,Art history,bookish,4.0
+559,It will be engineering,bookish,4.0
+561,missing,bookish,5.0
+562,missing,bookish,4.0
+564,Managerial Economics,bookish,4.0
+566,missing,bookish,2.0
+567,missing,bookish,4.0
+569,English and psychology,bookish,4.0
+570,missing,bookish,5.0
+572,psychology,bookish,5.0
+575,Politics,bookish,1.0
+576,missing,bookish,5.0
+578,missing,bookish,2.0
+580,Physics,bookish,1.0
+583,missing,bookish,3.0
+584,Biology/Chemistry,bookish,4.0
+585,Human resources,bookish,4.0
+586,Political Science,bookish,5.0
+587,computer repair,bookish,2.0
+588,missing,bookish,4.0
+589,missing,bookish,4.0
+590,missing,bookish,5.0
+591,Psychology,bookish,2.0
+592,Computer Engineering,bookish,1.0
+593,Biology,bookish,4.0
+594,missing,bookish,4.0
+595,missing,bookish,5.0
+596,missing,bookish,5.0
+597,missing,bookish,3.0
+598,psychology,bookish,5.0
+601,Graphics Engineering,bookish,4.0
+602,Political Science,bookish,5.0
+603,Computers,bookish,4.0
+604,missing,bookish,3.0
+605, None yet,bookish,3.0
+614,psychology,bookish,4.0
+616,missing,bookish,4.0
+618,Mathematics,bookish,4.0
+619,Civil Engineering ,bookish,5.0
+622,social work,bookish,2.0
+624,political science,bookish,5.0
+627,Architecture,bookish,4.0
+629,missing,bookish,2.0
+635,mathmatics,bookish,4.0
+636,missing,bookish,3.0
+637,Psychology,bookish,1.0
+638,missing,bookish,1.0
+639,missing,bookish,3.0
+640,Biology ,bookish,3.0
+641,Double major: Computer Science +ACY- Studio Art,bookish,3.0
+644,molecular/cell bio +ACY- Arabic (dble mjr),bookish,2.0
+646,missing,bookish,4.0
+649,Electrical Engineering,bookish,5.0
+650,missing,bookish,5.0
+651,missing,bookish,5.0
+652,linguistics,bookish,5.0
+656,Arts,bookish,3.0
+658,Art,bookish,5.0
+661,missing,bookish,3.0
+665,missing,bookish,3.0
+666,Digital Media,bookish,5.0
+671,Anthropology ,bookish,4.0
+674,Civil Engineering,bookish,1.0
+675,science,bookish,5.0
+676,missing,bookish,4.0
+677,missing,bookish,4.0
+678,missing,bookish,1.0
+680,missing,bookish,5.0
+686,English,bookish,3.0
+687,Psychology,bookish,5.0
+689,Education,bookish,5.0
+691,Business Economics,bookish,3.0
+693,Liberal Arts,bookish,3.0
+696,Psychology,bookish,5.0
+697,hospitality,bookish,3.0
+700,Art,bookish,5.0
+703,Sport Science,bookish,3.0
+704,Human Services,bookish,4.0
+706,missing,bookish,3.0
+707,missing,bookish,4.0
+708,History,bookish,3.0
+710,missing,bookish,5.0
+711,English,bookish,1.0
+712,Psychology,bookish,3.0
+714,Film,bookish,2.0
+722,missing,bookish,3.0
+723,missing,bookish,4.0
+724,missing,bookish,5.0
+730,Psychology,bookish,3.0
+732,Phiolosophy,bookish,5.0
+735,missing,bookish,5.0
+736,missing,bookish,1.0
+740,missing,bookish,5.0
+742,English,bookish,3.0
+743,missing,bookish,2.0
+746,Environmental Engineering,bookish,4.0
+747,psychology,bookish,5.0
+752,missing,bookish,1.0
+753,missing,bookish,3.0
+754,English ,bookish,3.0
+758,Music,bookish,3.0
+759,Music,bookish,4.0
+760,missing,bookish,1.0
+763,Psychology,bookish,1.0
+765,missing,bookish,3.0
+770,missing,bookish,2.0
+773,laboratory studies,bookish,3.0
+774,missing,bookish,4.0
+777,missing,bookish,5.0
+781,missing,bookish,2.0
+787,missing,bookish,2.0
+790,Psychology,bookish,5.0
+791,missing,bookish,5.0
+793,missing,bookish,4.0
+794,Music,bookish,1.0
+796,chemical engineering,bookish,4.0
+800,missing,bookish,4.0
+802,Drama,bookish,3.0
+803,Information Technology,bookish,4.0
+805,missing,bookish,4.0
+806,missing,bookish,5.0
+808,Political Science,bookish,2.0
+809,missing,bookish,4.0
+811,civil engineering,bookish,5.0
+812,missing,bookish,1.0
+814,Physiology,bookish,4.0
+816,Chemistry,bookish,3.0
+817,education,bookish,5.0
+821,missing,bookish,5.0
+823,missing,bookish,4.0
+826,missing,bookish,5.0
+830,missing,bookish,5.0
+835,missing,bookish,5.0
+836,missing,bookish,5.0
+837,missing,bookish,5.0
+838,psychology +AC0- engineering,bookish,1.0
+840,Computer Science,bookish,4.0
+842,Physics,bookish,2.0
+844,English,bookish,3.0
+846,missing,bookish,3.0
+849,Biology,bookish,2.0
+852,Education,bookish,5.0
+857,Medicine,bookish,5.0
+858,Psychology,bookish,3.0
+859,psychology crimminology,bookish,5.0
+861,Psychology,bookish,4.0
+862,Nursing,bookish,5.0
+864,missing,bookish,3.0
+865,missing,bookish,3.0
+868,missing,bookish,3.0
+870,missing,bookish,2.0
+877,Psychology,bookish,5.0
+880,Language,bookish,5.0
+881,Zoology,bookish,3.0
+882,missing,bookish,5.0
+883,Economics ,bookish,1.0
+884,Digital Media,bookish,5.0
+885,Medical Sciences,bookish,3.0
+886,Communication,bookish,3.0
+888,missing,bookish,4.0
+893,missing,bookish,5.0
+896,fine arts,bookish,5.0
+897,physics,bookish,4.0
+898,psychology,bookish,5.0
+899,Business Administration,bookish,2.0
+900,liberal arts,bookish,5.0
+904,education,bookish,2.0
+909,missing,bookish,5.0
+910,missing,bookish,3.0
+912,Molecular Biology,bookish,4.0
+915,accounting,bookish,3.0
+916,missing,bookish,3.0
+917,missing,bookish,3.0
+921,missing,bookish,5.0
+924,missing,bookish,5.0
+925,Anthropology,bookish,4.0
+931,Information Technolpgy,bookish,5.0
+932,missing,bookish,2.0
+934,missing,bookish,5.0
+936,missing,bookish,1.0
+937,Law,bookish,5.0
+939,Biotechnology,bookish,1.0
+940,missing,bookish,5.0
+942,computers,bookish,2.0
+943,missing,bookish,5.0
+944,Psychology ,bookish,3.0
+945,English,bookish,5.0
+948,Computer Science,bookish,5.0
+951,missing,bookish,5.0
+955,missing,bookish,4.0
+956,missing,bookish,3.0
+957,Computer science,bookish,5.0
+959,missing,bookish,4.0
+960,Mathematics,bookish,5.0
+961,missing,bookish,4.0
+962,Music,bookish,4.0
+966,missing,bookish,5.0
+968,zoology,bookish,4.0
+971,neurology,bookish,5.0
+972,missing,bookish,4.0
+974,psychology,bookish,2.0
+975,Psychologia,bookish,3.0
+976,Medicine,bookish,5.0
+977,missing,bookish,4.0
+980,Math,bookish,3.0
+982,missing,bookish,4.0
+984,missing,bookish,1.0
+985,missing,bookish,4.0
+990,missing,bookish,5.0
+993,Astronomy,bookish,3.0
+995,Linguistics,bookish,3.0
+996,missing,bookish,4.0
+998,Psychology,bookish,4.0
+1000,missing,bookish,5.0
+1003,missing,bookish,2.0
+1004,Science of speech and hearing,bookish,2.0
+1005,missing,bookish,5.0
+1006,missing,bookish,3.0
+1008,missing,bookish,5.0
+1009,History,bookish,3.0
+1010,Anthropology,bookish,3.0
+1013,missing,bookish,1.0
+1016,Information security,bookish,1.0
+1020,missing,bookish,2.0
+1021,missing,bookish,4.0
+1022,sociology,bookish,4.0
+1024,Biochemistry ,bookish,5.0
+1025,missing,bookish,3.0
+1026,Psychology,bookish,5.0
+1027,Food Technology,bookish,3.0
+1029,Computational Linguistics,bookish,3.0
+1030,medical science,bookish,4.0
+1032,missing,bookish,5.0
+1033,missing,bookish,5.0
+1034,missing,bookish,3.0
+1035,Computer science,bookish,5.0
+1036,Psychology,bookish,5.0
+1040,Biology,bookish,3.0
+1045,Music,bookish,5.0
+1046,missing,bookish,5.0
+1047,missing,bookish,5.0
+1048,missing,bookish,1.0
+1050,Architecture ,bookish,1.0
+1052,missing,bookish,4.0
+1054,veterinary medicine,bookish,5.0
+1055,psychology,bookish,4.0
+1056,arts,bookish,3.0
+1060,missing,bookish,3.0
+1061,missing,bookish,4.0
+1062,Psychology,bookish,5.0
+1063,Dietetics,bookish,5.0
+1064,missing,bookish,5.0
+1065,music,bookish,3.0
+1066,missing,bookish,3.0
+1067,Arts,bookish,1.0
+1068,English,bookish,5.0
+1072,Music,bookish,3.0
+1074,Psychology,bookish,4.0
+1077,Electrical engineering,bookish,5.0
+1078,History ,bookish,3.0
+1079,Communications,bookish,5.0
+1080,Computer Science ,bookish,5.0
+1081,business administration,bookish,5.0
+1082,missing,bookish,5.0
+1083,psychology,bookish,2.0
+1086,missing,bookish,5.0
+1087,art +ACY- psychology,bookish,3.0
+1088,missing,bookish,4.0
+1089,missing,bookish,4.0
+1091,missing,bookish,4.0
+1092,missing,bookish,1.0
+1093,Film,bookish,3.0
+1096,psychology,bookish,3.0
+1097,art history,bookish,5.0
+1098,computer science,bookish,5.0
+1099,fine arts,bookish,5.0
+1101,psychology,bookish,2.0
+1104,missing,bookish,5.0
+1106,Psychology,bookish,1.0
+1107,English,bookish,2.0
+1108,Management,bookish,4.0
+1110,history,bookish,5.0
+1111,Economics,bookish,4.0
+1112,business,bookish,4.0
+1116,missing,bookish,3.0
+1117,Economics,bookish,1.0
+1119,library and information sciences,bookish,2.0
+1121,missing,bookish,2.0
+1124,missing,bookish,4.0
+1125,music+ADs- theology,bookish,5.0
+1127,Geology,bookish,5.0
+1128,neuroscience,bookish,5.0
+1129,math,bookish,3.0
+1130,missing,bookish,2.0
+1132,missing,bookish,3.0
+1133,Art,bookish,4.0
+1135,English/philosophy/law,bookish,5.0
+1136,missing,bookish,5.0
+1137,Anthropology,bookish,4.0
+1138,missing,bookish,3.0
+1140,Math,bookish,4.0
+1141,Computer Engineering,bookish,4.0
+1143,Economics and History (double major),bookish,5.0
+1149,psychology,bookish,4.0
+1150,Computer Sciences,bookish,3.0
+1156,Biology,bookish,4.0
+1157,nursing,bookish,4.0
+1160,missing,bookish,1.0
+1162,Biology,bookish,5.0
+1163,Physics,bookish,2.0
+1164,geography,bookish,3.0
+1165,Political Science,bookish,4.0
+1166,missing,bookish,1.0
+1168,missing,bookish,5.0
+1170,Sociology,bookish,3.0
+1171,Political Science,bookish,4.0
+1173,missing,bookish,5.0
+1175,chemistry,bookish,3.0
+1176,Electrical Engineering,bookish,3.0
+1177,communications,bookish,4.0
+1180,missing,bookish,4.0
+1183,missing,bookish,3.0
+1185,Physics,bookish,1.0
+1186,English/History,bookish,5.0
+1187,English,bookish,5.0
+1189,Philosophy,bookish,4.0
+1190,mba,bookish,5.0
+1195,Music,bookish,5.0
+1196,Computer Science,bookish,5.0
+1198,Physics,bookish,2.0
+1200,missing,bookish,5.0
+1202,missing,bookish,4.0
+1203,civil engineering/history,bookish,4.0
+1205,mechanical engineering,bookish,3.0
+1210,History,bookish,4.0
+1213,psychology,bookish,5.0
+1214,biology,bookish,5.0
+1215,mechanical engineering,bookish,3.0
+1217,Econ,bookish,2.0
+1218,Biology,bookish,2.0
+1221,Italian,bookish,5.0
+1225,Sociology,bookish,2.0
+1228,missing,bookish,3.0
+1229,english,bookish,1.0
+1230,missing,bookish,2.0
+1232,missing,bookish,2.0
+1235,Physics,bookish,3.0
+1236,physics,bookish,3.0
+1239,Biochemistry,bookish,3.0
+1242,International Relations,bookish,3.0
+1243,Nursing,bookish,5.0
+1245,Economics,bookish,5.0
+1248,Philosophy,bookish,4.0
+1250,Engineering,bookish,4.0
+1253,General Science/Philosophy,bookish,5.0
+1254,Geology,bookish,5.0
+1255,Aerospace Engineering,bookish,4.0
+1261,Math and computer science,bookish,3.0
+1263,Medicin,bookish,1.0
+1264,Naval engineering ,bookish,3.0
+1265,Police Foindations,bookish,3.0
+1266,English,bookish,3.0
+1269,missing,bookish,3.0
+1270,Psychology,bookish,3.0
+1271,Economics,bookish,5.0
+1273,Economics,bookish,5.0
+1274,English ,bookish,5.0
+1275,Psychology,bookish,2.0
+1278,Physical therapy,bookish,5.0
+1279,Chemical Engineering,bookish,3.0
+1284,biology,bookish,3.0
+1285,missing,bookish,5.0
+1290,missing,bookish,4.0
+1291,computer science,bookish,4.0
+1299,missing,bookish,4.0
+1302,Psychology,bookish,5.0
+1303,missing,bookish,5.0
+1304,Biology,bookish,3.0
+1306,pyschology,bookish,5.0
+1311,rhetoric,bookish,4.0
+1312,Fine art sculpture,bookish,5.0
+1313,Economics +ACY- Psychology,bookish,1.0
+1314,Statistics,bookish,3.0
+1319,Computer Science,bookish,4.0
+1320,biology,bookish,2.0
+1321,Theatre,bookish,3.0
+1323,Psychology ,bookish,2.0
+1325,education,bookish,4.0
+1327,missing,bookish,2.0
+1333,missing,bookish,1.0
+1334,History,bookish,5.0
+1335,mechanical engineering,bookish,4.0
+1338,Psychology,bookish,5.0
+1339,aerospace engineering ,bookish,1.0
+1341,missing,bookish,4.0
+1344,missing,bookish,5.0
+1350,Architecture,bookish,3.0
+1353,Mechatronics Engineering,bookish,3.0
+1354,electrical engineering,bookish,3.0
+1356,Psychology,bookish,5.0
+1357,+ACI-+ACIAIg-hotel and restaurant management+ACIAIg-+ACI-,bookish,2.0
+1358,business,bookish,3.0
+1359,Economy and maths,bookish,3.0
+1360,Computer Science,bookish,3.0
+1361,communications,bookish,3.0
+1362,missing,bookish,4.0
+1363,English,bookish,3.0
+1364,Family Therapy,bookish,4.0
+1366,missing,bookish,3.0
+1368,English,bookish,4.0
+1370,Biochemistry,bookish,3.0
+1373,Biochemical Engineering,bookish,3.0
+1375,missing,bookish,3.0
+1378,Art Education,bookish,4.0
+1381,IT,bookish,4.0
+1383,missing,bookish,4.0
+1385,sociology,bookish,5.0
+1386,biomedical engineering,bookish,2.0
+1388,missing,bookish,1.0
+1389,Computer Science,bookish,4.0
+1390,Science,bookish,1.0
+1,biophysics,calm,6.0
+2,biology,calm,2.0
+5,Geology,calm,4.0
+6,missing,calm,6.0
+7,missing,calm,1.0
+8,psychology,calm,3.0
+9,missing,calm,5.0
+10,missing,calm,1.0
+14,information technology,calm,6.0
+15,Digital Media,calm,5.0
+19,missing,calm,3.0
+22,chemical engineering,calm,7.0
+26,missing,calm,1.0
+27,Math,calm,6.0
+29,missing,calm,4.0
+36,missing,calm,7.0
+38,Math,calm,3.0
+39,missing,calm,2.0
+42,missing,calm,7.0
+44,missing,calm,1.0
+45,none,calm,2.0
+46,biochemistry,calm,5.0
+47,Software Engineering,calm,4.0
+48,missing,calm,1.0
+49,Art,calm,5.0
+50,missing,calm,3.0
+53,history,calm,6.0
+54,psychology,calm,6.0
+55,Internet Computing,calm,2.0
+56,engineering,calm,6.0
+57,missing,calm,6.0
+58,psychology,calm,6.0
+61,missing,calm,1.0
+62,missing,calm,4.0
+65,missing,calm,5.0
+66,Physics,calm,6.0
+69,missing,calm,2.0
+70,English,calm,5.0
+71,Comp Sci and Math,calm,7.0
+72,missing,calm,5.0
+75,Chemistry,calm,6.0
+76,missing,calm,0.0
+77,German,calm,2.0
+79,missing,calm,6.0
+84,Computer Information Systens,calm,6.0
+85,history,calm,5.0
+89,missing,calm,5.0
+91,Business,calm,5.0
+93,Astrophysics,calm,7.0
+95,Education,calm,7.0
+96,Engineering,calm,5.0
+97,missing,calm,2.0
+98,Art,calm,6.0
+103,missing,calm,2.0
+104,missing,calm,3.0
+105,missing,calm,4.0
+107,missing,calm,3.0
+108,missing,calm,1.0
+110,missing,calm,6.0
+114,missing,calm,6.0
+115,art history and psychology,calm,2.0
+118,missing,calm,2.0
+119,mechanical engineering,calm,4.0
+125,missing,calm,1.0
+126,history,calm,6.0
+128,Biology,calm,7.0
+132,missing,calm,5.0
+135,missing,calm,2.0
+136,Psychology,calm,7.0
+140,missing,calm,5.0
+142,missing,calm,3.0
+144,Chemistry,calm,6.0
+148,history,calm,6.0
+149,Chemistry,calm,4.0
+152,missing,calm,1.0
+153,Library science ,calm,3.0
+154,Architecture,calm,7.0
+155,missing,calm,3.0
+156,missing,calm,3.0
+157,Computing,calm,5.0
+159,Occupational Therapy,calm,7.0
+161,Engineering,calm,1.0
+163,architecture,calm,3.0
+164,Early Childhood Education,calm,3.0
+166,processing animal products ( food technology ,calm,1.0
+167,Statistics,calm,3.0
+168,English,calm,3.0
+169,Physical Education,calm,7.0
+172,general education ,calm,5.0
+175,Computer Science,calm,7.0
+180,missing,calm,4.0
+182,missing,calm,4.0
+183,Commerce,calm,7.0
+188,missing,calm,1.0
+190,Social work,calm,3.0
+193,Mechanical and electrical engineering,calm,6.0
+194,music directors,calm,7.0
+202,IT,calm,4.0
+203,missing,calm,5.0
+204,History,calm,6.0
+205,missing,calm,6.0
+206,Psychology,calm,3.0
+207,missing,calm,5.0
+209,missing,calm,3.0
+211,chemistry engineering,calm,3.0
+212,missing,calm,7.0
+213,missing,calm,7.0
+215,missing,calm,5.0
+216,missing,calm,7.0
+219,agri+AC0-business management,calm,6.0
+220,missing,calm,5.0
+222,missing,calm,7.0
+223,computer science,calm,3.0
+224,Law,calm,7.0
+229,medical transcription,calm,3.0
+230,missing,calm,4.0
+231,missing,calm,1.0
+237,missing,calm,2.0
+239,missing,calm,6.0
+240,Computer Science,calm,3.0
+241,Agricultural Economics,calm,6.0
+243,Languages,calm,4.0
+244,missing,calm,4.0
+247,psychology,calm,7.0
+248,economics,calm,7.0
+253,Linguistics,calm,6.0
+256,missing,calm,4.0
+257,missing,calm,1.0
+262,Chemistry ,calm,1.0
+263,missing,calm,4.0
+264,Criminal Justice,calm,7.0
+266,missing,calm,5.0
+267,Mathematics,calm,4.0
+268,missing,calm,1.0
+269,nursing,calm,3.0
+275,Medical,calm,3.0
+276,art,calm,4.0
+277,Art,calm,4.0
+279,missing,calm,5.0
+280,paraspsychology,calm,2.0
+281,Engineering,calm,7.0
+283,Health Science,calm,1.0
+285,missing,calm,6.0
+286,missing,calm,6.0
+289,Civil engineering,calm,7.0
+290,Nursing,calm,6.0
+292,Electronic Engineering +ACY- Physics,calm,4.0
+293,missing,calm,2.0
+294,Physics,calm,1.0
+295,Computer Science,calm,2.0
+299,missing,calm,6.0
+300,missing,calm,5.0
+302,Orthopedagogiek ,calm,6.0
+303,philosophy,calm,1.0
+304,anthropology,calm,3.0
+305,missing,calm,2.0
+307,Photography,calm,4.0
+309,missing,calm,1.0
+310,missing,calm,3.0
+311,missing,calm,2.0
+320,Psychology,calm,4.0
+322,Business Management,calm,3.0
+324,biology,calm,6.0
+328,missing,calm,6.0
+329,Economics,calm,6.0
+330,biochemistry,calm,2.0
+332,missing,calm,4.0
+334,Philosophy,calm,6.0
+335,Computers ,calm,5.0
+336,physics,calm,6.0
+337,missing,calm,6.0
+338,missing,calm,3.0
+339,Electrical Engineeirng,calm,6.0
+341,Computer science,calm,6.0
+343,Computer Science,calm,7.0
+345,Healthcare ,calm,2.0
+347,Information tech,calm,6.0
+349,missing,calm,3.0
+353,Elementary Education,calm,3.0
+356,missing,calm,7.0
+361,missing,calm,2.0
+362,Tourism management,calm,7.0
+363,missing,calm,2.0
+365,Natural Sciences,calm,5.0
+367,Industrial Engineering and Education,calm,6.0
+368,missing,calm,6.0
+370,Business,calm,7.0
+371,psychology,calm,7.0
+377,Creative writing,calm,5.0
+378,missing,calm,1.0
+381,missing,calm,5.0
+383,missing,calm,6.0
+387,Science,calm,3.0
+388,Nursing,calm,5.0
+391,cognitive science,calm,6.0
+392,missing,calm,5.0
+395,Classics,calm,4.0
+396,sociology,calm,3.0
+403,missing,calm,1.0
+411,neuroscience,calm,6.0
+415,Linguistics,calm,2.0
+416,missing,calm,5.0
+419,missing,calm,2.0
+422,general,calm,4.0
+424,Business,calm,2.0
+425,missing,calm,3.0
+426,Communications,calm,2.0
+427,engineering,calm,6.0
+428,missing,calm,3.0
+433,missing,calm,6.0
+434,missing,calm,5.0
+437,missing,calm,7.0
+438,missing,calm,4.0
+440,missing,calm,5.0
+441,missing,calm,6.0
+442,missing,calm,3.0
+444,Music,calm,3.0
+445,Aerospace Engineer ,calm,7.0
+449,english,calm,3.0
+451,missing,calm,7.0
+452,Business,calm,5.0
+453,missing,calm,3.0
+455,geology,calm,5.0
+457,missing,calm,3.0
+458,Economics,calm,3.0
+459,Biomedical,calm,3.0
+460,Geography and Politics,calm,6.0
+462,psychology,calm,2.0
+464,political science,calm,2.0
+466,missing,calm,2.0
+467,missing,calm,2.0
+468,missing,calm,4.0
+469,missing,calm,2.0
+470,Political science,calm,1.0
+471,Communication,calm,3.0
+476,computer sciences,calm,5.0
+477,physiology,calm,4.0
+478,missing,calm,4.0
+480,missing,calm,1.0
+481,missing,calm,2.0
+482,industrial engineering,calm,6.0
+486,missing,calm,1.0
+488,missing,calm,5.0
+489,missing,calm,3.0
+492,missing,calm,3.0
+493,Chemical Engineering,calm,7.0
+495,missing,calm,5.0
+498,PACS,calm,2.0
+500,English,calm,6.0
+501,English,calm,7.0
+505,comparative literature,calm,5.0
+510,Sports +ACY- Exercise Science,calm,6.0
+513,Psychology,calm,4.0
+515,missing,calm,1.0
+516,missing,calm,4.0
+518,missing,calm,3.0
+520,religion,calm,6.0
+521,business,calm,7.0
+524,missing,calm,1.0
+527,missing,calm,3.0
+529,missing,calm,5.0
+530,Nursing,calm,5.0
+531,Currently business,calm,5.0
+533,missing,calm,5.0
+534,missing,calm,2.0
+535,missing,calm,4.0
+536,missing,calm,6.0
+537,Electronic Media / Film,calm,6.0
+538,medicine,calm,6.0
+540,Biology ,calm,3.0
+541,Theatre,calm,1.0
+542,missing,calm,6.0
+543,English,calm,7.0
+545,missing,calm,5.0
+546,Psychology,calm,5.0
+547,psychology,calm,5.0
+551,Journalism,calm,7.0
+552,psychiatry ,calm,3.0
+555,missing,calm,2.0
+558,Art history,calm,1.0
+559,It will be engineering,calm,4.0
+561,missing,calm,2.0
+562,missing,calm,1.0
+564,Managerial Economics,calm,7.0
+566,missing,calm,5.0
+567,missing,calm,4.0
+569,English and psychology,calm,6.0
+570,missing,calm,5.0
+572,psychology,calm,4.0
+575,Politics,calm,2.0
+576,missing,calm,3.0
+578,missing,calm,6.0
+580,Physics,calm,4.0
+583,missing,calm,2.0
+584,Biology/Chemistry,calm,3.0
+585,Human resources,calm,2.0
+586,Political Science,calm,6.0
+587,computer repair,calm,3.0
+588,missing,calm,1.0
+589,missing,calm,6.0
+590,missing,calm,6.0
+591,Psychology,calm,3.0
+592,Computer Engineering,calm,3.0
+593,Biology,calm,3.0
+594,missing,calm,1.0
+595,missing,calm,2.0
+596,missing,calm,5.0
+597,missing,calm,1.0
+598,psychology,calm,5.0
+601,Graphics Engineering,calm,4.0
+602,Political Science,calm,7.0
+603,Computers,calm,3.0
+604,missing,calm,4.0
+605, None yet,calm,3.0
+614,psychology,calm,2.0
+616,missing,calm,3.0
+618,Mathematics,calm,3.0
+619,Civil Engineering ,calm,7.0
+622,social work,calm,7.0
+624,political science,calm,6.0
+627,Architecture,calm,6.0
+629,missing,calm,2.0
+635,mathmatics,calm,7.0
+636,missing,calm,1.0
+637,Psychology,calm,6.0
+638,missing,calm,6.0
+639,missing,calm,5.0
+640,Biology ,calm,2.0
+641,Double major: Computer Science +ACY- Studio Art,calm,6.0
+644,molecular/cell bio +ACY- Arabic (dble mjr),calm,5.0
+646,missing,calm,6.0
+649,Electrical Engineering,calm,5.0
+650,missing,calm,4.0
+651,missing,calm,1.0
+652,linguistics,calm,3.0
+656,Arts,calm,6.0
+658,Art,calm,7.0
+661,missing,calm,5.0
+665,missing,calm,4.0
+666,Digital Media,calm,3.0
+671,Anthropology ,calm,3.0
+674,Civil Engineering,calm,6.0
+675,science,calm,7.0
+676,missing,calm,7.0
+677,missing,calm,1.0
+678,missing,calm,1.0
+680,missing,calm,2.0
+686,English,calm,5.0
+687,Psychology,calm,6.0
+689,Education,calm,4.0
+691,Business Economics,calm,6.0
+693,Liberal Arts,calm,6.0
+696,Psychology,calm,7.0
+697,hospitality,calm,4.0
+700,Art,calm,6.0
+703,Sport Science,calm,6.0
+704,Human Services,calm,3.0
+706,missing,calm,2.0
+707,missing,calm,1.0
+708,History,calm,6.0
+710,missing,calm,6.0
+711,English,calm,5.0
+712,Psychology,calm,5.0
+714,Film,calm,7.0
+722,missing,calm,5.0
+723,missing,calm,5.0
+724,missing,calm,1.0
+730,Psychology,calm,7.0
+732,Phiolosophy,calm,5.0
+735,missing,calm,4.0
+736,missing,calm,3.0
+740,missing,calm,5.0
+742,English,calm,1.0
+743,missing,calm,2.0
+746,Environmental Engineering,calm,4.0
+747,psychology,calm,5.0
+752,missing,calm,5.0
+753,missing,calm,3.0
+754,English ,calm,4.0
+758,Music,calm,5.0
+759,Music,calm,6.0
+760,missing,calm,2.0
+763,Psychology,calm,3.0
+765,missing,calm,3.0
+770,missing,calm,6.0
+773,laboratory studies,calm,3.0
+774,missing,calm,3.0
+777,missing,calm,2.0
+781,missing,calm,2.0
+787,missing,calm,6.0
+790,Psychology,calm,4.0
+791,missing,calm,4.0
+793,missing,calm,6.0
+794,Music,calm,5.0
+796,chemical engineering,calm,5.0
+800,missing,calm,6.0
+802,Drama,calm,4.0
+803,Information Technology,calm,4.0
+805,missing,calm,3.0
+806,missing,calm,7.0
+808,Political Science,calm,7.0
+809,missing,calm,1.0
+811,civil engineering,calm,6.0
+812,missing,calm,5.0
+814,Physiology,calm,6.0
+816,Chemistry,calm,7.0
+817,education,calm,1.0
+821,missing,calm,3.0
+823,missing,calm,5.0
+826,missing,calm,2.0
+830,missing,calm,1.0
+835,missing,calm,6.0
+836,missing,calm,3.0
+837,missing,calm,4.0
+838,psychology +AC0- engineering,calm,2.0
+840,Computer Science,calm,4.0
+842,Physics,calm,5.0
+844,English,calm,5.0
+846,missing,calm,6.0
+849,Biology,calm,4.0
+852,Education,calm,4.0
+857,Medicine,calm,7.0
+858,Psychology,calm,5.0
+859,psychology crimminology,calm,7.0
+861,Psychology,calm,6.0
+862,Nursing,calm,6.0
+864,missing,calm,6.0
+865,missing,calm,3.0
+868,missing,calm,4.0
+870,missing,calm,4.0
+877,Psychology,calm,6.0
+880,Language,calm,6.0
+881,Zoology,calm,2.0
+882,missing,calm,2.0
+883,Economics ,calm,1.0
+884,Digital Media,calm,3.0
+885,Medical Sciences,calm,4.0
+886,Communication,calm,6.0
+888,missing,calm,6.0
+893,missing,calm,6.0
+896,fine arts,calm,4.0
+897,physics,calm,6.0
+898,psychology,calm,6.0
+899,Business Administration,calm,2.0
+900,liberal arts,calm,2.0
+904,education,calm,3.0
+909,missing,calm,5.0
+910,missing,calm,5.0
+912,Molecular Biology,calm,6.0
+915,accounting,calm,3.0
+916,missing,calm,7.0
+917,missing,calm,7.0
+921,missing,calm,1.0
+924,missing,calm,4.0
+925,Anthropology,calm,2.0
+931,Information Technolpgy,calm,2.0
+932,missing,calm,2.0
+934,missing,calm,5.0
+936,missing,calm,7.0
+937,Law,calm,6.0
+939,Biotechnology,calm,1.0
+940,missing,calm,1.0
+942,computers,calm,3.0
+943,missing,calm,4.0
+944,Psychology ,calm,7.0
+945,English,calm,5.0
+948,Computer Science,calm,3.0
+951,missing,calm,7.0
+955,missing,calm,1.0
+956,missing,calm,2.0
+957,Computer science,calm,5.0
+959,missing,calm,7.0
+960,Mathematics,calm,6.0
+961,missing,calm,4.0
+962,Music,calm,4.0
+966,missing,calm,2.0
+968,zoology,calm,5.0
+971,neurology,calm,7.0
+972,missing,calm,4.0
+974,psychology,calm,7.0
+975,Psychologia,calm,1.0
+976,Medicine,calm,3.0
+977,missing,calm,5.0
+980,Math,calm,6.0
+982,missing,calm,3.0
+984,missing,calm,7.0
+985,missing,calm,1.0
+990,missing,calm,6.0
+993,Astronomy,calm,0.0
+995,Linguistics,calm,4.0
+996,missing,calm,0.0
+998,Psychology,calm,3.0
+1000,missing,calm,6.0
+1003,missing,calm,0.0
+1004,Science of speech and hearing,calm,6.0
+1005,missing,calm,2.0
+1006,missing,calm,6.0
+1008,missing,calm,2.0
+1009,History,calm,7.0
+1010,Anthropology,calm,7.0
+1013,missing,calm,6.0
+1016,Information security,calm,6.0
+1020,missing,calm,7.0
+1021,missing,calm,5.0
+1022,sociology,calm,6.0
+1024,Biochemistry ,calm,3.0
+1025,missing,calm,6.0
+1026,Psychology,calm,4.0
+1027,Food Technology,calm,5.0
+1029,Computational Linguistics,calm,2.0
+1030,medical science,calm,5.0
+1032,missing,calm,3.0
+1033,missing,calm,1.0
+1034,missing,calm,3.0
+1035,Computer science,calm,7.0
+1036,Psychology,calm,5.0
+1040,Biology,calm,4.0
+1045,Music,calm,2.0
+1046,missing,calm,4.0
+1047,missing,calm,1.0
+1048,missing,calm,6.0
+1050,Architecture ,calm,5.0
+1052,missing,calm,5.0
+1054,veterinary medicine,calm,6.0
+1055,psychology,calm,3.0
+1056,arts,calm,1.0
+1060,missing,calm,3.0
+1061,missing,calm,5.0
+1062,Psychology,calm,3.0
+1063,Dietetics,calm,7.0
+1064,missing,calm,2.0
+1065,music,calm,4.0
+1066,missing,calm,4.0
+1067,Arts,calm,3.0
+1068,English,calm,2.0
+1072,Music,calm,4.0
+1074,Psychology,calm,3.0
+1077,Electrical engineering,calm,4.0
+1078,History ,calm,1.0
+1079,Communications,calm,3.0
+1080,Computer Science ,calm,5.0
+1081,business administration,calm,6.0
+1082,missing,calm,4.0
+1083,psychology,calm,4.0
+1086,missing,calm,5.0
+1087,art +ACY- psychology,calm,5.0
+1088,missing,calm,5.0
+1089,missing,calm,3.0
+1091,missing,calm,3.0
+1092,missing,calm,7.0
+1093,Film,calm,6.0
+1096,psychology,calm,5.0
+1097,art history,calm,5.0
+1098,computer science,calm,3.0
+1099,fine arts,calm,4.0
+1101,psychology,calm,3.0
+1104,missing,calm,2.0
+1106,Psychology,calm,7.0
+1107,English,calm,7.0
+1108,Management,calm,4.0
+1110,history,calm,1.0
+1111,Economics,calm,6.0
+1112,business,calm,6.0
+1116,missing,calm,1.0
+1117,Economics,calm,3.0
+1119,library and information sciences,calm,4.0
+1121,missing,calm,4.0
+1124,missing,calm,7.0
+1125,music+ADs- theology,calm,5.0
+1127,Geology,calm,2.0
+1128,neuroscience,calm,5.0
+1129,math,calm,7.0
+1130,missing,calm,3.0
+1132,missing,calm,6.0
+1133,Art,calm,4.0
+1135,English/philosophy/law,calm,5.0
+1136,missing,calm,3.0
+1137,Anthropology,calm,4.0
+1138,missing,calm,7.0
+1140,Math,calm,6.0
+1141,Computer Engineering,calm,4.0
+1143,Economics and History (double major),calm,7.0
+1149,psychology,calm,3.0
+1150,Computer Sciences,calm,2.0
+1156,Biology,calm,4.0
+1157,nursing,calm,6.0
+1160,missing,calm,4.0
+1162,Biology,calm,4.0
+1163,Physics,calm,3.0
+1164,geography,calm,6.0
+1165,Political Science,calm,7.0
+1166,missing,calm,4.0
+1168,missing,calm,4.0
+1170,Sociology,calm,5.0
+1171,Political Science,calm,4.0
+1173,missing,calm,3.0
+1175,chemistry,calm,5.0
+1176,Electrical Engineering,calm,7.0
+1177,communications,calm,5.0
+1180,missing,calm,5.0
+1183,missing,calm,3.0
+1185,Physics,calm,5.0
+1186,English/History,calm,0.0
+1187,English,calm,5.0
+1189,Philosophy,calm,7.0
+1190,mba,calm,6.0
+1195,Music,calm,6.0
+1196,Computer Science,calm,5.0
+1198,Physics,calm,6.0
+1200,missing,calm,4.0
+1202,missing,calm,5.0
+1203,civil engineering/history,calm,7.0
+1205,mechanical engineering,calm,6.0
+1210,History,calm,3.0
+1213,psychology,calm,6.0
+1214,biology,calm,5.0
+1215,mechanical engineering,calm,5.0
+1217,Econ,calm,5.0
+1218,Biology,calm,6.0
+1221,Italian,calm,5.0
+1225,Sociology,calm,6.0
+1228,missing,calm,5.0
+1229,english,calm,5.0
+1230,missing,calm,6.0
+1232,missing,calm,4.0
+1235,Physics,calm,4.0
+1236,physics,calm,5.0
+1239,Biochemistry,calm,7.0
+1242,International Relations,calm,5.0
+1243,Nursing,calm,6.0
+1245,Economics,calm,6.0
+1248,Philosophy,calm,7.0
+1250,Engineering,calm,7.0
+1253,General Science/Philosophy,calm,7.0
+1254,Geology,calm,5.0
+1255,Aerospace Engineering,calm,3.0
+1261,Math and computer science,calm,4.0
+1263,Medicin,calm,7.0
+1264,Naval engineering ,calm,4.0
+1265,Police Foindations,calm,6.0
+1266,English,calm,3.0
+1269,missing,calm,4.0
+1270,Psychology,calm,2.0
+1271,Economics,calm,2.0
+1273,Economics,calm,5.0
+1274,English ,calm,3.0
+1275,Psychology,calm,6.0
+1278,Physical therapy,calm,3.0
+1279,Chemical Engineering,calm,4.0
+1284,biology,calm,3.0
+1285,missing,calm,6.0
+1290,missing,calm,5.0
+1291,computer science,calm,5.0
+1299,missing,calm,4.0
+1302,Psychology,calm,3.0
+1303,missing,calm,3.0
+1304,Biology,calm,6.0
+1306,pyschology,calm,6.0
+1311,rhetoric,calm,5.0
+1312,Fine art sculpture,calm,7.0
+1313,Economics +ACY- Psychology,calm,7.0
+1314,Statistics,calm,2.0
+1319,Computer Science,calm,5.0
+1320,biology,calm,7.0
+1321,Theatre,calm,5.0
+1323,Psychology ,calm,7.0
+1325,education,calm,5.0
+1327,missing,calm,5.0
+1333,missing,calm,7.0
+1334,History,calm,6.0
+1335,mechanical engineering,calm,6.0
+1338,Psychology,calm,3.0
+1339,aerospace engineering ,calm,4.0
+1341,missing,calm,7.0
+1344,missing,calm,2.0
+1350,Architecture,calm,4.0
+1353,Mechatronics Engineering,calm,6.0
+1354,electrical engineering,calm,4.0
+1356,Psychology,calm,6.0
+1357,+ACI-+ACIAIg-hotel and restaurant management+ACIAIg-+ACI-,calm,7.0
+1358,business,calm,6.0
+1359,Economy and maths,calm,6.0
+1360,Computer Science,calm,4.0
+1361,communications,calm,3.0
+1362,missing,calm,3.0
+1363,English,calm,6.0
+1364,Family Therapy,calm,6.0
+1366,missing,calm,5.0
+1368,English,calm,7.0
+1370,Biochemistry,calm,2.0
+1373,Biochemical Engineering,calm,4.0
+1375,missing,calm,0.0
+1378,Art Education,calm,3.0
+1381,IT,calm,7.0
+1383,missing,calm,5.0
+1385,sociology,calm,6.0
+1386,biomedical engineering,calm,3.0
+1388,missing,calm,5.0
+1389,Computer Science,calm,4.0
+1390,Science,calm,6.0
