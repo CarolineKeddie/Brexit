@@ -50,6 +50,6 @@
 [2-2c]: ./week02/day2_pandas_join_and_cleaning/lesson-2-intro-to-data-cleaning
 [2-2d]: ./week02/day2_pandas_join_and_cleaning/lab-2-data-cleaning
 
-[2-3a]: ./week02/day3_pandas_pivot/lesson1-pandas-long_wide_pivot_melt
-[2-3b]: ./week02/day3_pandas_pivot/lab1-pandas-long_wide_pivot_melt
+[2-3a]: ./week02/day3_pandas_pivot_grouping/lesson1-pandas-long_wide_pivot_melt
+[2-3b]: ./week02/day3_pandas_pivot_grouping/lab1-pandas-long_wide_pivot_melt
 [2-3c]: ./week02/day3_pandas_pivot_grouping/lesson2-pandas_grouping
