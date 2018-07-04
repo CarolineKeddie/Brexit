@@ -52,4 +52,4 @@
 
 [2-3a]: ./week02/day3_pandas_pivot/lesson1-pandas-long_wide_pivot_melt
 [2-3b]: ./week02/day3_pandas_pivot/lab1-pandas-long_wide_pivot_melt
-[2-2c]: ./week02/day3_pandas_pivot_grouping/lesson2-pandas_grouping
+[2-3c]: ./week02/day3_pandas_pivot_grouping/lesson2-pandas_grouping
