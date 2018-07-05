@@ -15,10 +15,10 @@
 
 | Session Time  | Day 1                                  | Day 2                                             | Day 3                                                      | Day 4 | Day 5 |
 | ------------- | -------------------------------------- | ------------------------------------------------- | ---------------------------------------------------------- | ----- | ----- |
-| 9:00 - 10:30  | [Introduction to Pandas Lessons][2-1a] | [lesson1-pandas-concatenation_joining_data][2-2a] | [Pandas Long vs Wide Format, Pivot & Melting Lesson][2-3a] |[Lesson - Probability Distributions][2-4a]       |       |
-| 10:45 - 12:30 | [Introduction to Pandas Lab][2-1b]     | [lab1-pandas-joining][2-2b]                       | [Pandas Long vs Wide Format, Pivot & Melting Lab][2-3b]    |[Lesson - Normal Distribution and Central Limit Theorem][2-4b]       | |
-| 13:30 - 15:00 | [Basic EDA walkthrough - Lesson][2-1c] | [Lesson 2 - Intro to data cleaning][2-2c]         | [Pandas grouping - Lesson][2-3c]|[Lab - Pandas Data Munging Full Overview][2-4c]||       
-| 15:15 - 17:00 | [Basic EDA walkthrough - Lesson][2-1c] | [Lab 2 - Data cleaning][2-2d]                     | [Quizz] |[Pandas plotting reference][2-4d]||
+| 9:00 - 10:30  | [Introduction to Pandas Lessons][2-1a] | [lesson1-pandas-concatenation_joining_data][2-2a] | [Pandas Long vs Wide Format, Pivot & Melting Lesson][2-3a] |[Lesson - Probability Distributions][2-4a]       | [Lesson - Normal Distribution and Central Limit Theorem][2-4b]      |
+| 10:45 - 12:30 | [Introduction to Pandas Lab][2-1b]     | [lab1-pandas-joining][2-2b]                       | [Pandas Long vs Wide Format, Pivot & Melting Lab][2-3b]    |[Lesson - Normal Distribution and Central Limit Theorem][2-4b]       |[Lesson - Confidence Intervals][2-5b] |
+| 13:30 - 15:00 | [Basic EDA walkthrough - Lesson][2-1c] | [Lesson 2 - Intro to data cleaning][2-2c]         | [Pandas grouping - Lesson][2-3c]|[Lab - Pandas Data Munging Full Overview][2-4c]|Project|       
+| 15:15 - 17:00 | [Basic EDA walkthrough - Lesson][2-1c] | [Lab 2 - Data cleaning][2-2d]                     | [Quizz] |[Pandas plotting reference][2-4d]|Project|
 
 
 [1-1a]: ./week01/day1_intro_command_line_and_github/DSI_intro
@@ -58,3 +58,5 @@
 [2-4b]: ./week02/day4_probability_and_pandas_review/lesson-normal-distribution-and-clt
 [2-4c]: ./week02/day4_probability_and_pandas_review/lab-pandas-data-munging-full-overview
 [2-4d]: ./week02/day4_probability_and_pandas_review/lab-pandas-plotting-reference
+
+[2-5b]: ./week02/day5_confidence_intervals/statistics-conficence-intervals-lesson
