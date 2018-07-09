@@ -22,13 +22,12 @@
 
 ## Week 3: Linear Regression
 
-| Session Time  | Day 1                                    | Day 2 | Day 3 | Day 4 | Day 5 |
-| ------------- | ---------------------------------------- | ----- | ----- | ----- | ----- |
-| 9:00 - 10:30  | [Intro to Modelling - Lesson][3-1a]      |       |       |       |       |
-| 10:45 - 12:30 | [Intro to Modelling - Lab][3-1a]         |       |       |       |       |
-| 13:30 - 15:00 | [Simple linear regression Lab][3-1c]     |       |       |       |       |
-| 15:15 - 17:00 | [Regression sklearn & statsmodels][3-1d] |       |       |       |       |
-
+| Session Time  | Day 1                                    | Day 2                                                  | Day 3                                             | Day 4                          | Day 5    |
+| ------------- | ---------------------------------------- | ------------------------------------------------------ | ------------------------------------------------- | ------------------------------ | -------- |
+| 9:00 - 10:30  | [Intro to modelling][3-1a]               | [Linear regression from scratch][3-2a]                 | [Preprocessing & features scaling - lesson][3-3a] | [Lesson - Bias Variance][3-4a] | [][3-5a] |
+| 10:45 - 12:30 | [Intro to linear regression][3-1b]       | [Regression evaluation loss functions][3-2b]           | [Loss functions and regression - lab][3-3b]       | [Lab - Bias Variance][3-4b]    | [][3-5b] |
+| 13:30 - 15:00 | [Simple linear regression Lab][3-1c]     | [Cross validation and train test split - lesson][3-2c] | [Regularisation lesson][3-3c]                     | [Lab - Bias Variance][3-4c]    | [][3-5c] |
+| 15:15 - 17:00 | [Regression sklearn & statsmodels][3-1d] | [Cross validation and train test split - lab][3-2d]    | [Regularisation lab][3-3d]                        | [Project support][3-4d]        | [][3-5d] |
 
 [1-1a]: ./week01/day1_intro_command_line_and_github/DSI_intro
 [1-1b]: ./week01/day1_intro_command_line_and_github/lesson-intro-to-command-line
@@ -73,3 +72,8 @@
 [3-1a]: ./week03/day1_linear_regression/intro_to_modelling
 [3-1c]: ./week03/day1_linear_regression/regression-simple_linear_regression-lab
 [3-1d]: ./week03/day1_linear_regression/regression-sklearn_statsmodels_intro-lesson
+
+[3-2a]: ./week03/day2_regressionevaluation_lossfunctions_crossvalidation/lesson-1-regression-linear_regression_from_scratch-lesson
+[3-2b]: ./week03/day2_regressionevaluation_lossfunctions_crossvalidation/lesson-2_regression-evaluation-loss-function
+[3-2c]: ./week03/day2_regressionevaluation_lossfunctions_crossvalidation/lesson-3-cross-validation-and-train-test-split
+[3-2d]: ./week03/day2_regressionevaluation_lossfunctions_crossvalidation/lab-2-cross-validation-and-train-test-split
