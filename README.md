@@ -22,12 +22,12 @@
 
 ## Week 3: Linear Regression
 
-| Session Time  | Day 1                                  | Day 2                                             | Day 3                                                      | Day 4 | Day 5 |
-| ------------- | -------------------------------------- | ------------------------------------------------- | ---------------------------------------------------------- | ----- | ----- |
-| 9:00 - 10:30  |[Intro to Modelling - Lesson][3-1a] |||||
-| 10:45 - 12:30 |[Intro to Modelling - Lab][3-1a] |||||
-| 13:30 - 15:00 | |||||       
-| 15:15 - 17:00 | |||||
+| Session Time  | Day 1                                    | Day 2 | Day 3 | Day 4 | Day 5 |
+| ------------- | ---------------------------------------- | ----- | ----- | ----- | ----- |
+| 9:00 - 10:30  | [Intro to Modelling - Lesson][3-1a]      |       |       |       |       |
+| 10:45 - 12:30 | [Intro to Modelling - Lab][3-1a]         |       |       |       |       |
+| 13:30 - 15:00 | [Simple linear regression Lab][3-1c]     |       |       |       |       |
+| 15:15 - 17:00 | [Regression sklearn & statsmodels][3-1d] |       |       |       |       |
 
 
 [1-1a]: ./week01/day1_intro_command_line_and_github/DSI_intro
@@ -71,3 +71,5 @@
 [2-5b]: ./week02/day5_confidence_intervals/statistics-conficence-intervals-lesson
 
 [3-1a]: ./week03/day1_linear_regression/intro_to_modelling
+[3-1c]: ./week03/day1_linear_regression/regression-simple_linear_regression-lab
+[3-1d]: ./week03/day1_linear_regression/regression-sklearn_statsmodels_intro-lesson
