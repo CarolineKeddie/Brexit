@@ -1,0 +1,828 @@
+id,Year,Name,Position,HeightFeet,HeightInches,Weight,Arms,Hands,FortyYD,TwentyYD,TenYD,TwentySS,ThreeCone,Vertical,Broad,Bench,Round,College,Pick,PickRound,PickTotal,FirstName,LastName,HeightInchesTotal,Wonderlic
+11384,2005,Chris Myers,OG,6,5,300,0,0,5.18,0,0,0,0,0,0,25,6,Miami (FL),26(200),26,200,Chris,Myers,77,0
+11411,2005,Joe Berger,OT,6,6,303,0,0,5.18,0,0,4.68,0,27,96,30,6,Michigan Tech,33(207),33,207,Joe,Berger,78,0
+11590,2004,Darrell Campbell,DT,6,4,302,0,0,5.18,0,0,4.66,0,33,111,25,0,,,0,0,Darrell,Campbell,76,0
+11611,2004,Corey Williams,DT,6,4,313,0,0,5.18,0,0,4.55,0,28,0,25,6,Arkansas State,14(179),14,179,Corey,Williams,76,0
+11950,2003,Taylor Whitley,OG,6,4,321,0,0,5.18,0,0,4.58,0,30,106,28,3,Texas A&M,23(87),23,87,Taylor,Whitley,76,0
+11962,2003,Jordan Black,OT,6,6,314,0,0,5.18,0,0,4.5,0,30,106,0,5,Notre Dame,18(153),18,153,Jordan,Black,78,0
+12118,2002,Clenton Ballard,DT,6,3,313,0,0,5.18,0,0,4.64,0,26.5,93,24,6,Texas State University,8(180),8,180,Clenton,Ballard,75,0
+12418,2001,Shawn Worthen,DT,6,1,310,0,0,5.18,0,0,4.61,0,30,103,23,4,TCU,35(130),35,130,Shawn,Worthen,73,0
+12713,2000,Jamel Smith,ILB,6,1,245,0,0,5.18,0,0,4.58,0,29.5,108,0,0,,,0,0,Jamel,Smith,73,0
+12943,1999,Ryan Hale,DT,6,4,295,0,0,5.18,0,0,4.38,0,30.5,104,8,7,Arkansas,19(225),19,225,Ryan,Hale,76,0
+13020,1999,Jason Gamble,OC,6,2,302,0,0,5.18,0,0,4.54,0,28.5,105,24,0,,,0,0,Jason,Gamble,74,0
+14614,2014,Russell Bodine,C,6,3,310,0,0,5.18,0,0,4.66,8.26,29,109,42,0,North Carolina,0,0,0,Russell,Bodine,75,0
+9602,2011,Kenrick Ellis,DT,6,5,346,35.125,10.5,5.19,0,0,0,0,0,0,26,3,Hampton,30(94),30,94,Kenrick,Ellis,77,0
+9919,2010,Dan Williams,DT,6,2,327,33.5,10.125,5.19,0,0,4.87,0,32,96,27,1,Tennessee,26(26),26,26,Dan,Williams,74,0
+9958,2010,Ted Larsen,OC,6,3,304,32,9.75,5.19,0,0,4.66,0,24,96,26,6,North Carolina State,36(205),36,205,Ted,Larsen,75,0
+9962,2010,J.D. Walton,OC,6,3,300,33.375,9.25,5.19,0,0,4.69,0,27,101,24,3,Baylor,16(80),16,80,J.D.,Walton,75,0
+10199,2009,Adrian Grady,DT,6,2,298,0,0,5.19,0,0,4.72,0,32,105,31,0,,,0,0,Adrian,Grady,74,0
+10259,2009,A.Q. Shipley,OC,6,1,304,0,0,5.19,0,0,4.4,0,31,100,33,7,Penn State,17(226),17,226,A.Q.,Shipley,73,0
+10262,2009,Eric Wood,OC,6,4,310,0,0,5.19,0,0,4.51,0,30.5,99,30,1,Louisville,28(28),28,28,Eric,Wood,76,0
+10847,2007,Doug Free,OT,6,6,324,0,0,5.19,0,0,4.53,0,30,111,22,4,Northern Illinois,23(122),23,122,Doug,Free,78,0
+10860,2007,Herb Taylor,OT,6,4,296,0,0,5.19,0,0,4.64,0,27,100,26,0,,,0,0,Herb,Taylor,76,0
+11021,2006,SirHenry Anderson,DT,6,4,306,0,0,5.19,0,0,4.58,0,28.5,100,27,0,,,0,0,SirHenry,Anderson,76,0
+11030,2006,Tommy Jackson,DT,6,1,304,0,0,5.19,0,0,4.61,0,31,104,26,0,,,0,0,Tommy,Jackson,73,0
+11416,2005,Dan Connolly,OT,6,4,311,0,0,5.19,0,0,4.54,0,28.5,108,22,0,,,0,0,Dan,Connolly,76,0
+11724,2004,John Navarre,QB,6,6,246,0,0,5.19,0,0,4.56,0,26.5,100,0,7,Michigan,1(202),1,202,John,Navarre,78,24
+11925,2003,Gene Mruczkowski,OC,6,3,297,0,0,5.19,0,0,0,0,0,0,28,0,,,0,0,Gene,Mruczkowski,75,0
+12169,2002,LeCharles Bentley,OC,6,3,299,0,0,5.19,0,0,4.54,0,25.5,103,0,2,Ohio State,12(44),12,44,LeCharles,Bentley,75,0
+12409,2001,Kris Jenkins,DT,6,5,316,0,0,5.19,0,0,4.41,0,31,108,33,2,Maryland,13(44),13,44,Kris,Jenkins,77,0
+12661,2000,Robert Brannon,DT,6,4,309,0,0,5.19,0,0,4.7,0,28.5,99,28,0,,,0,0,Robert,Brannon,76,0
+12717,2000,Rob Riti,OC,6,2,293,0,0,5.19,0,0,0,0,29.5,106,17,0,,,0,0,Rob,Riti,74,0
+12719,2000,Terrance Beadles,OG,6,3,312,0,0,5.19,0,0,0,0,0,0,29,0,,,0,0,Terrance,Beadles,75,0
+12944,1999,Gary Holmes,DT,6,7,319,0,0,5.19,0,0,0,0,0,0,26,0,,,0,0,Gary,Holmes,79,0
+13048,1999,David Loverne,OG,6,3,292,0,0,5.19,0,0,4.43,0,25,96,23,3,San Jose State,29(90),29,90,David,Loverne,75,0
+13105,1999,Zach Piller,OT,6,5,331,0,0,5.19,0,0,4.68,0,26.5,100,40,3,Florida,20(81),20,81,Zach,Piller,77,0
+14625,2014,Justin Britt,OT,6,6,325,0,0,5.19,0,0,4.69,8.14,27.5,100,23,0,Missouri,0,0,0,Justin,Britt,78,0
+14708,2014,Ryan Groy,OG,6,5,316,0,0,5.19,0,0,4.47,7.49,26.5,108,26,0,Wisconsin,0,0,0,Ryan,Groy,77,0
+9001,2013,John Jenkins,DT,6,4,346,34,9.5,5.2,0,0,0,0,24.5,0,30,3,Georgia,20(82),20,82,John,Jenkins,76,0
+9040,2013,Joe Madsen,OC,6,3,310,30,9.5,5.2,0,1.87,4.83,7.6,25,98,25,0,,,0,0,Joe,Madsen,75,0
+9079,2013,Nick Becton,OT,6,5,323,35.5,9,5.2,0,1.76,4.57,7.77,29.5,109,19,0,,,0,0,Nick,Becton,77,0
+9080,2013,Braden Brown,OT,6,5,310,34.25,10.25,5.2,0,1.74,4.7,7.43,28,100,26,0,,,0,0,Braden,Brown,77,0
+10012,2010,Bryan Bulaga,OT,6,6,314,33.25,9.25,5.2,0,0,4.75,0,27.5,98,26,1,Iowa,23(23),23,23,Bryan,Bulaga,78,0
+10029,2010,Sam Young,OT,6,8,316,34.5,10.125,5.2,0,0,4.87,0,29.5,104,29,6,Notre Dame,10(179),10,179,Sam,Young,80,0
+10255,2009,Robby Felix,OC,6,3,302,0,0,5.2,0,0,4.73,0,29,97,33,0,,,0,0,Robby,Felix,75,0
+10455,2008,Marcus Dixon,DE,6,4,292,0,0,5.2,0,0,4.67,0,26,111,21,0,,,0,0,Marcus,Dixon,76,0
+10485,2008,Ahtyba Rubin,DT,6,3,315,0,0,5.2,0,0,5,0,28,106,35,6,Iowa State,24(190),24,190,Ahtyba,Rubin,75,0
+10569,2008,Breno Giacomini,OT,6,7,303,0,0,5.2,0,0,4.63,0,22.5,108,23,5,Louisville,15(150),15,150,Breno,Giacomini,79,0
+10747,2007,Larry Brown,DT,6,3,297,0,0,5.2,0,0,4.81,0,27,108,22,0,,,0,0,Larry,Brown,75,0
+10810,2007,Scott Stephenson,OC,6,3,297,0,0,5.2,0,0,4.57,0,29.5,99,21,0,,,0,0,Scott,Stephenson,75,0
+10857,2007,Mike Otto,OT,6,6,308,0,0,5.2,0,0,4.67,0,26.5,105,20,7,Purdue,13(223),13,223,Mike,Otto,78,0
+11095,2006,Tony Tella,OG,6,4,307,0,0,5.2,0,0,4.84,0,24.5,0,24,0,,,0,0,Tony,Tella,76,0
+11586,2004,Matthias Askew,DT,6,6,308,0,0,5.2,0,0,4.42,0,27,101,20,4,Michigan State,18(114),18,114,Matthias,Askew,78,0
+11643,2004,Nick Hardwick,OC,6,4,295,0,0,5.2,0,0,4.64,0,34,108,27,3,Purdue,3(66),3,66,Nick,Hardwick,76,0
+11666,2004,Jeb Terry,OG,6,5,313,0,0,5.2,0,0,5,0,29,105,27,5,North Carolina,14(146),14,146,Jeb,Terry,77,0
+11866,2003,Aubrayo Franklin,DT,6,2,307,0,0,5.2,0,0,4.79,0,27,100,0,5,Tennessee,11(146),11,146,Aubrayo,Franklin,74,0
+11927,2003,Brett Romberg,OC,6,2,295,0,0,5.2,0,0,4.65,0,27.5,99,27,0,,,0,0,Brett,Romberg,74,0
+11966,2003,Kwame Harris,OT,6,7,310,0,0,5.2,0,0,4.65,0,35.5,107,0,1,Stanford,26(26),26,26,Kwame,Harris,79,0
+12460,2001,Mike Gandy,OG,6,5,305,0,0,5.2,0,0,4.71,0,30.5,103,0,3,Notre Dame,6(68),6,68,Mike,Gandy,77,0
+12510,2001,Maurice Williams,OT,6,5,304,0,0,5.2,0,0,0,0,0,0,24,2,Michigan,12(43),12,43,Maurice,Williams,77,0
+12670,2000,Keith Jackson,DT,6,4,319,0,0,5.2,0,0,0,0,0,0,28,0,,,0,0,Keith,Jackson,76,0
+12718,2000,John St.Clair,OC,6,5,302,0,0,5.2,0,0,0,0,0,0,25,0,,,0,0,John,St.Clair,77,0
+12726,2000,Al Jackson,OG,6,3,304,0,0,5.2,0,0,0,0,0,0,19,0,,,0,0,Al,Jackson,75,0
+12740,2000,Andy Vincent,OG,6,4,306,0,0,5.2,0,0,4.42,0,28.5,108,14,0,,,0,0,Andy,Vincent,76,0
+12785,2000,Todd Husak,QB,6,3,216,0,0,5.2,0,0,4.41,0,27.5,99,0,6,Stanford,36(202),36,202,Todd,Husak,75,39
+13093,1999,Derrick Fletcher,OT,6,6,374,0,0,5.2,0,0,0,0,0,0,27,5,Baylor,21(154),21,154,Derrick,Fletcher,78,0
+9081,2013,Emmett Cleary,OT,6,7,316,34.25,9.75,5.21,0,1.77,4.7,7.81,28.5,108,24,0,,,0,0,Emmett,Cleary,79,0
+9399,2012,Brandon Mosley,OT,6,5,314,34,11,5.21,0,0,4.78,7.43,27,103,30,4,Auburn,36(131),36,131,Brandon,Mosley,77,0
+9621,2011,Ian Williams,DT,6,1,319,32,9.5,5.21,0,0,4.78,0,28.5,98,31,0,,,0,0,Ian,Williams,73,0
+9703,2011,James Brewer,OT,6,6,323,35.5,10.375,5.21,0,0,4.81,0,26,100,25,4,Indiana,20(117),20,117,James,Brewer,78,0
+9707,2011,Anthony Castonzo,OT,6,7,311,34.5,10.625,5.21,0,0,4.4,0,29.5,105,28,1,Boston College,22(22),22,22,Anthony,Castonzo,79,0
+9918,2010,Lorenzo Washington,DT,6,4,291,34,10.25,5.21,0,0,4.68,0,30,107,25,0,,,0,0,Lorenzo,Washington,76,0
+9957,2010,Joe Hawley,OC,6,3,297,33.125,10.625,5.21,0,0,4.73,0,26,105,35,0,,,0,0,Joe,Hawley,75,0
+10017,2010,Vladimir Ducasse,OT,6,5,332,34.75,9.625,5.21,0,0,4.97,0,26,91,29,2,Massachusetts,29(61),29,61,Vladimir,Ducasse,77,0
+10023,2010,Rodger Saffold,OT,6,5,316,33.625,9.375,5.21,0,0,4.67,0,29.5,113,27,2,Indiana,1(33),1,33,Rodger,Saffold,77,0
+10206,2009,Terrance Knighton,DT,6,3,321,0,0,5.21,0,0,4.78,0,28,103,0,3,Temple,8(72),8,72,Terrance,Knighton,75,0
+11367,2005,Geoff Hangartner,OC,6,5,301,0,0,5.21,0,0,4.57,0,28.5,103,26,5,Texas A&M,33(169),33,169,Geoff,Hangartner,77,0
+11373,2005,Chris Spencer,OC,6,3,309,0,0,5.21,0,0,4.61,0,32,105,26,1,Mississippi,26(26),26,26,Chris,Spencer,75,0
+11607,2004,Craig Terrill,DT,6,3,290,0,0,5.21,0,0,4.1,0,26.5,100,28,6,Purdue,24(189),24,189,Craig,Terrill,75,0
+11610,2004,Vince Wilfork,DT,6,1,323,0,0,5.21,0,0,0,0,0,0,36,1,Miami (FL),21(21),21,21,Vince,Wilfork,73,0
+11877,2003,Lauvale Sape,DT,6,2,297,0,0,5.21,0,0,4.72,0,31.5,111,0,6,Utah,14(187),14,187,Lauvale,Sape,74,0
+12231,2002,Levi Jones,OT,6,6,304,0,0,5.21,0,0,0,0,0,103,0,1,Arizona State,10(10),10,10,Levi,Jones,78,0
+12682,2000,Cedric Woodard,DT,6,3,290,0,0,5.21,0,0,0,0,30.5,109,23,6,Texas,25(191),25,191,Cedric,Woodard,75,0
+12953,1999,Robert Newkirk,DT,6,3,298,0,0,5.21,0,0,4.73,0,26,105,20,0,,,0,0,Robert,Newkirk,75,0
+13043,1999,Tyrone Hopson,OG,6,3,319,0,0,5.21,0,0,4.62,0,26,102,20,5,Eastern Kentucky,28(161),28,161,Tyrone,Hopson,75,0
+13104,1999,Luke Petitgout,OT,6,6,315,0,0,5.21,0,0,4.48,0,29,102,33,1,Notre Dame,19(19),19,19,Luke,Petitgout,78,0
+14794,2014,Josh Mauro,DE,6,6,271,0,0,5.21,0,0,0,7.43,32,116,21,0,Stanford,0,0,0,Josh,Mauro,78,0
+9007,2013,Damion Square,DT,6,2,293,32.125,10.375,5.22,0,0,0,0,0,0,0,0,,,0,0,Damion,Square,74,0
+9706,2011,James Carpenter,OT,6,4,321,34,9.75,5.22,0,0,0,0,0,0,23,1,Alabama,25(25),25,25,James,Carpenter,76,0
+9971,2010,Shawn Lauvao,OG,6,3,315,33,9.5,5.22,0,0,4.51,0,26.5,101,33,3,Arizona State,28(92),28,92,Shawn,Lauvao,75,0
+10216,2009,Terrance Taylor,DT,6,1,306,0,0,5.22,0,0,5.06,0,30,104,37,4,Michigan,36(136),36,136,Terrance,Taylor,73,0
+10281,2009,Louis Vasquez,OG,6,5,333,0,0,5.22,0,0,0,0,0,0,39,3,Texas Tech,14(78),14,78,Louis,Vasquez,77,0
+10313,2009,Cornelius Lewis,OT,6,4,332,0,0,5.22,0,0,0,0,24.5,90,29,0,,,0,0,Cornelius,Lewis,76,0
+10330,2009,Hunter Cantwell,QB,6,5,235,0,0,5.22,0,0,4.59,0,26,99,0,0,,,0,0,Hunter,Cantwell,77,0
+10520,2008,Jamey Richard,OC,6,5,295,0,0,5.22,0,0,4.69,0,26.5,107,22,7,Buffalo,29(236),29,236,Jamey,Richard,77,0
+10573,2008,Jake Long,OT,6,7,313,0,0,5.22,0,0,4.73,0,27.5,102,37,1,Michigan,1(1),1,1,Jake,Long,79,0
+10574,2008,Carl Nicks,OT,6,5,341,0,0,5.22,0,0,4.68,0,25.5,109,31,5,Nebraska,29(164),29,164,Carl,Nicks,77,0
+11386,2005,Leon Robinson,OG,6,4,314,0,0,5.22,0,0,4.76,0,36,109,22,0,,,0,0,Leon,Robinson,76,0
+11650,2004,Jacob Bell,OG,6,5,302,0,0,5.22,0,0,0,0,0,0,26,5,Miami (OH),6(138),6,138,Jacob,Bell,77,0
+11864,2003,Colin Cole,DT,6,2,309,0,0,5.22,0,0,4.75,0,31,103,29,0,,,0,0,Colin,Cole,74,0
+11974,2003,Kareem Marshall,OT,6,5,359,0,0,5.22,0,0,0,0,27.5,92,0,0,,,0,0,Kareem,Marshall,77,0
+12190,2002,Eric Heitmann,OG,6,4,305,0,0,5.22,0,0,4.6,0,28,103,33,7,Stanford,28(239),28,239,Eric,Heitmann,76,0
+12196,2002,Shannon Money,OG,6,4,295,0,0,5.22,0,0,0,0,33.5,107,25,0,,,0,0,Shannon,Money,76,0
+12234,2002,Chester Pitts,OT,6,4,320,0,0,5.22,0,0,4.81,0,30,106,0,2,San Diego State,18(50),18,50,Chester,Pitts,76,0
+12515,2001,Justin Coleman,QB,6,5,238,0,0,5.22,0,0,4.62,0,29.5,101,0,0,,,0,0,Justin,Coleman,77,31
+12664,2000,D.J. Cooper,DT,6,3,277,0,0,5.22,0,0,4.49,0,28,108,0,0,,,0,0,D.J.,Cooper,75,0
+12738,2000,Jason Thomas,OG,6,4,300,0,0,5.22,0,0,0,0,29.5,100,23,7,Hampton,16(222),16,222,Jason,Thomas,76,23
+12775,2000,Todd Wade,OT,6,8,326,0,0,5.22,0,0,4.68,0,27.5,101,29,2,Mississippi,22(53),22,53,Todd,Wade,80,0
+12783,2000,Justin Fuente,QB,6,2,225,0,0,5.22,0,0,4.42,0,27.5,100,0,0,,,0,0,Justin,Fuente,74,33
+13026,1999,Derek Rose,OC,6,3,283,0,0,5.22,0,0,4.9,0,25.5,96,21,0,,,0,0,Derek,Rose,75,0
+8999,2013,Jordan Hill,DT,6,1,303,33.5,10.25,5.23,0,1.75,4.51,7.49,22.5,103,28,3,Penn State,25(87),25,87,Jordan,Hill,73,0
+9000,2013,Montori Hughes,DT,6,4,329,32.625,10.125,5.23,0,1.83,4.7,7.85,26.5,104,22,5,Tennessee-Martin,6(139),6,139,Montori,Hughes,76,0
+9096,2013,Stephane Milhim,OT,6,4,314,34.25,10.25,5.23,0,1.73,4.87,0,28.5,104,0,0,,,0,0,Stephane,Milhim,76,0
+9287,2012,Akiem Hicks,DT,6,5,318,0,0,5.23,0,0,4.86,7.75,31,108,26,3,Regina,26(89),26,89,Akiem,Hicks,77,0
+9397,2012,Bobby Massie,OT,6,6,316,35,9,5.23,0,0,4.95,7.7,27,103,22,4,Mississippi,17(112),17,112,Bobby,Massie,78,0
+9402,2012,Riley Reiff,OT,6,6,313,33.25,10.125,5.23,0,0,4.75,7.87,26,98,23,1,Iowa,23(23),23,23,Riley,Reiff,78,0
+10276,2009,Seth Olsen,OG,6,5,306,0,0,5.23,0,0,4.7,0,24.5,90,23,4,Iowa,32(132),32,132,Seth,Olsen,77,0
+10324,2009,Jose Valdez,OT,6,5,315,0,0,5.23,0,0,4.93,0,29.5,100,15,0,,,0,0,Jose,Valdez,77,0
+10578,2008,Will Robinson,OT,6,5,297,0,0,5.23,0,0,0,0,19.5,0,22,0,,,0,0,Will,Robinson,77,0
+11123,2006,Jimmy Martin,OT,6,5,303,0,0,5.23,0,0,0,0,31,101,25,7,Virginia Tech,19(227),19,227,Jimmy,Martin,77,0
+11320,2005,Anttaj Hawthorne,DT,6,4,325,0,0,5.23,0,0,4.72,0,27,100,21,6,Wisconsin,1(175),1,175,Anttaj,Hawthorne,76,0
+11656,2004,Trey Darilek,OG,6,4,301,0,0,5.23,0,0,4.66,0,28.5,110,22,4,UTEP,35(131),35,131,Trey,Darilek,76,0
+11947,2003,Scott Tercero,OG,6,4,303,0,0,5.23,0,0,4.51,0,28.5,103,25,6,California,11(184),11,184,Scott,Tercero,76,0
+11964,2003,George Foster,OT,6,6,338,0,0,5.23,0,0,0,0,27,100,0,1,Georgia,20(20),20,20,George,Foster,78,0
+11979,2003,Tim Provost,OT,6,5,301,0,0,5.23,0,0,4.7,0,28.5,102,21,6,San Jose State,36(209),36,209,Tim,Provost,77,0
+12226,2002,Reggie Coleman,OT,6,5,301,0,0,5.23,0,0,4.88,0,29,103,0,6,Tennessee,20(192),20,192,Reggie,Coleman,77,0
+12404,2001,Eric Downing,DT,6,4,302,0,0,5.23,0,0,0,0,0,0,27,3,Syracuse,13(75),13,75,Eric,Downing,76,0
+12451,2001,Casey Rabach,OC,6,5,298,0,0,5.23,0,0,0,0,34.5,0,19,3,Wisconsin,30(92),30,92,Casey,Rabach,77,0
+12477,2001,Chad Ward,OG,6,5,321,0,0,5.23,0,0,4.89,0,32.5,99,26,6,Washington,7(170),7,170,Chad,Ward,77,0
+12960,1999,Chris White,DT,6,3,282,0,0,5.23,0,0,4.71,0,29,107,25,7,Southern University,40(246),40,246,Chris,White,75,0
+13029,1999,Jeff Smith,OC,6,4,286,0,0,5.23,0,0,4.77,0,25,102,38,0,,,0,0,Jeff,Smith,76,0
+13114,1999,Rex Tucker,OT,6,5,303,0,0,5.23,0,0,4.43,0,30,106,27,3,Texas A&M,5(66),5,66,Rex,Tucker,77,0
+14826,2014,Mike Pennel,DT,6,4,332,0,0,5.23,0,0,0,7.94,28.5,102,23,0,Colorado State-Pueblo,0,0,0,Mike,Pennel,76,0
+9088,2013,Rogers Gaines,OT,6,6,334,36.25,10.625,5.24,0,0,5.24,0,23,0,28,0,,,0,0,Rogers,Gaines,78,0
+9337,2012,Rishaw Johnson,OG,6,3,313,0,0,5.24,0,0,4.53,7.87,31,108,22,0,,,0,0,Rishaw,Johnson,75,0
+9733,2011,Ryan Mallett,QB,6,7,253,34.375,10.75,5.24,0,0,0,0,24,0,0,3,Arkansas,10(74),10,74,Ryan,Mallett,79,26
+9969,2010,Mike Iupati,OG,6,5,331,34.75,10.625,5.24,0,0,4.93,0,27.5,92,27,1,Idaho,17(17),17,17,Mike,Iupati,77,0
+10011,2010,Charles Brown,OT,6,6,303,35.25,11.375,5.24,0,0,0,0,31.5,0,21,2,USC,32(64),32,64,Charles,Brown,78,0
+10253,2009,Antoine Caldwell,OC,6,3,309,0,0,5.24,0,0,5.04,0,28,111,23,3,Alabama,13(77),13,77,Antoine,Caldwell,75,0
+10517,2008,Steve Justice,OC,6,4,293,0,0,5.24,0,0,4.58,0,21,98,23,6,Wake Forest,35(201),35,201,Steve,Justice,76,0
+10809,2007,Samson Satele,OC,6,3,300,0,0,5.24,0,0,4.29,0,33,101,25,2,Hawaii,28(60),28,60,Samson,Satele,75,0
+10820,2007,Manuel Ramirez,OG,6,3,326,0,0,5.24,0,0,0,0,0,0,40,4,Texas Tech,18(117),18,117,Manuel,Ramirez,75,0
+11080,2006,Marvin Philip,OC,6,1,307,0,0,5.24,0,0,4.7,0,27,96,27,6,California,32(201),32,201,Marvin,Philip,73,0
+11319,2005,Ronald Fields,DT,6,3,313,0,0,5.24,0,0,4.68,0,27,102,0,5,Mississippi State,1(137),1,137,Ronald,Fields,75,0
+11856,2003,Demetrin Veal,DE,6,2,288,0,0,5.24,0,0,0,0,0,111,26,7,Tennessee,24(238),24,238,Demetrin,Veal,74,0
+12249,2002,Patrick Ramsey,QB,6,2,219,0,0,5.24,0,0,4.09,0,33.5,0,0,1,Tulane,32(32),32,32,Patrick,Ramsey,74,32
+12415,2001,Kenny Smith,DT,6,4,299,0,0,5.24,0,0,4.8,0,30,100,0,3,Alabama,19(81),19,81,Kenny,Smith,76,0
+12456,2001,Rick DeMulling,OG,6,4,307,0,0,5.24,0,0,4.6,0,31.5,106,32,7,Idaho,20(220),20,220,Rick,DeMulling,76,0
+12464,2001,Michael Keathley,OG,6,4,308,0,0,5.24,0,0,0,0,32.5,0,28,0,,,0,0,Michael,Keathley,76,0
+12470,2001,Bernard Robertson,OG,6,3,308,0,0,5.24,0,0,4.58,0,30,106,19,5,Tulane,7(138),7,138,Bernard,Robertson,75,0
+12957,1999,Marcus Spriggs,DT,6,5,297,0,0,5.24,0,0,4.6,0,27.5,99,25,6,Troy,5(174),5,174,Marcus,Spriggs,77,0
+13021,1999,Todd McClure,OC,6,2,298,0,0,5.24,0,0,4.51,0,28,98,29,7,LSU,31(237),31,237,Todd,McClure,74,0
+13052,1999,Ben Nichols,OG,6,5,307,0,0,5.24,0,0,4.67,0,30,104,29,0,,,0,0,Ben,Nichols,77,0
+13060,1999,Jerry Wisne,OG,6,7,306,0,0,5.24,0,0,4.61,0,28,100,30,5,Notre Dame,10(143),10,143,Jerry,Wisne,79,0
+13090,1999,Aaron Dalan,OT,6,8,328,0,0,5.24,0,0,4.61,0,23.5,99,23,0,,,0,0,Aaron,Dalan,80,0
+13103,1999,Solomon Page,OT,6,5,306,0,0,5.24,0,0,0,0,31.5,106,24,2,West Virginia,24(55),24,55,Solomon,Page,77,0
+13112,1999,John Tait,OT,6,6,310,0,0,5.24,0,0,4.4,0,29.5,107,26,1,Brigham Young,14(14),14,14,John,Tait,78,0
+14744,2014,Anthony Johnson,DT,6,2,308,0,0,5.24,0,0,0,7.93,24.5,102,20,0,LSU,0,0,0,Anthony,Johnson,74,0
+9046,2013,Chris Barker,OG,6,3,305,33,9.375,5.25,0,1.77,4.77,8.09,27.5,99,29,0,,,0,0,Chris,Barker,75,0
+9049,2013,Eric Herman,OG,6,4,320,32.25,10.875,5.25,0,1.84,5.09,7.99,28,95,36,7,Ohio,19(225),19,225,Eric,Herman,76,0
+9082,2013,Jordan Devey,OT,6,7,317,32.75,9.625,5.25,0,1.75,4.77,7.91,24,98,21,0,,,0,0,Jordan,Devey,79,0
+9325,2012,Philip Blake,OC,6,2,311,33,9.875,5.25,0,0,4.65,7.86,29,105,22,4,Baylor,13(108),13,108,Philip,Blake,74,0
+9349,2012,Brandon Washington,OG,6,3,320,0,0,5.25,0,0,4.87,8.22,25,101,28,6,Miami (FL),30(200),30,200,Brandon,Washington,75,0
+9614,2011,Jerrell Powe,DT,6,2,335,33.25,9.625,5.25,0,0,5.06,0,25,93,27,6,Mississippi,34(199),34,199,Jerrell,Powe,74,0
+9618,2011,Cedric Thornton,DT,6,3,309,33.625,10,5.25,0,0,4.71,0,27,101,23,0,,,0,0,Cedric,Thornton,75,0
+9959,2010,Eric Olsen,OC,6,4,306,32.5,9.25,5.25,0,0,4.82,0,29.5,93,35,6,Notre Dame,14(183),14,183,Eric,Olsen,76,0
+9960,2010,Maurkice Pouncey,OC,6,5,304,32.5,10,5.25,0,0,4.92,0,0,95,0,1,Florida,18(18),18,18,Maurkice,Pouncey,77,0
+10026,2010,Tony Washington,OT,6,6,311,35.5,10.5,5.25,0,0,4.84,0,29.5,114,33,0,,,0,0,Tony,Washington,78,0
+10518,2008,Kory Lichtensteiger,OC,6,2,298,0,0,5.25,0,0,4.56,0,23,104,0,4,Bowling Green,9(108),9,108,Kory,Lichtensteiger,74,0
+10560,2008,Demetrius Bell,OT,6,5,303,0,0,5.25,0,0,4.65,0,26.5,109,9,7,Northwestern State,12(219),12,219,Demetrius,Bell,77,0
+11026,2006,Kader Drame,DT,6,5,290,0,0,5.25,0,0,0,0,30.5,108,17,0,,,0,0,Kader,Drame,77,0
+11092,2006,Charles Spencer,OG,6,5,352,0,0,5.25,0,0,0,0,0,0,30,3,Pittsburgh,1(65),1,65,Charles,Spencer,77,0
+11122,2006,Jhari Evans,OT,6,5,316,0,0,5.25,0,0,4.88,0,27,95,20,0,,,0,0,Jhari,Evans,77,0
+11134,2006,Jeremy Trueblood,OT,6,8,316,0,0,5.25,0,0,4.71,0,27.5,96,20,2,Boston College,27(59),27,59,Jeremy,Trueblood,80,0
+11430,2005,David Stewart,OT,6,7,314,0,0,5.25,0,0,0,0,0,0,24,4,Mississippi State,12(113),12,113,David,Stewart,79,0
+11640,2004,Toby Cecil,OC,6,4,297,0,0,5.25,0,0,5.03,0,0,85,19,0,,,0,0,Toby,Cecil,76,0
+11702,2004,Carlos Joseph,OT,6,6,345,0,0,5.25,0,0,0,0,0,0,29,7,Miami (FL),53(254),53,254,Carlos,Joseph,78,0
+11987,2003,Brett Williams,OT,6,5,321,0,0,5.25,0,0,5.01,0,27.5,99,0,4,Florida State,16(113),16,113,Brett,Williams,77,0
+12130,2002,Monsanto Pope,DT,6,4,295,0,0,5.25,0,0,0,0,0,0,0,7,Virginia,20(231),20,231,Monsanto,Pope,76,0
+12407,2001,Casey Hampton,DT,6,1,314,0,0,5.25,0,0,0,0,0,0,34,1,Texas,19(19),19,19,Casey,Hampton,73,0
+12662,2000,Kendrick Clancy,DT,6,1,283,0,0,5.25,0,0,4.65,0,27.5,108,25,3,Mississippi,10(72),10,72,Kendrick,Clancy,73,0
+12728,2000,Ryan Johanningmeier,OG,6,6,310,0,0,5.25,0,0,4.66,0,29,107,0,0,,,0,0,Ryan,Johanningmeier,78,0
+13023,1999,Mike Newell,OC,6,4,292,0,0,5.25,0,0,4.69,0,28.5,104,25,0,,,0,0,Mike,Newell,76,0
+14672,2014,Kadeem Edwards,OG,6,4,313,0,0,5.25,0,0,4.82,7.95,27,99,26,0,Tennessee St.,0,0,0,Kadeem,Edwards,76,0
+14876,2014,Shamar Stephen,DT,6,5,309,0,0,5.25,0,0,0,0,30.5,103,25,0,Connecticut,0,0,0,Shamar,Stephen,77,0
+9704,2011,Marcus Cannon,OT,6,5,358,34,9.125,5.26,0,0,4.97,0,30.5,105,33,5,TCU,7(138),7,138,Marcus,Cannon,77,0
+10260,2009,Max Unger,OC,6,5,309,0,0,5.26,0,0,4.5,0,24.5,93,22,2,Oregon,17(49),17,49,Max,Unger,77,0
+10263,2009,Travis Bright,OG,6,4,321,0,0,5.26,0,0,4.72,0,35.5,108,34,0,,,0,0,Travis,Bright,76,0
+10475,2008,Sedrick Ellis,DT,6,1,309,0,0,5.26,0,0,4.73,0,26.5,105,34,1,USC,7(7),7,7,Sedrick,Ellis,73,0
+11645,2004,Nick Leckey,OC,6,3,290,0,0,5.26,0,0,4.53,0,27,97,18,6,Kansas State,2(167),2,167,Nick,Leckey,75,0
+11704,2004,Dylan McFarland,OT,6,6,304,0,0,5.26,0,0,0,0,27.5,98,31,7,Montana,6(207),6,207,Dylan,McFarland,78,0
+11926,2003,Bruce Nelson,OC,6,5,301,0,0,5.26,0,0,0,0,0,0,21,2,Iowa,18(50),18,50,Bruce,Nelson,77,0
+11932,2003,David Diehl,OG,6,6,310,0,0,5.26,0,0,4.97,0,28,96,22,5,Illinois,25(160),25,160,David,Diehl,78,0
+11968,2003,Jason Jimenez,OT,6,7,311,0,0,5.26,0,0,4.69,0,30,96,18,0,,,0,0,Jason,Jimenez,79,0
+12129,2002,Brandon Moore,DT,6,3,293,0,0,5.26,0,0,4.64,0,25.5,96,32,0,,,0,0,Brandon,Moore,75,0
+12182,2002,Pete Campion,OG,6,4,307,0,0,5.26,0,0,4.81,0,25.5,88,30,7,North Dakota State,2(213),2,213,Pete,Campion,76,0
+12236,2002,Langston Walker,OT,6,8,344,0,0,5.26,0,0,4.95,0,28.5,102,21,2,California,21(53),21,53,Langston,Walker,80,0
+12446,2001,Ben Hamilton,OC,6,5,303,0,0,5.26,0,0,4.62,0,33.5,106,17,4,Minnesota,18(113),18,113,Ben,Hamilton,77,0
+12678,2000,Mao Tosi,DT,6,5,310,0,0,5.26,0,0,4.6,0,28.5,99,19,5,Idaho,7(136),7,136,Mao,Tosi,77,0
+12938,1999,Antonio Dingle,DT,6,2,320,0,0,5.26,0,0,4.85,0,31,102,22,7,Virginia,8(214),8,214,Antonio,Dingle,74,0
+13022,1999,Jamar Nesbit,OC,6,4,336,0,0,5.26,0,0,4.91,0,26.5,88,23,0,,,0,0,Jamar,Nesbit,76,0
+13119,1999,Todd Bandhaur,QB,6,3,236,0,0,5.26,0,0,4.61,0,31,103,0,0,,,0,0,Todd,Bandhaur,75,31
+14791,2014,Jeff Mathews,QB,6,4,223,0,0,5.26,0,0,4.36,7.14,25.5,105,0,0,Cornell,0,0,0,Jeff,Mathews,76,0
+9047,2013,Travis Bond,OG,6,6,329,35.5,9.625,5.27,0,1.8,4.96,7.85,22.5,98,22,7,North Carolina,8(214),8,214,Travis,Bond,78,0
+9343,2012,Ryan Miller,OG,6,7,321,0,0,5.27,0,0,4.78,7.72,28,100,32,5,Colorado,25(160),25,160,Ryan,Miller,79,0
+9385,2012,Tony Bergstrom,OT,6,5,313,32,9,5.27,0,0,4.84,7.95,29,101,32,3,Utah,32(95),32,95,Tony,Bergstrom,77,0
+9619,2011,Colby Whitlock,DT,6,2,302,30.375,9,5.27,0,0,4.75,0,30.5,105,25,0,,,0,0,Colby,Whitlock,74,0
+9653,2011,Rodney Hudson,OC,6,2,299,32.5,9.375,5.27,0,0,4.96,0,25.5,95,27,2,Florida State,23(55),23,55,Rodney,Hudson,74,0
+9667,2011,Andrew Jackson,OG,6,5,299,32.5,10.25,5.27,0,0,4.65,0,28,98,25,7,Fresno State,7(210),7,210,Andrew,Jackson,77,0
+9673,2011,Will Rackley,OG,6,3,309,33.25,10.375,5.27,0,0,4.94,0,23.5,0,29,0,,,0,0,Will,Rackley,75,0
+10527,2008,Mike Gibson,OG,6,4,305,0,0,5.27,0,0,4.64,0,27,110,31,6,California,18(184),18,184,Mike,Gibson,76,0
+10571,2008,David Hale,OT,6,6,314,0,0,5.27,0,0,4.75,0,26,100,25,4,Weber State,34(133),34,133,David,Hale,78,0
+10572,2008,Brandon Keith,OT,6,5,343,0,0,5.27,0,0,0,0,26,0,31,7,Northern Iowa,18(225),18,225,Brandon,Keith,77,0
+11035,2006,Babatunde Oshinowo,DT,6,2,304,0,0,5.27,0,0,4.57,0,32,105,33,6,Stanford,12(181),12,181,Babatunde,Oshinowo,74,0
+11036,2006,Domata Peko,DT,6,3,307,0,0,5.27,0,0,4.54,0,28.5,103,25,4,Michigan State,26(123),26,123,Domata,Peko,75,0
+11039,2006,Gabe Watson,DT,6,4,339,0,0,5.27,0,0,4.82,0,25,96,36,4,Michigan,10(107),10,107,Gabe,Watson,76,0
+11410,2005,Alex Barron,OT,6,8,318,0,0,5.27,0,0,4.57,0,35.5,0,0,1,Florida State,19(19),19,19,Alex,Barron,80,0
+12126,2002,Alan Harper,DT,6,2,295,0,0,5.27,0,0,4.64,0,30.5,104,0,4,Fresno State,23(121),23,121,Alan,Harper,74,0
+12228,2002,Marc Colombo,OT,6,8,313,0,0,5.27,0,0,4.6,0,29.5,101,30,1,Boston College,29(29),29,29,Marc,Colombo,80,0
+12449,2001,Chukky Okobi,OC,6,1,316,0,0,5.27,0,0,4.61,0,32.5,103,24,5,Purdue,15(146),15,146,Chukky,Okobi,73,0
+12942,1999,Kelly Gregg,DT,6,1,302,0,0,5.27,0,0,4.45,0,24,96,26,6,Oklahoma,4(173),4,173,Kelly,Gregg,73,0
+14674,2014,Justin Ellis,DT,6,1,334,0,0,5.27,0,0,0,7.81,28,92,25,0,Louisiana Tech,0,0,0,Justin,Ellis,73,0
+9383,2012,Jeff Allen,OT,6,4,307,0,0,5.28,0,0,4.9,8.01,27,102,26,2,Illinois,12(44),12,44,Jeff,Allen,76,0
+9604,2011,Sione Fua,DT,6,2,308,34,10.5,5.28,0,0,4.54,0,24,101,30,3,Stanford,33(97),33,97,Sione,Fua,74,0
+9661,2011,Clint Boling,OG,6,5,308,33.5,9.25,5.28,0,0,4.64,0,31,102,28,4,Georgia,4(101),4,101,Clint,Boling,77,0
+9665,2011,Zach Hurd,OG,6,7,316,34.25,9.625,5.28,0,0,4.77,0,28,101,0,0,,,0,0,Zach,Hurd,79,0
+9669,2011,Daniel Kilgore,OG,6,3,308,32.5,10,5.28,0,0,4.68,0,32.5,105,23,5,Appalachian State,32(163),32,163,Daniel,Kilgore,75,0
+9678,2011,Keith Williams,OG,6,4,318,32.375,10,5.28,0,0,5.03,0,24.5,93,23,6,Nebraska,31(196),31,196,Keith,Williams,76,0
+9963,2010,Zane Beadles,OG,6,5,310,33.75,9.75,5.28,0,0,0,0,0,0,27,2,Utah,13(45),13,45,Zane,Beadles,77,0
+10525,2008,James Blair,OG,6,3,323,0,0,5.28,0,0,5.33,0,23.5,103,28,0,,,0,0,James,Blair,75,0
+10563,2008,Corey Clark,OT,6,6,315,0,0,5.28,0,0,4.68,0,23,106,23,7,Texas A&M,27(234),27,234,Corey,Clark,78,0
+10568,2008,King Dunlap,OT,6,9,310,0,0,5.28,0,0,0,0,0,0,21,7,Auburn,23(230),23,230,King,Dunlap,81,0
+10803,2007,Dustin Fry,OC,6,3,315,0,0,5.28,0,0,0,0,0,0,34,5,Clemson,2(139),2,139,Dustin,Fry,75,0
+10863,2007,Dane Uperesa,OT,6,5,309,0,0,5.28,0,0,0,0,0,0,0,0,,,0,0,Dane,Uperesa,77,0
+11119,2006,Jeromey Clary,OT,6,6,309,0,0,5.28,0,0,4.66,0,26,102,24,6,Kansas State,18(187),18,187,Jeromey,Clary,78,0
+11129,2006,Dennis Roland,OT,6,10,328,0,0,5.28,0,0,0,0,0,0,19,0,,,0,0,Dennis,Roland,82,0
+11421,2005,Nick Kaczur,OT,6,5,319,0,0,5.28,0,0,0,0,31.5,0,0,3,Toledo,36(100),36,100,Nick,Kaczur,77,0
+11593,2004,Ahmad Childress,DT,6,6,351,0,0,5.28,0,0,4.94,0,22,86,0,0,,,0,0,Ahmad,Childress,78,0
+11963,2003,Brennan Curtin,OT,6,9,318,0,0,5.28,0,0,4.87,0,32,100,0,6,Notre Dame,39(212),39,212,Brennan,Curtin,81,0
+11970,2003,Garry Johnson,OT,6,4,289,0,0,5.28,0,0,4.89,0,24.5,97,17,0,,,0,0,Garry,Johnson,76,0
+11975,2003,Lance Nimmo,OT,6,5,303,0,0,5.28,0,0,4.96,0,27,90,20,4,West Virginia,33(130),33,130,Lance,Nimmo,77,0
+12193,2002,Broderick Lancaster,OG,6,4,310,0,0,5.28,0,0,0,0,0,0,14,0,,,0,0,Broderick,Lancaster,76,0
+12414,2001,Rickie Simpkins,DT,6,3,287,0,0,5.28,0,0,4.52,0,29.5,97,0,0,,,0,0,Rickie,Simpkins,75,0
+12459,2001,Kynan Forney,OG,6,3,312,0,0,5.28,0,0,4.77,0,27,97,23,7,Hawaii,19(219),19,219,Kynan,Forney,75,0
+12465,2001,Matt Lehr,OG,6,2,290,0,0,5.28,0,0,4.44,0,31.5,106,28,5,Virginia Tech,6(137),6,137,Matt,Lehr,74,0
+12508,2001,Patrick Venzke,OT,6,6,303,0,0,5.28,0,0,4.59,0,34,103,0,0,,,0,0,Patrick,Venzke,78,0
+12666,2000,Mike Derouselle,DT,6,3,314,0,0,5.28,0,0,4.8,0,27.5,96,27,0,,,0,0,Mike,Derouselle,75,0
+12774,2000,Michael Thompson,OT,6,5,305,0,0,5.28,0,0,4.73,0,26,104,16,4,Tennessee State,6(100),6,100,Michael,Thompson,77,0
+12777,2000,Tom Brady,QB,6,5,211,0,0,5.28,0,0,4.38,7.2,24.5,99,0,6,Michigan,33(199),33,199,Tom,Brady,77,33
+13091,1999,Dan Dercher,OT,6,6,293,0,0,5.28,0,0,4.49,0,28,109,14,0,,,0,0,Dan,Dercher,78,0
+13094,1999,Todd Frohbieter,OT,6,6,323,0,0,5.28,0,0,4.51,0,27,100,20,0,,,0,0,Todd,Frohbieter,78,0
+14686,2014,Cameron Fleming,OT,6,5,323,0,0,5.28,0,0,5,8.24,23.5,97,26,0,Stanford,0,0,0,Cameron,Fleming,77,0
+14885,2014,Travis Swanson,C,6,5,312,0,0,5.28,0,0,4.65,7.73,26,95,20,0,Arkansas,0,0,0,Travis,Swanson,77,0
+9102,2013,Menelik Watson,OT,6,5,310,34,10.375,5.29,0,1.8,5.01,8.31,24.5,103,0,2,Florida State,10(42),10,42,Menelik,Watson,77,0
+9659,2011,Stefen Wisniewski,OC,6,3,313,33,10.375,5.29,0,0,4.63,0,28.5,100,30,2,Penn State,16(48),16,48,Stefen,Wisniewski,75,0
+10279,2009,Jaimie Thomas,OG,6,4,323,0,0,5.29,0,0,0,0,0,0,20,7,Maryland,27(236),27,236,Jaimie,Thomas,76,0
+10307,2009,Robert Brewster,OT,6,4,325,0,0,5.29,0,0,4.75,0,30.5,98,23,3,Ball State,11(75),11,75,Robert,Brewster,76,0
+10472,2008,Kentwan Balmer,DT,6,5,308,0,0,5.29,0,0,4.82,0,29,103,33,1,North Carolina,29(29),29,29,Kentwan,Balmer,77,0
+10533,2008,Roy Schuening,OG,6,4,306,0,0,5.29,0,0,0,0,25,0,26,5,Oregon State,22(157),22,157,Roy,Schuening,76,0
+10570,2008,John Greco,OT,6,5,305,0,0,5.29,0,0,4.82,0,26,108,30,3,Toledo,2(65),2,65,John,Greco,77,0
+10853,2007,Corey Hilliard,OT,6,5,308,0,0,5.29,0,0,4.65,0,27,106,28,6,Oklahoma State,35(209),35,209,Corey,Hilliard,77,0
+11371,2005,Scott Mruczkowski,OC,6,5,321,0,0,5.29,0,0,0,0,0,0,28,7,Bowling Green,28(242),28,242,Scott,Mruczkowski,77,0
+11648,2004,Alex Stepanovich,OC,6,4,304,0,0,5.29,0,0,4.54,0,25.5,96,0,4,Ohio State,4(100),4,100,Alex,Stepanovich,76,0
+11706,2004,Shane Olivea,OT,6,3,302,0,0,5.29,0,0,4.76,0,29,92,0,7,Ohio State,8(209),8,209,Shane,Olivea,75,0
+11933,2003,Robbie Doane,OG,6,6,311,0,0,5.29,0,0,4.73,0,24.5,85,0,0,,,0,0,Robbie,Doane,78,0
+12195,2002,Quasim Mitchell,OG,6,6,335,0,0,5.29,0,0,4.94,0,26,0,22,0,,,0,0,Quasim,Mitchell,78,0
+12230,2002,Jermese Jones,OT,6,6,337,0,0,5.29,0,0,0,0,0,0,22,0,,,0,0,Jermese,Jones,78,0
+12406,2001,Mario Fatafehi,DT,6,2,295,0,0,5.29,0,0,0,0,0,0,0,5,Kansas State,2(133),2,133,Mario,Fatafehi,74,0
+12502,2001,Matt Light,OT,6,5,311,0,0,5.29,0,0,4.49,0,0,0,26,2,Purdue,17(48),17,48,Matt,Light,77,0
+13036,1999,Anthony Cesario,OG,6,6,312,0,0,5.29,0,0,0,0,26.5,103,0,3,Colorado State,27(88),27,88,Anthony,Cesario,78,0
+13051,1999,Jeremy Morgan,OG,6,4,296,0,0,5.29,0,0,4.62,0,23.5,92,0,0,,,0,0,Jeremy,Morgan,76,0
+8992,2013,T.J. Barnes,DT,6,6,369,34.875,10.75,5.3,0,1.88,4.96,8.26,22,97,25,0,,,0,0,T.J.,Barnes,78,0
+9091,2013,Luke Joeckel,OT,6,6,306,34.25,10.125,5.3,0,1.81,4.68,7.4,28.5,106,27,1,Texas A&M,2(2),2,2,Luke,Joeckel,78,0
+9386,2012,James Brown,OT,6,3,306,0,0,5.3,0,0,4.78,7.7,25,102,24,0,,,0,0,James,Brown,75,0
+10264,2009,Trevor Canfield,OG,6,5,307,0,0,5.3,0,0,0,0,0,0,29,7,Cincinnati,45(254),45,254,Trevor,Canfield,77,0
+10312,2009,Troy Kropog,OT,6,6,309,0,0,5.3,0,0,4.84,0,30,100,21,4,Tulane,35(135),35,135,Troy,Kropog,78,0
+10523,2008,Cody Wallace,OC,6,4,296,0,0,5.3,0,0,4.55,0,30.5,113,26,4,Texas A&M,8(107),8,107,Cody,Wallace,76,0
+10564,2008,Devin Clark,OT,6,4,305,0,0,5.3,0,0,5.03,0,21,95,25,0,,,0,0,Devin,Clark,76,0
+10576,2008,Tyler Polumbus,OT,6,8,312,0,0,5.3,0,0,4.86,0,26,112,24,0,,,0,0,Tyler,Polumbus,80,0
+10858,2007,Ken Shackleford,OT,6,5,322,0,0,5.3,0,0,5.05,0,24.5,102,28,6,Georgia,16(190),16,190,Ken,Shackleford,77,0
+11412,2005,Wesley Britt,OT,6,8,314,0,0,5.3,0,0,0,0,0,0,24,5,Alabama,28(164),28,164,Wesley,Britt,80,0
+11424,2005,Daniel Loper,OT,6,6,306,0,0,5.3,0,0,4.69,0,32,101,14,5,Texas Tech,14(150),14,150,Daniel,Loper,78,0
+11426,2005,Frank Omiyale,OT,6,4,310,0,0,5.3,0,0,4.72,0,29.5,101,22,5,Tennessee Tech,27(163),27,163,Frank,Omiyale,76,0
+11428,2005,Michael Roos,OT,6,7,320,0,0,5.3,0,0,4.52,0,29,97,19,2,Eastern Washington,9(41),9,41,Michael,Roos,79,0
+11649,2004,Scott Wells,OC,6,2,300,0,0,5.3,0,0,4.4,0,31,109,31,7,Tennessee,50(251),50,251,Scott,Wells,74,0
+11711,2004,Jacob Rogers,OT,6,6,307,0,0,5.3,0,0,0,0,0,0,30,2,USC,20(52),20,52,Jacob,Rogers,78,0
+11921,2003,Lucas Brigman,OC,6,1,308,0,0,5.3,0,0,4.67,0,27,101,26,0,,,0,0,Lucas,Brigman,73,0
+11937,2003,Montrae Holland,OG,6,2,333,0,0,5.3,0,0,5.13,0,0,0,30,4,Florida State,5(102),5,102,Montrae,Holland,74,0
+11977,2003,Tony Pashos,OT,6,6,337,0,0,5.3,0,0,0,0,0,0,38,5,Illinois,38(173),38,173,Tony,Pashos,78,0
+12202,2002,Frank Romero,OG,6,4,300,0,0,5.3,0,0,4.79,0,27.5,88,22,0,,,0,0,Frank,Romero,76,0
+12203,2002,Kendall Simmons,OG,6,3,311,0,0,5.3,0,0,4.71,0,28.5,98,24,1,Auburn,30(30),30,30,Kendall,Simmons,75,0
+12204,2002,Ed Taamu,OG,6,2,335,0,0,5.3,0,0,0,0,29,0,28,4,Utah,34(132),34,132,Ed,Taamu,74,0
+12237,2002,Mike Williams,OT,6,6,375,0,0,5.3,0,0,0,0,30,101,29,1,Texas,4(4),4,4,Mike,Williams,78,0
+12457,2001,Shawn Draper,OG,6,4,303,0,0,5.3,0,0,0,0,32,110,17,5,Alabama,25(156),25,156,Shawn,Draper,76,0
+12458,2001,Bill Ferrario,OG,6,2,314,0,0,5.3,0,0,0,0,0,0,17,4,Wisconsin,10(105),10,105,Bill,Ferrario,74,0
+12461,2001,Adam Haayer,OG,6,6,298,0,0,5.3,0,0,0,0,0,0,23,6,Minnesota,36(199),36,199,Adam,Haayer,78,0
+12473,2001,Alex Sulfsted,OG,6,4,312,0,0,5.3,0,0,0,0,30.5,96,0,6,Miami (OH),13(176),13,176,Alex,Sulfsted,76,0
+12480,2001,Paul Zukauskas,OG,6,5,307,0,0,5.3,0,0,0,0,0,0,22,7,Boston College,3(203),3,203,Paul,Zukauskas,77,0
+13053,1999,Rick Nord,OG,6,6,306,0,0,5.3,0,0,4.73,0,25.5,98,21,0,,,0,0,Rick,Nord,78,0
+13098,1999,Jon Jansen,OT,6,7,305,0,0,5.3,0,0,4.61,0,27,100,22,2,Michigan,6(37),6,37,Jon,Jansen,79,0
+14615,2014,Conor Boffeli,OG,6,4,298,0,0,5.3,0,0,4.61,7.44,25,101,21,0,Iowa,0,0,0,Conor,Boffeli,76,0
+14844,2014,Antonio  Richardson,OT,6,6,336,0,0,5.3,0,0,0,0,24.5,0,36,0,Tennessee,0,0,0,Antonio ,Richardson,78,0
+8997,2013,Cory Grissom,DT,6,1,306,33.25,9.25,5.31,0,1.74,4.81,7.79,27.5,97,22,0,,,0,0,Cory,Grissom,73,0
+8998,2013,Johnathan Hankins,DT,6,3,320,33,9.5,5.31,0,1.8,4.61,7.59,26,104,0,2,Ohio State,17(49),17,49,Johnathan,Hankins,75,0
+9051,2013,Edmund Kugbila,OG,6,4,317,34.875,10.25,5.31,0,1.82,4.65,7.72,22.5,105,23,4,Valdosta State,11(108),11,108,Edmund,Kugbila,76,0
+9085,2013,D.J. Fluker,OT,6,5,339,36.75,10.5,5.31,0,1.83,0,0,0,0,21,1,Alabama,11(11),11,11,D.J.,Fluker,77,0
+9384,2012,Justin Anderson,OT,6,4,335,0,0,5.31,0,0,4.99,8.04,27,101,32,7,Georgia,1(208),1,208,Justin,Anderson,76,0
+9598,2011,Ladi Ajiboye,DT,6,1,297,34,10,5.31,0,0,4.71,0,24,91,23,0,,,0,0,Ladi,Ajiboye,73,0
+9660,2011,David Arkin,OG,6,5,300,33.875,10.5,5.31,0,0,4.63,0,29,103,25,4,Missouri State,13(110),13,110,David,Arkin,77,0
+9702,2011,Joseph Barksdale,OT,6,5,325,36,10,5.31,0,0,4.75,0,29,103,29,0,,,0,0,Joseph,Barksdale,77,0
+9714,2011,Kevin Hughes,OT,6,4,302,34.375,9.5,5.31,0,0,4.97,0,29.5,95,22,0,,,0,0,Kevin,Hughes,76,0
+9968,2010,Kurtis Gregory,OG,6,5,305,33,10.25,5.31,0,0,4.93,0,25.5,0,26,0,,,0,0,Kurtis,Gregory,77,0
+9978,2010,Mike Tepper,OG,6,6,324,32.5,10.25,5.31,0,0,5.25,0,26.5,0,28,0,,,0,0,Mike,Tepper,78,0
+10476,2008,Letroy Guion,DT,6,4,303,0,0,5.31,0,0,0,0,0,0,26,5,Florida State,17(152),17,152,Letroy,Guion,76,0
+11365,2005,Junius Coston,OC,6,4,310,0,0,5.31,0,0,4.64,0,29.5,102,21,5,North Carolina A&T,7(143),7,143,Junius,Coston,76,0
+11368,2005,Drew Hodgdon,OC,6,3,309,0,0,5.31,0,0,4.48,0,32.5,109,0,5,Arizona State,15(151),15,151,Drew,Hodgdon,75,0
+11427,2005,Jeremy Parquet,OT,6,7,323,0,0,5.31,0,0,4.9,0,29.5,94,17,7,Southern Miss,24(238),24,238,Jeremy,Parquet,79,0
+11433,2005,Sam Wilder,OT,6,5,302,0,0,5.31,0,0,4.52,0,26.5,102,23,0,,,0,0,Sam,Wilder,77,0
+12197,2002,Marquise Muldrow,OG,6,2,316,0,0,5.31,0,0,4.8,0,25.5,98,29,0,,,0,0,Marquise,Muldrow,74,0
+12200,2002,Mike Pucillo,OG,6,4,317,0,0,5.31,0,0,0,0,0,0,26,7,Auburn,4(215),4,215,Mike,Pucillo,76,0
+12233,2002,Terrence Metcalf,OT,6,4,318,0,0,5.31,0,0,0,0,0,0,28,3,Mississippi,28(93),28,93,Terrence,Metcalf,76,0
+12424,2001,Dustin McClintock,FB,6,2,259,0,0,5.31,0,0,4.58,0,30,105,7,0,,,0,0,Dustin,McClintock,74,0
+12500,2001,Jonas Jennings,OT,6,4,334,0,0,5.31,0,0,4.93,0,29.5,107,31,3,Georgia,33(95),33,95,Jonas,Jennings,76,0
+12667,2000,Ernest Grant,DT,6,5,316,0,0,5.31,0,0,5.03,0,29.5,98,24,6,Arkansas-Pine Bluff,1(167),1,167,Ernest,Grant,77,0
+12735,2000,Roger Roesler,OG,6,6,314,0,0,5.31,0,0,4.76,0,29.5,101,25,0,,,0,0,Roger,Roesler,78,0
+12767,2000,Damion McIntosh,OT,6,4,328,0,0,5.31,0,0,4.71,0,26,97,23,3,Kansas State,21(83),21,83,Damion,McIntosh,76,0
+12776,2000,Bobby Williams,OT,6,4,332,0,0,5.31,0,0,4.72,0,29,97,28,0,,,0,0,Bobby,Williams,76,0
+12954,1999,Chad Pegues,DT,6,1,289,0,0,5.31,0,0,4.69,0,26,100,25,0,,,0,0,Chad,Pegues,73,0
+12961,1999,Jason Wiltz,DT,6,4,308,0,0,5.31,0,0,4.51,0,27.5,101,0,4,Nebraska,28(123),28,123,Jason,Wiltz,76,0
+14901,2014,John Urschel,OG,6,3,313,0,0,5.31,0,0,4.47,7.55,29,102,30,0,Penn St.,0,0,0,John,Urschel,75,0
+9298,2012,Travian Robertson,DT,6,4,302,32.25,10.125,5.32,0,0,0,0,26,102,30,7,South Carolina,42(249),42,249,Travian,Robertson,76,0
+9390,2012,Andrew Datko,OT,6,6,315,33.875,10,5.32,0,0,4.54,7.71,29,100,0,7,Florida State,34(241),34,241,Andrew,Datko,78,0
+9719,2011,Jah Reid,OT,6,7,327,34.375,10.25,5.32,0,0,4.65,0,29.5,111,28,3,UCF,21(85),21,85,Jah,Reid,79,0
+10217,2009,Vance Walker,DT,6,2,304,0,0,5.32,0,0,0,0,33,0,29,7,Georgia Tech,1(210),1,210,Vance,Walker,74,0
+10267,2009,Ray Feinga,OG,6,4,337,0,0,5.32,0,0,0,0,0,0,30,0,,,0,0,Ray,Feinga,76,0
+10278,2009,Duke Robinson,OG,6,5,329,0,0,5.32,0,0,0,0,0,0,0,5,Oklahoma,27(163),27,163,Duke,Robinson,77,0
+10482,2008,Frank Okam,DT,6,5,347,0,0,5.32,0,0,4.95,0,23,104,32,5,Texas,16(151),16,151,Frank,Okam,77,0
+10807,2007,Drew Mormino,OC,6,3,299,0,0,5.32,0,0,4.53,0,28,105,27,6,Central Michigan,25(199),25,199,Drew,Mormino,75,0
+11118,2006,Rashad Butler,OT,6,5,293,0,0,5.32,0,0,4.55,0,28,0,16,3,Miami (FL),25(89),25,89,Rashad,Butler,77,0
+11130,2006,Jonathan Scott,OT,6,7,315,0,0,5.32,0,0,4.87,0,24.5,101,0,5,Texas,8(141),8,141,Jonathan,Scott,79,0
+11651,2004,Vernon Carey,OG,6,5,335,0,0,5.32,0,0,0,0,0,0,30,1,Miami (FL),19(19),19,19,Vernon,Carey,77,0
+11695,2004,Sean Bubin,OT,6,7,306,0,0,5.32,0,0,4.78,0,24.5,97,25,5,Illinois,27(159),27,159,Sean,Bubin,79,0
+11978,2003,David Porter,OT,6,6,311,0,0,5.32,0,0,4.98,0,26,85,0,0,,,0,0,David,Porter,78,0
+12194,2002,Tango McCauley,OG,6,4,304,0,0,5.32,0,0,4.78,0,31,104,29,0,,,0,0,Tango,McCauley,76,0
+12401,2001,Marcus Bell,DT,6,2,319,0,0,5.32,0,0,4.71,0,0,98,17,4,Memphis,28(123),28,123,Marcus,Bell,74,0
+12475,2001,Chris Valletta,OG,6,3,299,0,0,5.32,0,0,4.53,0,33.5,98,18,0,,,0,0,Chris,Valletta,75,0
+12497,2001,Leonard Davis,OT,6,6,370,0,0,5.32,0,0,5.18,0,28,105,33,1,Texas,2(2),2,2,Leonard,Davis,78,0
+12506,2001,Marques Sullivan,OT,6,5,338,0,0,5.32,0,0,4.83,0,30.5,98,28,5,Illinois,13(144),13,144,Marques,Sullivan,77,0
+13034,1999,Doug Brzezinski,OG,6,4,309,0,0,5.32,0,0,4.53,0,26,98,26,3,Boston College,3(64),3,64,Doug,Brzezinski,76,0
+9003,2013,Chris Jones,DT,6,2,302,32.75,9,5.33,0,1.83,4.44,7.34,0,0,30,0,,,0,0,Chris,Jones,74,0
+9035,2013,Braxston Cave,OC,6,3,303,32,9.375,5.33,0,1.87,4.71,7.81,25.5,98,0,0,,,0,0,Braxston,Cave,75,0
+9038,2013,T.J. Johnson,OC,6,4,310,33.5,9.5,5.33,0,1.83,4.74,7.83,25.5,96,32,7,South Carolina,45(251),45,251,T.J.,Johnson,76,0
+9089,2013,Garrett Gilkey,OT,6,6,318,32.625,10.25,5.33,0,1.72,4.75,7.65,30,108,28,7,Chadron State,21(227),21,227,Garrett,Gilkey,78,0
+10274,2009,Andy Levitre,OG,6,3,305,0,0,5.33,0,0,4.52,0,30.5,103,23,2,Oregon State,19(51),19,51,Andy,Levitre,75,0
+10531,2008,Drew Radovich,OG,6,5,301,0,0,5.33,0,0,4.53,0,23,108,21,0,,,0,0,Drew,Radovich,77,0
+12177,2002,Jason Scukanec,OC,6,2,304,0,0,5.33,0,0,4.59,0,29,100,30,0,,,0,0,Jason,Scukanec,74,0
+12229,2002,Matt Hill,OT,6,6,300,0,0,5.33,0,0,4.54,0,28.5,101,20,5,Boise State,36(171),36,171,Matt,Hill,78,0
+12466,2001,Victor Leyva,OG,6,4,313,0,0,5.33,0,0,4.77,0,30,105,37,5,Arizona State,4(135),4,135,Victor,Leyva,76,0
+12471,2001,Omar Smith,OG,6,2,293,0,0,5.33,0,0,0,0,30,98,21,0,,,0,0,Omar,Smith,74,0
+12496,2001,Chris Brown,OT,6,5,329,0,0,5.33,0,0,0,0,0,0,30,0,,,0,0,Chris,Brown,77,0
+12503,2001,Kareem McKenzie,OT,6,6,328,0,0,5.33,0,0,4.8,0,33,103,20,3,Penn State,17(79),17,79,Kareem,McKenzie,78,0
+13028,1999,Tom Schau,OC,6,5,302,0,0,5.33,0,0,4.53,0,28,109,24,0,,,0,0,Tom,Schau,77,0
+9389,2012,John Cullen,OT,6,4,297,32.125,9.875,5.34,0,0,4.59,7.58,27,102,23,0,,,0,0,John,Cullen,76,0
+9407,2012,Dustin Waldron,OT,6,5,305,32.75,9.75,5.34,0,0,4.75,7.93,26,103,29,0,,,0,0,Dustin,Waldron,77,0
+9666,2011,Maurice Hurt,OG,6,3,318,34.125,9,5.34,0,0,0,0,0,0,18,7,Florida,14(217),14,217,Maurice,Hurt,75,0
+9966,2010,Brandon Carter,OG,6,6,329,33.5,10.625,5.34,0,0,4.94,0,24.5,0,22,0,,,0,0,Brandon,Carter,78,0
+9974,2010,Mitch Petrus,OG,6,3,310,33.75,9.5,5.34,0,0,0,0,0,0,45,5,Arkansas,16(147),16,147,Mitch,Petrus,75,0
+10319,2009,Michael Oher,OT,6,5,309,0,0,5.34,0,0,4.6,0,30.5,103,21,1,Mississippi,23(23),23,23,Michael,Oher,77,19
+10813,2007,Nathan Bennett,OG,6,5,316,0,0,5.34,0,0,5.04,0,26.5,87,34,0,,,0,0,Nathan,Bennett,77,0
+11381,2005,Chris Kemoeatu,OG,6,4,344,0,0,5.34,0,0,4.57,0,29,98,26,6,Utah,30(204),30,204,Chris,Kemoeatu,76,0
+11387,2005,Adam Snyder,OG,6,6,316,0,0,5.34,0,0,4.86,0,28.5,93,21,3,Oregon,30(94),30,94,Adam,Snyder,78,0
+11930,2003,Anthony Davis,OG,6,5,329,0,0,5.34,0,0,4.98,0,27.5,95,0,0,,,0,0,Anthony,Davis,77,0
+12180,2002,Kevin Barry,OG,6,4,325,0,0,5.34,0,0,4.73,0,28.5,108,24,0,,,0,0,Kevin,Barry,76,0
+12189,2002,Andre Gurode,OG,6,5,316,0,0,5.34,0,0,5.05,0,30.5,100,0,2,Colorado,5(37),5,37,Andre,Gurode,77,0
+12198,2002,Melvin Paige,OG,6,5,314,0,0,5.34,0,0,0,0,23.5,0,30,0,,,0,0,Melvin,Paige,77,0
+12736,2000,Manuia Savea,OG,6,2,308,0,0,5.34,0,0,0,0,25,92,24,7,Arizona,1(207),1,207,Manuia,Savea,74,0
+12759,2000,Mark Baniewicz,OT,6,6,312,0,0,5.34,0,0,4.73,0,28,96,20,7,Syracuse,41(247),41,247,Mark,Baniewicz,78,0
+13027,1999,Grey Ruegamer,OC,6,5,315,0,0,5.34,0,0,4.68,0,27.5,94,18,3,Arizona State,11(72),11,72,Grey,Ruegamer,77,0
+14711,2014,Jon Halapio,OG,6,3,323,0,0,5.34,0,0,4.83,8.26,21.5,100,0,0,Florida,0,0,0,Jon,Halapio,75,0
+14737,2014,Ja'Wuan James,OT,6,6,311,0,0,5.34,0,0,4.56,7.42,29,103,22,0,Tennessee,0,0,0,Ja'Wuan,James,78,0
+14823,2014,Matthew Paradis,C,6,3,306,0,0,5.34,0,0,4.46,7.6,26,103,23,0,Boise St.,0,0,0,Matthew,Paradis,75,0
+9326,2012,Michael Brewster,OC,6,2,312,31.5,9.5,5.35,0,0,4.6,7.73,25,96,29,0,,,0,0,Michael,Brewster,74,0
+10320,2009,Augustus Parrish,OT,6,4,303,0,0,5.35,0,0,0,0,0,78,21,0,,,0,0,Augustus,Parrish,76,0
+10522,2008,John Sullivan,OC,6,4,301,0,0,5.35,0,0,4.55,0,30,103,21,6,Notre Dame,21(187),21,187,John,Sullivan,76,0
+10804,2007,Leroy Harris,OC,6,3,302,0,0,5.35,0,0,4.8,0,24.5,96,29,4,North Carolina State,16(115),16,115,Leroy,Harris,75,0
+10808,2007,Dan Mozes,OC,6,3,293,0,0,5.35,0,0,4.84,0,25.5,101,28,0,,,0,0,Dan,Mozes,75,0
+11137,2006,E.J. Whitley,OT,6,5,309,0,0,5.35,0,0,4.8,0,25,101,16,7,Texas Tech,16(224),16,224,E.J.,Whitley,77,0
+11377,2005,Dan Buenning,OG,6,4,320,0,0,5.35,0,0,4.64,0,28,111,29,4,Wisconsin,6(107),6,107,Dan,Buenning,76,0
+11591,2004,Dietrich Canterberry,DT,6,3,308,0,0,5.35,0,0,0,0,0,0,26,0,,,0,0,Dietrich,Canterberry,75,0
+11949,2003,Torrin Tucker,OG,6,6,328,0,0,5.35,0,0,4.97,0,30,103,0,0,,,0,0,Torrin,Tucker,78,0
+11976,2003,Will Ofenheusle,OT,6,7,308,0,0,5.35,0,0,5.03,0,26.5,94,23,0,,,0,0,Will,Ofenheusle,79,0
+12768,2000,Kualana Noa,OT,6,4,317,0,0,5.35,0,0,4.74,0,25.5,98,27,0,,,0,0,Kualana,Noa,76,0
+13037,1999,Tony Coats,OG,6,7,312,0,0,5.35,0,0,4.54,0,30,101,21,7,Washington,3(209),3,209,Tony,Coats,79,0
+13042,1999,Justin Glasgow,OG,6,5,328,0,0,5.35,0,0,4.59,0,24,95,35,0,,,0,0,Justin,Glasgow,77,0
+13089,1999,DeMarcus Curry,OT,6,5,317,0,0,5.35,0,0,4.69,0,25.5,98,20,0,,,0,0,DeMarcus,Curry,77,0
+13095,1999,Aaron Gibson,OT,6,6,386,0,0,5.35,0,0,4.54,0,24,111,31,1,Wisconsin,27(27),27,27,Aaron,Gibson,78,0
+14749,2014,DaQuan Jones,DT,6,4,322,0,0,5.35,0,0,0,7.73,27.5,101,25,0,Penn St.,0,0,0,DaQuan,Jones,76,0
+14771,2014,Brandon Linder,OG,6,6,311,0,0,5.35,0,0,0,0,26.5,100,30,0,Miami,0,0,0,Brandon,Linder,78,0
+14809,2014,Morgan Moses,OT,6,6,314,0,0,5.35,0,0,4.95,7.93,21.5,106,0,0,Virginia,0,0,0,Morgan,Moses,78,0
+9279,2012,Michael Brockers,DT,6,6,322,35,9.125,5.36,0,0,4.81,7.46,26,105,19,1,LSU,14(14),14,14,Michael,Brockers,78,0
+9295,2012,Tydreke Powell,DT,6,2,311,0,0,5.36,0,0,4.62,7.31,28,99,29,0,,,0,0,Tydreke,Powell,74,0
+9339,2012,Ronald Leary,OG,6,3,315,0,0,5.36,0,0,4.91,7.87,29,104,30,0,,,0,0,Ronald,Leary,75,0
+9345,2012,Kelechi Osemele,OG,6,6,333,35.875,10.25,5.36,0,0,4.87,7.91,26,104,32,2,Iowa State,28(60),28,60,Kelechi,Osemele,78,0
+9401,2012,Nate Potter,OT,6,6,303,34.625,9.625,5.36,0,0,4.67,7.49,28,100,22,7,Boise State,14(221),14,221,Nate,Potter,78,0
+9655,2011,Alex Linnenkohl,OC,6,2,304,31.375,9.25,5.36,0,0,4.62,0,26.5,89,24,0,,,0,0,Alex,Linnenkohl,74,0
+9677,2011,Danny Watkins,OG,6,3,310,34.25,10.125,5.36,0,0,4.62,0,26,92,29,1,Baylor,23(23),23,23,Danny,Watkins,75,0
+10016,2010,Anthony Davis,OT,6,5,323,34,10.125,5.36,0,0,4.97,0,33,0,21,1,Rutgers,11(11),11,11,Anthony,Davis,77,0
+10020,2010,Kyle Jolly,OT,6,6,311,33.5,10.25,5.36,0,0,4.87,0,21.5,0,20,0,,,0,0,Kyle,Jolly,78,0
+10257,2009,Brett Helms,OC,6,2,286,0,0,5.36,0,0,0,0,0,0,25,0,,,0,0,Brett,Helms,74,0
+10579,2008,Geoff Schwartz,OT,6,6,332,0,0,5.36,0,0,4.79,0,20.5,98,0,7,Oregon,34(241),34,241,Geoff,Schwartz,78,0
+10812,2007,Josh Beekman,OG,6,2,313,0,0,5.36,0,0,4.81,0,25.5,93,24,4,Boston College,31(130),31,130,Josh,Beekman,74,0
+11094,2006,Dan Stevenson,OG,6,5,300,0,0,5.36,0,0,4.6,0,24.5,100,24,6,Notre Dame,36(205),36,205,Dan,Stevenson,77,0
+11314,2005,Larry Burt,DT,6,2,305,0,0,5.36,0,0,4.75,0,28,98,22,0,,,0,0,Larry,Burt,74,0
+11703,2004,Brad Lekkerkerker,OT,6,7,317,0,0,5.36,0,0,4.73,0,27.5,102,23,0,,,0,0,Brad,Lekkerkerker,79,0
+11707,2004,Tony Pape,OT,6,6,324,0,0,5.36,0,0,4.6,0,27,97,26,7,Michigan,20(221),20,221,Tony,Pape,78,0
+11716,2004,Mark Wilson,OT,6,7,314,0,0,5.36,0,0,4.5,0,28.5,108,24,5,California,19(151),19,151,Mark,Wilson,79,0
+12235,2002,Kurt Vollers,OT,6,7,321,0,0,5.36,0,0,0,0,30.5,0,30,0,,,0,0,Kurt,Vollers,79,0
+12450,2001,Tupe Peko,OC,6,4,301,0,0,5.36,0,0,4.56,0,28,92,18,0,,,0,0,Tupe,Peko,76,0
+13032,1999,Ben Adams,OG,6,5,324,0,0,5.36,0,0,4.83,0,25.5,98,26,0,,,0,0,Ben,Adams,77,0
+13040,1999,Lennie Friedman,OG,6,3,301,0,0,5.36,0,0,4.51,0,29,100,25,2,Duke,30(61),30,61,Lennie,Friedman,75,0
+13097,1999,Jay Humphrey,OT,6,7,322,0,0,5.36,0,0,4.62,0,31,106,0,4,Texas,30(125),30,125,Jay,Humphrey,79,0
+13109,1999,Marek Rubin,OT,6,6,310,0,0,5.36,0,0,4.76,0,25,96,26,0,,,0,0,Marek,Rubin,78,0
+14599,2014,Matt Armstrong,C,6,2,302,0,0,5.36,0,0,0,0,0,0,0,0,Grand Valley St.,0,0,0,Matt,Armstrong,74,0
+14845,2014,Cyril Richardson,OG,6,5,329,0,0,5.36,0,0,4.83,7.7,25.5,91,25,0,Baylor,0,0,0,Cyril,Richardson,77,0
+14884,2014,Will Sutton,DT,6,0,303,0,0,5.36,0,0,0,7.93,28.5,99,24,0,Arizona State,0,0,0,Will,Sutton,72,0
+9008,2013,Brandon Williams,DT,6,1,335,32.625,9.75,5.37,0,1.79,4.91,8.09,29.5,102,38,3,Missouri Southern State,32(94),32,94,Brandon,Williams,73,0
+9094,2013,Jamaal Johnson-Webb,OT,6,5,313,35.75,10,5.37,0,1.83,4.74,8.12,23,92,17,0,,,0,0,Jamaal,Johnson-Webb,77,0
+9097,2013,Jordan Mills,OT,6,5,316,34,9.75,5.37,0,1.77,4.88,8.1,28.5,101,20,5,Louisiana Tech,30(163),30,163,Jordan,Mills,77,0
+9302,2012,Alameda Taamu,DT,6,2,248,32,9.75,5.37,0,0,0,0,26,103,35,4,Washington,14(109),14,109,Alameda,Taamu,74,0
+9340,2012,Josh LeRibeus,OG,6,3,312,0,0,5.37,0,0,4.65,7.64,26,96,29,3,Southern Methodist,8(71),8,71,Josh,LeRibeus,75,0
+9403,2012,Matt Reynolds,OT,6,4,302,33.25,9.625,5.37,0,0,0,0,0,0,25,0,,,0,0,Matt,Reynolds,76,0
+9970,2010,Mike Johnson,OG,6,1,312,32.5,9.75,5.37,0,0,5.01,0,25,0,0,3,Alabama,34(98),34,98,Mike,Johnson,73,0
+10022,2010,Cole Pemberton,OT,6,7,315,34.25,10.125,5.37,0,0,4.77,0,22.5,0,18,0,,,0,0,Cole,Pemberton,79,0
+10280,2009,Kraig Urbik,OG,6,5,328,0,0,5.37,0,0,4.89,0,24,94,29,3,Wisconsin,15(79),15,79,Kraig,Urbik,77,0
+10819,2007,Uche Nwaneri,OG,6,3,325,0,0,5.37,0,0,0,0,0,0,24,5,Purdue,12(149),12,149,Uche,Nwaneri,75,0
+10871,2007,Toby Korrodi,QB,6,4,234,0,0,5.37,0,0,4.64,0,25,91,0,0,,,0,0,Toby,Korrodi,76,12
+11714,2004,Drew Strojny,OT,6,7,322,0,0,5.37,0,0,4.87,0,29.5,99,0,0,,,0,0,Drew,Strojny,79,0
+11969,2003,Ben Johnson,OT,6,7,329,0,0,5.37,0,0,0,0,0,0,30,7,Wisconsin,2(216),2,216,Ben,Johnson,79,0
+11981,2003,Watts Sanderson,OT,6,5,303,0,0,5.37,0,0,4.94,0,28.5,100,24,0,,,0,0,Watts,Sanderson,77,0
+12176,2002,Zach Quaccia,OC,6,4,309,0,0,5.37,0,0,4.6,0,26.5,93,23,0,,,0,0,Zach,Quaccia,76,0
+12178,2002,Fred Weary,OC,6,5,308,0,0,5.37,0,0,4.63,0,32,104,34,3,Tennessee,1(66),1,66,Fred,Weary,77,0
+12495,2001,Jeff Backus,OT,6,6,310,0,0,5.37,0,0,4.67,0,27,99,25,1,Michigan,18(18),18,18,Jeff,Backus,78,0
+12737,2000,Mark Tauscher,OG,6,4,318,0,0,5.37,0,0,4.84,0,27,90,22,7,Wisconsin,18(224),18,224,Mark,Tauscher,76,0
+12770,2000,Tutan Reyes,OT,6,3,299,0,0,5.37,0,0,4.88,0,26.5,99,20,5,Mississippi,2(131),2,131,Tutan,Reyes,75,0
+12773,2000,Marvel Smith,OT,6,5,320,0,0,5.37,0,0,4.83,0,27.5,100,24,2,Arizona State,7(38),7,38,Marvel,Smith,77,0
+12793,2000,Chris Redman,QB,6,3,222,0,0,5.37,0,0,4.78,0,26.5,98,0,3,Louisville,13(75),13,75,Chris,Redman,75,16
+13108,1999,Cleve Roberts,OT,6,6,290,0,0,5.37,0,0,4.86,0,23.5,94,16,0,,,0,0,Cleve,Roberts,78,0
+14681,2014,Matt Feiler,OT,6,6,330,0,0,5.37,0,0,4.86,8.13,26.5,103,36,0,Bloomsburg,0,0,0,Matt,Feiler,78,0
+14801,2014,Jack Mewhort,OT,6,6,309,0,0,5.37,0,0,4.64,7.79,26,101,28,0,Ohio St.,0,0,0,Jack,Mewhort,78,0
+9039,2013,P.J. Lonergan,OC,6,3,304,33,10.125,5.38,0,1.79,0,0,0,0,25,0,,,0,0,P.J.,Lonergan,75,0
+9331,2012,Quentin Saulsberry,OC,6,2,304,0,0,5.38,0,0,4.99,8.19,22,90,26,0,,,0,0,Quentin,Saulsberry,74,0
+9712,2011,Chris Hairston,OT,6,6,326,35.25,9.25,5.38,0,0,4.7,0,29,96,33,4,Clemson,25(122),25,122,Chris,Hairston,78,0
+10474,2008,Lionel Dotson,DT,6,4,296,0,0,5.38,0,0,4.75,0,25,99,0,7,Arizona,38(245),38,245,Lionel,Dotson,76,0
+10528,2008,Mike McGlynn,OG,6,4,311,0,0,5.38,0,0,4.72,0,23,101,30,4,Pittsburgh,10(109),10,109,Mike,McGlynn,76,0
+10529,2008,Shawn Murphy,OG,6,4,320,0,0,5.38,0,0,4.89,0,21.5,100,29,4,Utah State,11(110),11,110,Shawn,Murphy,76,0
+10864,2007,Elliot Vallejo,OT,6,7,327,0,0,5.38,0,0,5.14,0,26,94,24,0,,,0,0,Elliot,Vallejo,79,0
+11090,2006,Mark Setterstrom,OG,6,4,314,0,0,5.38,0,0,4.56,0,26.5,100,19,7,Minnesota,34(242),34,242,Mark,Setterstrom,76,0
+11131,2006,Zach Strief,OT,6,8,330,0,0,5.38,0,0,4.85,0,21,94,19,7,Northwestern,2(210),2,210,Zach,Strief,80,0
+11420,2005,Justin Geisinger,OT,6,4,322,0,0,5.38,0,0,4.62,0,25,95,34,6,Vanderbilt,23(197),23,197,Justin,Geisinger,76,0
+11603,2004,Chad Pugh,DT,6,3,321,0,0,5.38,0,0,4.92,0,25,98,19,0,,,0,0,Chad,Pugh,75,0
+11612,2004,Jeff Womble,DT,6,1,313,0,0,5.38,0,0,0,0,28,0,18,0,,,0,0,Jeff,Womble,73,0
+11928,2003,Justin Bates,OG,6,4,300,0,0,5.38,0,0,0,0,0,0,18,7,Colorado,5(219),5,219,Justin,Bates,76,0
+11929,2003,Jeremy Bridges,OG,6,4,301,0,0,5.38,0,0,4.77,0,28.5,96,25,6,Southern Miss,12(185),12,185,Jeremy,Bridges,76,0
+12179,2002,P.J. Alexander,OG,6,4,299,0,0,5.38,0,0,4.73,0,29.5,102,0,0,,,0,0,P.J.,Alexander,76,0
+12933,1999,Albrey Battle,DT,6,3,294,0,0,5.38,0,0,4.66,0,29,101,23,0,,,0,0,Albrey,Battle,75,0
+9350,2012,Rokevious Watkins,OG,6,4,338,34.625,10,5.39,0,0,4.9,7.87,27,102,0,5,South Carolina,15(150),15,150,Rokevious,Watkins,76,0
+9352,2012,Kevin Zeitler,OG,6,4,314,32.75,10.25,5.39,0,0,4.61,7.77,29,101,32,1,Wisconsin,27(27),27,27,Kevin,Zeitler,76,0
+9718,2011,Jason Pinkston,OT,6,3,317,34,10.25,5.39,0,0,4.91,0,26.5,98,0,5,Pittsburgh,19(150),19,150,Jason,Pinkston,75,0
+10256,2009,Alex Fletcher,OC,6,2,297,0,0,5.39,0,0,4.65,0,28,96,30,0,,,0,0,Alex,Fletcher,74,0
+11126,2006,Ryan OCallaghan,OT,6,7,344,0,0,5.39,0,0,0,0,25,92,21,5,California,3(136),3,136,Ryan,OCallaghan,79,0
+11128,2006,Terrance Pennington,OT,6,7,325,0,0,5.39,0,0,0,0,28.5,102,28,7,New Mexico,8(216),8,216,Terrance,Pennington,79,0
+11429,2005,Wes Sims,OT,6,5,318,0,0,5.39,0,0,4.45,0,28,108,26,6,Oklahoma,3(177),3,177,Wes,Sims,77,0
+12733,2000,Richard Mercier,OG,6,3,295,0,0,5.39,0,0,4.78,0,26,97,18,5,Miami (FL),19(148),19,148,Richard,Mercier,75,0
+12766,2000,Chris McIntosh,OT,6,7,315,0,0,5.39,0,0,0,0,0,0,28,1,Wisconsin,22(22),22,22,Chris,McIntosh,79,0
+9382,2012,Mike Adams,OT,6,7,323,34,10.875,5.4,0,0,4.95,7.94,28,100,19,2,Ohio State,24(56),24,56,Mike,Adams,79,0
+9662,2011,Justin Boren,OG,6,3,309,32,9.5,5.4,0,0,4.75,0,0,0,28,0,,,0,0,Justin,Boren,75,0
+9668,2011,Carl Johnson,OG,6,5,361,36.5,10.25,5.4,0,0,5.03,0,25.5,96,25,0,,,0,0,Carl,Johnson,77,0
+9722,2011,Willie Smith,OT,6,5,310,34.5,11.25,5.4,0,0,4.83,0,30.5,106,0,0,,,0,0,Willie,Smith,77,0
+10261,2009,Edwin Williams,OC,6,2,308,0,0,5.4,0,0,4.98,0,28.5,99,22,0,,,0,0,Edwin,Williams,74,0
+10270,2009,Tyronne Green,OG,6,2,309,0,0,5.4,0,0,0,0,0,0,22,4,Auburn,33(133),33,133,Tyronne,Green,74,0
+10321,2009,Garrett Reynolds,OT,6,8,309,0,0,5.4,0,0,4.88,0,22,94,19,5,North Carolina,20(156),20,156,Garrett,Reynolds,80,0
+10323,2009,Fenuki Tupou,OT,6,6,314,0,0,5.4,0,0,5.02,0,25.5,94,24,5,Oregon,23(159),23,159,Fenuki,Tupou,78,0
+10750,2007,Quintin Echols,DT,6,1,328,0,0,5.4,0,0,0,0,0,0,25,0,,,0,0,Quintin,Echols,73,0
+10822,2007,Cameron Stephenson,OG,6,3,306,0,0,5.4,0,0,4.81,0,28.5,101,34,5,Rutgers,19(156),19,156,Cameron,Stephenson,75,0
+10824,2007,Mansfield Wrotto,OG,6,3,317,0,0,5.4,0,0,4.92,0,0,92,27,4,Georgia Tech,25(124),25,124,Mansfield,Wrotto,75,0
+10845,2007,Levi Brown,OT,6,6,323,0,0,5.4,0,0,4.89,0,25.5,97,31,1,Penn State,5(5),5,5,Levi,Brown,78,0
+11088,2006,Rob Meadow,OG,6,5,324,0,0,5.4,0,0,4.76,0,24,99,29,0,,,0,0,Rob,Meadow,77,0
+11093,2006,Jason Spitz,OG,6,4,313,0,0,5.4,0,0,4.56,0,28.5,102,25,3,Louisville,11(75),11,75,Jason,Spitz,76,0
+11323,2005,Albert Means,DT,6,4,318,0,0,5.4,0,0,4.91,0,27,96,26,0,,,0,0,Albert,Means,76,0
+11364,2005,Jason Brown,OC,6,3,313,0,0,5.4,0,0,4.52,0,30.5,105,23,4,North Carolina,23(124),23,124,Jason,Brown,75,0
+11418,2005,Jon Dunn,OT,6,7,328,0,0,5.4,0,0,0,0,0,0,0,7,Virginia Tech,3(217),3,217,Jon,Dunn,79,0
+11431,2005,Adam Terry,OT,6,8,330,0,0,5.4,0,0,4.79,0,28,96,0,2,Syracuse,32(64),32,64,Adam,Terry,80,0
+11434,2005,Ray Willis,OT,6,6,327,0,0,5.4,0,0,0,0,0,0,27,4,Florida State,4(105),4,105,Ray,Willis,78,0
+12462,2001,Russ Hochstein,OG,6,4,300,0,0,5.4,0,0,4.6,0,26.5,95,16,5,Nebraska,20(151),20,151,Russ,Hochstein,76,0
+12723,2000,Cosey Coleman,OG,6,4,322,0,0,5.4,0,0,4.97,0,28,101,0,2,Tennessee,20(51),20,51,Cosey,Coleman,76,0
+12725,2000,Semisi Heimuli,OG,6,2,312,0,0,5.4,0,0,4.63,0,29,94,20,0,,,0,0,Semisi,Heimuli,74,0
+13107,1999,Jarvis Reado,OT,6,5,328,0,0,5.4,0,0,0,0,26,100,0,0,,,0,0,Jarvis,Reado,77,0
+9278,2012,Chas Alecxih,DT,6,4,296,33.375,10.375,5.41,0,0,4.62,7.74,25,99,19,0,,,0,0,Chas,Alecxih,76,0
+9393,2012,Lamar Holmes,OT,6,5,323,35.25,9.625,5.41,0,0,4.8,7.74,27,104,22,3,Southern Miss,28(91),28,91,Lamar,Holmes,77,0
+9404,2012,Zebrie Sanders,OT,6,5,320,35,10.875,5.41,0,0,4.99,8.15,27,100,28,5,Florida State,9(144),9,144,Zebrie,Sanders,77,0
+9710,2011,Marcus Gilbert,OT,6,6,330,33.5,9.75,5.41,0,0,0,0,0,0,30,2,Florida,31(63),31,63,Marcus,Gilbert,78,0
+10854,2007,Chase Johnson,OT,6,9,330,0,0,5.41,0,0,4.7,0,27,91,0,0,,,0,0,Chase,Johnson,81,0
+11031,2006,Johnny Jolly,DT,6,3,317,0,0,5.41,0,0,0,0,0,104,0,6,Texas A&M,14(183),14,183,Johnny,Jolly,75,0
+11117,2006,Kevin Boothe,OT,6,5,316,0,0,5.41,0,0,5.07,0,31.5,98,23,6,Cornell,7(176),7,176,Kevin,Boothe,77,0
+11708,2004,Josh Parrish,OT,6,6,337,0,0,5.41,0,0,4.63,0,28,104,20,0,,,0,0,Josh,Parrish,78,0
+11710,2004,Brian Rimpf,OT,6,6,315,0,0,5.41,0,0,4.66,0,28,105,31,7,East Carolina,45(246),45,246,Brian,Rimpf,78,0
+12168,2002,Jason Ball,OC,6,2,301,0,0,5.41,0,0,4.73,0,29,94,27,0,,,0,0,Jason,Ball,74,0
+13039,1999,Mondell Corbett,OG,6,2,313,0,0,5.41,0,0,4.77,0,29,100,21,0,,,0,0,Mondell,Corbett,74,0
+13054,1999,Brian Pukenas,OG,6,4,303,0,0,5.41,0,0,4.73,0,26.5,98,25,0,,,0,0,Brian,Pukenas,76,0
+9304,2012,Christian Tupou,DT,6,2,289,32,9.75,5.42,0,0,4.87,8.07,24,92,30,0,,,0,0,Christian,Tupou,74,0
+9327,2012,Garth Gerhart,OC,6,1,305,0,0,5.42,0,0,4.65,7.63,30,96,25,0,,,0,0,Garth,Gerhart,73,0
+10018,2010,Jason Fox,OT,6,7,305,34.5,9.5,5.42,0,0,0,0,0,0,23,4,Miami (FL),30(128),30,128,Jason,Fox,79,0
+10027,2010,Thomas Welch,OT,6,7,307,33.25,9.5,5.42,0,0,4.8,0,29,0,29,7,Vanderbilt,1(208),1,208,Thomas,Welch,79,0
+10268,2009,Juan Garcia,OG,6,2,307,0,0,5.42,0,0,4.87,0,25,93,34,0,,,0,0,Juan,Garcia,74,0
+10271,2009,Greg Isdaner,OG,6,4,325,0,0,5.42,0,0,5.07,0,27,92,24,0,,,0,0,Greg,Isdaner,76,0
+10532,2008,Chad Rinehart,OG,6,5,320,0,0,5.42,0,0,4.56,0,28.5,106,26,3,Northern Iowa,33(96),33,96,Chad,Rinehart,77,0
+10815,2007,Tim Duckworth,OG,6,3,306,0,0,5.42,0,0,4.78,0,25,94,20,0,,,0,0,Tim,Duckworth,75,0
+11076,2006,Mike Degory,OC,6,6,305,0,0,5.42,0,0,4.71,0,26,98,24,0,,,0,0,Mike,Degory,78,0
+11389,2005,Claude Terrell,OG,6,2,343,0,0,5.42,0,0,4.81,0,24.5,89,27,4,New Mexico,33(134),33,134,Claude,Terrell,74,0
+11417,2005,Harvey Dahl,OT,6,6,299,0,0,5.42,0,0,4.6,0,27,99,17,0,,,0,0,Harvey,Dahl,78,0
+11923,2003,Austin King,OC,6,4,299,0,0,5.42,0,0,4.73,0,28,106,20,4,Northwestern,36(133),36,133,Austin,King,76,0
+11980,2003,Dustin Rykert,OT,6,7,327,0,0,5.42,0,0,4.87,0,26.5,92,21,6,Brigham Young,31(204),31,204,Dustin,Rykert,79,0
+12474,2001,Albert Traylor,OG,6,3,307,0,0,5.42,0,0,0,0,27,0,20,0,,,0,0,Albert,Traylor,75,0
+14666,2014,Dakota Dozier,OT,6,4,313,0,0,5.42,0,0,4.89,8.14,24,101,23,0,Furman,0,0,0,Dakota,Dozier,76,0
+14818,2014,Louis Nix,NT,6,2,331,0,0,5.42,0,0,0,8.29,25.5,97,0,0,Notre Dame,0,0,0,Louis,Nix,74,0
+9042,2013,Matt Stankiewitch,OC,6,3,302,32.5,10,5.43,0,1.84,4.96,7.9,24,92,27,0,,,0,0,Matt,Stankiewitch,75,0
+9334,2012,David DeCastro,OG,6,5,316,32.375,10,5.43,0,0,4.56,7.3,29,98,34,1,Stanford,24(24),24,24,David,DeCastro,77,0
+9344,2012,Lucas Nix,OG,6,5,317,33.5,9.75,5.43,0,0,4.9,0,29,102,0,0,,,0,0,Lucas,Nix,77,0
+9346,2012,Amini Silatolu,OG,6,3,311,33,10.125,5.43,0,0,4.87,7.95,31,107,28,2,Midwestern State,8(40),8,40,Amini,Silatolu,75,0
+10865,2007,Julius Wilson,OT,6,5,327,0,0,5.43,0,0,5,0,27,103,0,0,,,0,0,Julius,Wilson,77,0
+11425,2005,Pete McMahon,OT,6,8,329,0,0,5.43,0,0,4.8,0,27,92,26,6,Iowa,40(214),40,214,Pete,McMahon,80,0
+11713,2004,Max Starks,OT,6,7,337,0,0,5.43,0,0,4.72,0,27.5,98,21,3,Florida,12(75),12,75,Max,Starks,79,0
+11924,2003,Dan Koppen,OC,6,4,297,0,0,5.43,0,0,4.56,0,28.5,101,27,5,Boston College,29(164),29,164,Dan,Koppen,76,0
+12192,2002,Antwan Kirk-Hughes,OG,6,3,315,0,0,5.43,0,0,4.91,0,27,95,0,0,,,0,0,Antwan,Kirk-Hughes,75,0
+12505,2001,Elliot Silvers,OT,6,7,348,0,0,5.43,0,0,4.66,0,31.5,99,19,5,Washington,1(132),1,132,Elliot,Silvers,79,0
+12731,2000,Andrew Kline,OG,6,2,305,0,0,5.43,0,0,4.6,0,28,103,26,7,San Diego State,14(220),14,220,Andrew,Kline,74,0
+13030,1999,Brian Uhl,OC,6,4,294,0,0,5.43,0,0,4.77,0,25,99,14,0,,,0,0,Brian,Uhl,76,0
+13056,1999,Bobby Singh,OG,6,3,316,0,0,5.43,0,0,4.72,0,26,94,24,0,,,0,0,Bobby,Singh,75,0
+13100,1999,Josh Kobdish,OT,6,6,301,0,0,5.43,0,0,4.83,0,24,98,21,0,,,0,0,Josh,Kobdish,78,0
+8996,2013,Kwame Geathers,DT,6,5,342,35.25,9.5,5.44,0,1.88,5.27,8.11,26.5,96,0,0,,,0,0,Kwame,Geathers,77,0
+9103,2013,Jason Weaver,OT,6,4,313,34,9.25,5.44,0,1.8,5.07,8.23,21,94,23,0,,,0,0,Jason,Weaver,76,0
+9328,2012,Ben Jones,OC,6,2,303,0,0,5.44,0,0,4.74,7.95,30,105,29,4,Georgia,4(99),4,99,Ben,Jones,74,0
+9333,2012,Kelvin Beachum,OG,6,2,303,0,0,5.44,0,0,4.8,7.79,28,101,19,7,Southern Methodist,41(248),41,248,Kelvin,Beachum,74,0
+9713,2011,Kyle Hix,OT,6,7,319,34.25,10.625,5.44,0,0,4.78,0,32,104,24,0,,,0,0,Kyle,Hix,79,0
+10275,2009,Maurice Miller,OG,6,3,327,0,0,5.44,0,0,5.03,0,28.5,97,21,0,,,0,0,Maurice,Miller,75,0
+11127,2006,Quinn Ojinnaka,OT,6,5,309,0,0,5.44,0,0,5.12,0,28.5,102,21,5,Syracuse,6(139),6,139,Quinn,Ojinnaka,77,0
+11698,2004,Kirk Chambers,OT,6,7,313,0,0,5.44,0,0,4.51,0,27,101,22,6,Stanford,11(176),11,176,Kirk,Chambers,79,0
+11938,2003,Jason Jowers,OG,6,7,319,0,0,5.44,0,0,4.86,0,29.5,101,0,0,,,0,0,Jason,Jowers,79,0
+11943,2003,Chad Setterstrom,OG,6,3,309,0,0,5.44,0,0,4.66,0,28.5,99,16,0,,,0,0,Chad,Setterstrom,75,0
+12185,2002,Howard Duncan,OG,6,4,324,0,0,5.44,0,0,4.69,0,28.5,101,22,0,,,0,0,Howard,Duncan,76,0
+13110,1999,L.J. Shelton,OT,6,6,341,0,0,5.44,0,0,4.77,0,29.5,100,22,1,Eastern Michigan,21(21),21,21,L.J.,Shelton,78,0
+9076,2013,Oday Aboushi,OT,6,5,308,33.875,10.625,5.45,0,1.89,4.84,7.92,23.5,100,17,5,Virginia,8(141),8,141,Oday,Aboushi,77,0
+9405,2012,Mitchell Schwartz,OT,6,5,318,33.5,10,5.45,0,0,4.87,7.86,26,89,23,2,California,5(37),5,37,Mitchell,Schwartz,77,0
+9663,2011,Ray Dominguez,OG,6,4,334,34,9.875,5.45,0,0,4.9,0,27.5,90,21,0,,,0,0,Ray,Dominguez,76,0
+10577,2008,Barry Richardson,OT,6,7,320,0,0,5.45,0,0,5.16,0,25.5,100,24,6,Clemson,4(170),4,170,Barry,Richardson,79,0
+11086,2006,Taitusi Lutui,OG,6,4,334,0,0,5.45,0,0,4.83,0,28,97,26,0,,,0,0,Taitusi,Lutui,76,0
+11380,2005,Marcus Johnson,OG,6,7,321,0,0,5.45,0,0,4.75,0,27.5,104,21,2,Mississippi,17(49),17,49,Marcus,Johnson,79,0
+12734,2000,Michael Moore,OG,6,3,320,0,0,5.45,0,0,5.06,0,24.5,94,34,4,Troy,35(129),35,129,Michael,Moore,75,0
+13050,1999,Ulysses Moore,OG,6,2,313,0,0,5.45,0,0,4.67,0,26,103,24,0,,,0,0,Ulysses,Moore,74,0
+9104,2013,John Wetzel,OT,6,7,315,34,10,5.46,0,1.83,4.81,7.9,25,105,22,0,,,0,0,John,Wetzel,79,0
+9391,2012,Taylor Dever,OT,6,5,298,32.5,9.75,5.46,0,0,4.9,7.49,28,100,18,0,,,0,0,Taylor,Dever,77,0
+9909,2010,Vince Oghobaase,DT,6,5,302,35.375,10,5.46,0,0,0,0,26,0,27,0,,,0,0,Vince,Oghobaase,77,0
+10013,2010,Kyle Calloway,OT,6,7,323,33.25,10.125,5.46,0,0,4.86,0,23.5,0,22,7,Iowa,9(216),9,216,Kyle,Calloway,79,0
+10806,2007,Enoka Lucas,OC,6,3,303,0,0,5.46,0,0,4.84,0,27.5,104,34,0,,,0,0,Enoka,Lucas,75,0
+10817,2007,Mike Jones,OG,6,5,309,0,0,5.46,0,0,4.88,0,25.5,98,28,0,,,0,0,Mike,Jones,77,0
+11432,2005,Mike Watson,OT,6,4,316,0,0,5.46,0,0,0,0,27.5,100,0,0,,,0,0,Mike,Watson,76,0
+11661,2004,Stephen Peterman,OG,6,4,312,0,0,5.46,0,0,4.69,0,24.5,95,23,3,LSU,20(83),20,83,Stephen,Peterman,76,0
+11699,2004,Nat Dorsey,OT,6,7,322,0,0,5.46,0,0,4.89,0,28.5,102,26,4,Georgia Tech,19(115),19,115,Nat,Dorsey,79,0
+12171,2002,Melvin Fowler,OC,6,3,300,0,0,5.46,0,0,4.6,0,27,99,32,0,,,0,0,Melvin,Fowler,75,0
+12183,2002,Alonzo Cunningham,OG,6,4,316,0,0,5.46,0,0,4.73,0,24,98,0,0,,,0,0,Alonzo,Cunningham,76,0
+12730,2000,Leander Jordan,OG,6,4,330,0,0,5.46,0,0,4.76,0,31,104,25,3,Indiana (PA),20(82),20,82,Leander,Jordan,76,0
+10480,2008,James McClinton,DT,6,1,293,0,0,5.47,0,0,4.73,0,21.5,97,23,0,,,0,0,James,McClinton,73,0
+10521,2008,Matt Spanos,OC,6,5,317,0,0,5.47,0,0,4.92,0,22.5,104,0,0,,,0,0,Matt,Spanos,77,0
+11121,2006,Ryan Cook,OT,6,7,328,0,0,5.47,0,0,4.67,0,26.5,97,28,2,New Mexico,19(51),19,51,Ryan,Cook,79,0
+13102,1999,Edwin Mulitalo,OT,6,3,328,0,0,5.47,0,0,4.77,0,23.5,92,0,4,Arizona,34(129),34,129,Edwin,Mulitalo,75,0
+14640,2014,Ryan Carrethers,NT,6,1,337,0,0,5.47,0,0,0,7.89,26,88,32,0,Arkansas State,0,0,0,Ryan,Carrethers,73,0
+9053,2013,Lamar Mady,OG,6,2,317,33.5,9.375,5.48,0,1.84,4.82,8.07,23,95,35,0,,,0,0,Lamar,Mady,74,0
+10197,2009,Ron Brace,DT,6,3,330,0,0,5.48,0,0,4.73,0,28,99,32,2,Boston College,8(40),8,40,Ron,Brace,75,0
+10266,2009,Paul Fanaika,OG,6,5,327,0,0,5.48,0,0,0,0,0,0,15,7,Arizona State,4(213),4,213,Paul,Fanaika,77,0
+10273,2009,Andy Kemp,OG,6,5,313,0,0,5.48,0,0,4.86,0,25.5,91,23,0,,,0,0,Andy,Kemp,77,0
+10314,2009,Kyle Link,OT,6,6,305,0,0,5.48,0,0,0,0,0,0,19,0,,,0,0,Kyle,Link,78,0
+11083,2006,Max Jean-Gilles,OG,6,4,355,0,0,5.48,0,0,5.08,0,24.5,95,27,4,Georgia,2(99),2,99,Max,Jean-Gilles,76,0
+11945,2003,Jamil Soriano,OG,6,4,317,0,0,5.48,0,0,5.08,0,27.5,103,0,0,,,0,0,Jamil,Soriano,76,0
+11948,2003,Tony Terrell,OG,6,3,334,0,0,5.48,0,0,5,0,25.5,94,25,0,,,0,0,Tony,Terrell,75,0
+11982,2003,Steve Sciullo,OT,6,5,330,0,0,5.48,0,0,4.72,0,28,98,23,4,Marshall,25(122),25,122,Steve,Sciullo,77,0
+12478,2001,Louis Williams,OG,6,5,299,0,0,5.48,0,0,4.67,0,28.5,103,25,7,LSU,11(211),11,211,Louis,Williams,77,0
+13049,1999,Jason Mills,OG,6,5,315,0,0,5.48,0,0,4.67,0,24,105,30,0,,,0,0,Jason,Mills,77,0
+14925,2014,David Yankey,OG,6,6,315,0,0,5.48,0,0,4.86,7.81,28.5,103,22,0,Stanford,0,0,0,David,Yankey,78,0
+9056,2013,Chance Warmack,OG,6,2,317,34.75,9.625,5.49,0,1.83,0,0,0,110,0,1,Alabama,10(10),10,10,Chance,Warmack,74,0
+9093,2013,Oscar Johnson,OT,6,5,331,34.25,10.25,5.49,0,1.83,5.06,8.06,22,88,0,0,,,0,0,Oscar,Johnson,77,0
+10315,2009,Phil Loadholt,OT,6,8,332,0,0,5.49,0,0,5.06,0,29,95,24,2,Oklahoma,22(54),22,54,Phil,Loadholt,80,0
+11662,2004,Alan Reuber,OG,6,6,314,0,0,5.49,0,0,5,0,29,98,26,0,,,0,0,Alan,Reuber,78,0
+11693,2004,Shawn Andrews,OT,6,4,366,0,0,5.49,0,0,4.93,0,25,98,27,1,Arkansas,16(16),16,16,Shawn,Andrews,76,0
+12187,2002,Toniu Fonoti,OG,6,4,349,0,0,5.49,0,0,4.81,0,28.5,97,32,2,Nebraska,7(39),7,39,Toniu,Fonoti,76,0
+12762,2000,Kurth Connell,OT,6,4,291,0,0,5.49,0,0,4.84,0,33,103,27,0,,,0,0,Kurth,Connell,76,0
+13106,1999,Ian Rafferty,OT,6,5,296,0,0,5.49,0,0,4.86,0,23.5,99,25,0,,,0,0,Ian,Rafferty,77,0
+9347,2012,Andrew Tiller,OG,6,4,324,33.25,9.375,5.5,0,0,4.8,7.92,23,85,16,6,Syracuse,9(179),9,179,Andrew,Tiller,76,0
+9708,2011,Josh Davis,OT,6,7,313,36,11,5.5,0,0,5.07,0,24,91,0,0,,,0,0,Josh,Davis,79,0
+9724,2011,Lee Ziemba,OT,6,6,317,34,9.625,5.5,0,0,4.65,0,29,95,20,7,Auburn,41(244),41,244,Lee,Ziemba,78,0
+10269,2009,Dan Gay,OG,6,4,308,0,0,5.5,0,0,5.42,0,22.5,86,18,0,,,0,0,Dan,Gay,76,0
+10272,2009,Herman Johnson,OG,6,7,356,0,0,5.5,0,0,0,0,0,0,21,5,LSU,31(167),31,167,Herman,Johnson,79,0
+11642,2004,Rex Hadnot,OC,6,2,323,0,0,5.5,0,0,4.76,0,24.5,91,27,6,Houston,9(174),9,174,Rex,Hadnot,74,0
+11657,2004,Khiawatha Downey,OG,6,4,332,0,0,5.5,0,0,4.83,0,26.5,98,21,0,,,0,0,Khiawatha,Downey,76,0
+12186,2002,Steve Edwards,OG,6,5,355,0,0,5.5,0,0,5.15,0,23,94,20,0,,,0,0,Steve,Edwards,77,0
+12199,2002,Dwayne Pierce,OG,6,2,319,0,0,5.5,0,0,5.23,0,26,93,0,0,,,0,0,Dwayne,Pierce,74,0
+12225,2002,Matt Anderle,OT,6,6,327,0,0,5.5,0,0,4.8,0,29,104,26,6,Minnesota,6(178),6,178,Matt,Anderle,78,0
+12447,2001,Paul Hogan,OC,6,3,290,0,0,5.5,0,0,4.54,0,29,102,26,0,,,0,0,Paul,Hogan,75,0
+12469,2001,Ray Redziniak,OG,6,3,296,0,0,5.5,0,0,4.77,0,27,92,32,0,,,0,0,Ray,Redziniak,75,0
+12765,2000,Stockar McDougle,OT,6,5,361,0,0,5.5,0,0,0,0,0,0,24,1,Oklahoma,20(20),20,20,Stockar,McDougle,77,0
+12769,2000,Chase Raynock,OT,6,6,308,0,0,5.5,0,0,5,0,25,94,22,0,,,0,0,Chase,Raynock,78,0
+12958,1999,Pene Talamaivao,DT,6,4,301,0,0,5.5,0,0,4.77,0,27.5,103,17,0,,,0,0,Pene,Talamaivao,76,0
+9670,2011,John Moffitt,OG,6,4,319,33,9.5,5.51,0,0,4.53,0,30.5,102,23,3,Wisconsin,11(75),11,75,John,Moffitt,76,0
+10265,2009,C.J. Davis,OG,6,2,308,0,0,5.51,0,0,4.93,0,25.5,88,21,0,,,0,0,C.J.,Davis,74,0
+10325,2009,Jason Watkins,OT,6,6,318,0,0,5.51,0,0,5.03,0,24.5,90,18,0,,,0,0,Jason,Watkins,78,0
+10526,2008,Robert Felton,OG,6,4,315,0,0,5.51,0,0,4.84,0,23,98,22,0,,,0,0,Robert,Felton,76,0
+11378,2005,Jonathan Clinkscale,OG,6,2,315,0,0,5.51,0,0,0,0,27.5,99,0,0,,,0,0,Jonathan,Clinkscale,74,0
+11408,2005,Calvin Armstrong,OT,6,7,325,0,0,5.51,0,0,4.66,0,34,100,26,6,Washington State,37(211),37,211,Calvin,Armstrong,79,0
+11653,2004,Tyson Clabo,OG,6,7,317,0,0,5.51,0,0,4.9,0,30,100,24,0,,,0,0,Tyson,Clabo,79,0
+13115,1999,Floyd Wedderburn,OT,6,5,334,0,0,5.51,0,0,5.26,0,24.5,86,20,5,Penn State,7(140),7,140,Floyd,Wedderburn,77,0
+14735,2014,Gabe Jackson,OG,6,3,336,0,0,5.51,0,0,4.78,8.25,29,108,30,0,Mississippi St.,0,0,0,Gabe,Jackson,75,0
+9338,2012,Senio Kelemete,OG,6,3,307,0,0,5.52,0,0,4.58,7.77,25,101,21,5,Washington,16(151),16,151,Senio,Kelemete,75,0
+9398,2012,Matt McCants,OT,6,6,308,0,0,5.52,0,0,0,0,25,97,17,6,UAB,31(201),31,201,Matt,McCants,78,0
+9657,2011,Zane Taylor,OC,6,3,309,33,10.25,5.52,0,0,4.77,0,25.5,104,33,0,,,0,0,Zane,Taylor,75,0
+9976,2010,Chris Scott,OG,6,3,319,34.125,10.375,5.52,0,0,5.03,0,22.5,0,19,5,Tennessee,20(151),20,151,Chris,Scott,75,0
+9979,2010,Adam Ulatoski,OG,6,6,300,33.25,9.625,5.52,0,0,4.99,0,26,0,24,0,,,0,0,Adam,Ulatoski,78,0
+11422,2005,Adam Kieft,OT,6,7,337,0,0,5.52,0,0,4.77,0,33,110,28,5,Central Michigan,17(153),17,153,Adam,Kieft,79,0
+11654,2004,Adrien Clarke,OG,6,5,329,0,0,5.52,0,0,4.79,0,26,102,0,7,Ohio State,26(227),26,227,Adrien,Clarke,77,0
+12507,2001,Tarlos Thomas,OT,6,6,336,0,0,5.52,0,0,4.9,0,25,92,19,0,,,0,0,Tarlos,Thomas,78,0
+9964,2010,Ciron Black,OG,6,5,327,33,10.125,5.53,0,0,5.13,0,25.5,0,23,0,,,0,0,Ciron,Black,77,0
+11376,2005,Doug Buckles,OG,6,5,311,0,0,5.53,0,0,4.83,0,23.5,89,18,0,,,0,0,Doug,Buckles,77,0
+12455,2001,Will Cuthbert,OG,6,5,318,0,0,5.53,0,0,5.06,0,24.5,91,17,0,,,0,0,Will,Cuthbert,77,0
+13017,1999,Phillip Armour,OC,6,3,318,0,0,5.53,0,0,4.59,0,30.5,100,23,0,,,0,0,Phillip,Armour,75,0
+13019,1999,Eric De Groh,OC,6,4,324,0,0,5.53,0,0,4.56,0,28,102,23,0,,,0,0,Eric,De,76,0
+9285,2012,Dominique Hamilton,DT,6,5,313,33.125,10.25,5.54,0,0,4.78,7.82,0,0,31,0,,,0,0,Dominique,Hamilton,77,0
+9711,2011,Adam Grant,OT,6,6,325,34,10.5,5.54,0,0,5,0,26.5,99,25,0,,,0,0,Adam,Grant,78,0
+10565,2008,Anthony Collins,OT,6,5,317,0,0,5.54,0,0,4.87,0,22.5,97,26,4,Kansas,13(112),13,112,Anthony,Collins,77,0
+11658,2004,Antonio Hall,OG,6,4,317,0,0,5.54,0,0,4.56,0,26.5,101,27,0,,,0,0,Antonio,Hall,76,0
+12227,2002,Michael Collins,OT,6,6,300,0,0,5.54,0,0,4.98,0,25.5,104,32,0,,,0,0,Michael,Collins,78,0
+9956,2010,Erik Cook,OC,6,6,318,33.875,9.75,5.55,0,0,4.99,0,25,0,19,7,New Mexico,22(229),22,229,Erik,Cook,78,0
+10575,2008,Jeff Otah,OT,6,6,322,0,0,5.55,0,0,0,0,22.5,102,27,1,Pittsburgh,19(19),19,19,Jeff,Otah,78,0
+11081,2006,Donovan Raiola,OC,6,2,300,0,0,5.55,0,0,5.02,0,25,90,20,0,,,0,0,Donovan,Raiola,74,0
+13088,1999,Kris Comstock,OT,6,8,319,0,0,5.55,0,0,4.84,0,23.5,101,17,0,,,0,0,Kris,Comstock,80,0
+13096,1999,Cornell Green,OT,6,7,326,0,0,5.55,0,0,4.8,0,23,92,18,0,,,0,0,Cornell,Green,79,0
+12448,2001,LaShaun Mack,OC,6,3,299,0,0,5.56,0,0,4.99,0,26.5,92,17,0,,,0,0,LaShaun,Mack,75,0
+12729,2000,Matt Johnson,OG,6,4,345,0,0,5.56,0,0,4.99,0,28,99,35,5,Brigham Young,9(138),9,138,Matt,Johnson,76,0
+12758,2000,Darnell Alford,OT,6,4,334,0,0,5.56,0,0,4.98,0,25,94,23,6,Boston College,22(188),22,188,Darnell,Alford,76,0
+9342,2012,Antoine McClain,OG,6,6,329,0,0,5.57,0,0,4.82,8.13,27,91,19,0,,,0,0,Antoine,McClain,78,0
+10310,2009,Ramon Foster,OT,6,5,328,0,0,5.57,0,0,4.98,0,26,92,20,0,,,0,0,Ramon,Foster,77,0
+11089,2006,Troy Reddick,OG,6,5,334,0,0,5.57,0,0,4.86,0,0,0,21,0,,,0,0,Troy,Reddick,77,0
+11972,2003,Damian Lavergne,OT,6,6,333,0,0,5.57,0,0,4.86,0,27,92,17,0,,,0,0,Damian,Lavergne,78,0
+12184,2002,Konrad Dean,OG,6,4,333,0,0,5.57,0,0,4.97,0,27.5,97,30,0,,,0,0,Konrad,Dean,76,0
+12201,2002,Victor Rogers,OG,6,6,331,0,0,5.57,0,0,5.16,0,25,93,20,7,Colorado,48(259),48,259,Victor,Rogers,78,0
+12467,2001,Mathias Nkwenti,OG,6,4,293,0,0,5.57,0,0,4.18,0,35.5,113,29,4,Temple,16(111),16,111,Mathias,Nkwenti,76,0
+12479,2001,Floyd Womack,OG,6,4,345,0,0,5.57,0,0,4.96,0,29.5,97,23,4,Mississippi State,33(128),33,128,Floyd,Womack,76,0
+13118,1999,Ryan Young,OT,6,6,335,0,0,5.57,0,0,0,0,0,0,20,7,Kansas State,17(223),17,223,Ryan,Young,78,0
+9036,2013,Travis Frederick,OC,6,4,312,33,10,5.58,0,1.85,4.76,7.81,28.5,97,21,1,Wisconsin,31(31),31,31,Travis,Frederick,76,0
+9055,2013,Larry Warford,OG,6,3,332,33.375,9.5,5.58,0,1.92,5.1,7.78,22.5,96,28,3,Kentucky,3(65),3,65,Larry,Warford,75,0
+10567,2008,Franklin Dunbar,OT,6,5,327,0,0,5.58,0,0,5.18,0,24.5,101,27,0,,,0,0,Franklin,Dunbar,77,0
+11934,2003,Derrick Dockery,OG,6,6,347,0,0,5.58,0,0,0,0,25,92,0,3,Texas,17(81),17,81,Derrick,Dockery,78,0
+13033,1999,Wilbert Brown,OG,6,2,311,0,0,5.58,0,0,5.02,0,26,98,22,0,,,0,0,Wilbert,Brown,74,0
+13046,1999,Scott Kiernan,OG,6,3,307,0,0,5.58,0,0,4.79,0,28,94,0,0,,,0,0,Scott,Kiernan,75,0
+13099,1999,Willie Jones,OT,6,7,372,0,0,5.58,0,0,4.78,0,26,102,30,0,,,0,0,Willie,Jones,79,0
+10852,2007,Stephon Heyer,OT,6,7,334,0,0,5.59,0,0,0,0,0,94,30,0,,,0,0,Stephon,Heyer,79,0
+12771,2000,Greg Robinson-Randall,OT,6,6,333,0,0,5.59,0,0,5.13,0,26,95,22,4,Michigan State,33(127),33,127,Greg,Robinson-Randall,78,0
+13059,1999,Brad Winn,OG,6,5,339,0,0,5.59,0,0,4.92,0,23,87,23,0,,,0,0,Brad,Winn,77,0
+14758,2014,Cyrus Kouandjio,OT,6,7,322,0,0,5.59,0,0,4.84,7.71,27.5,96,21,0,Alabama,0,0,0,Cyrus,Kouandjio,79,0
+11414,2005,Tim Brown,OT,6,5,318,0,0,5.6,0,0,4.92,0,29,93,23,0,,,0,0,Tim,Brown,77,0
+12472,2001,Tim Stuber,OG,6,5,315,0,0,5.6,0,0,4.61,0,26,96,22,0,,,0,0,Tim,Stuber,77,0
+11419,2005,Trai Essex,OT,6,5,322,0,0,5.61,0,0,4.93,0,29,96,0,3,Northwestern,29(93),29,93,Trai,Essex,77,0
+12476,2001,Keydrick Vincent,OG,6,5,328,0,0,5.61,0,0,0,0,32.5,94,23,0,,,0,0,Keydrick,Vincent,77,0
+10846,2007,Chris Denman,OT,6,7,315,0,0,5.62,0,0,4.92,0,27.5,97,21,7,Fresno State,4(214),4,214,Chris,Denman,79,0
+11423,2005,Sam Lightbody,OT,6,9,321,0,0,5.62,0,0,4.44,0,30,108,0,0,,,0,0,Sam,Lightbody,81,0
+12727,2000,Jeno James,OG,6,3,320,0,0,5.62,0,0,5.22,0,25.5,94,24,6,Auburn,16(182),16,182,Jeno,James,75,0
+11931,2003,Enoch DeMar,OG,6,4,334,0,0,5.63,0,0,5.1,0,22.5,90,22,0,,,0,0,Enoch,DeMar,76,0
+11415,2005,Jon Colon,OT,6,7,317,0,0,5.64,0,0,4.89,0,25.5,85,0,0,,,0,0,Jon,Colon,79,0
+9050,2013,Mark Jackson,OG,6,5,328,34.25,9.625,5.65,0,1.88,5.03,8.07,20.5,91,20,0,,,0,0,Mark,Jackson,77,0
+12772,2000,Wes Shivers,OT,6,6,318,0,0,5.65,0,0,4.81,0,22.5,98,18,7,Mississippi State,31(237),31,237,Wes,Shivers,78,0
+12724,2000,Adam Davis,OG,6,4,309,0,0,5.66,0,0,5,0,26,92,0,0,,,0,0,Adam,Davis,76,0
+9348,2012,Johnnie Troutman,OG,6,4,325,0,0,5.67,0,0,5,7.96,27,0,31,5,Penn State,14(149),14,149,Johnnie,Troutman,76,0
+9394,2012,Marcel Jones,OT,6,6,320,33.625,10.125,5.67,0,0,5.12,8.03,27,95,13,7,Nebraska,27(234),27,234,Marcel,Jones,78,0
+11659,2004,Joseph Hayes,OG,6,5,311,0,0,5.67,0,0,5.18,0,23,94,18,0,,,0,0,Joseph,Hayes,77,0
+9664,2011,Ricky Henry,OG,6,3,308,33.625,10.25,5.68,0,0,4.68,0,24,90,20,0,,,0,0,Ricky,Henry,75,0
+13117,1999,Joe Wong,OT,6,6,314,0,0,5.68,0,0,4.95,0,27,100,22,7,Brigham Young,38(244),38,244,Joe,Wong,78,0
+11388,2005,Nick Steitz,OG,6,4,312,0,0,5.7,0,0,4.66,0,31,99,0,0,,,0,0,Nick,Steitz,76,0
+9902,2010,Terrence Cody,DT,6,4,349,34.25,11,5.71,0,0,5.03,0,20.5,0,0,2,Alabama,25(57),25,57,Terrence,Cody,76,0
+11135,2006,Stefon Wheeler,OT,6,5,339,0,0,5.73,0,0,4.87,0,19.5,74,0,0,,,0,0,Stefon,Wheeler,77,0
+13044,1999,Corey Hulsey,OG,6,5,367,0,0,5.73,0,0,4.89,0,25,96,31,0,,,0,0,Corey,Hulsey,77,0
+12955,1999,Andre Slappey,DT,6,5,302,0,0,5.75,0,0,4.94,0,25.5,97,19,0,,,0,0,Andre,Slappey,77,0
+9975,2010,Dace Richardson,OG,6,5,320,33.5,9.75,5.76,0,0,5.38,0,23.5,0,19,0,,,0,0,Dace,Richardson,77,0
+13055,1999,Yusef Scott,OG,6,2,324,0,0,5.76,0,0,0,0,24,85,0,0,,,0,0,Yusef,Scott,74,0
+9400,2012,Josh Oglesby,OT,6,7,338,0,0,5.8,0,0,0,0,28,0,22,0,,,0,0,Josh,Oglesby,79,0
+11665,2004,Shannon Snell,OG,6,5,316,0,0,5.82,0,0,4.94,0,25.5,93,21,0,,,0,0,Shannon,Snell,77,0
+11935,2003,Gus Felder,OG,6,3,324,0,0,5.83,0,0,5.54,0,23.5,94,0,0,,,0,0,Gus,Felder,75,0
+11647,2004,Kurt Sigler,OC,6,5,306,0,0,5.84,0,0,4.72,0,24,93,0,0,,,0,0,Kurt,Sigler,77,0
+13087,1999,Octavious Bishop,OT,6,5,354,0,0,5.84,0,0,0,0,0,0,22,0,,,0,0,Octavious,Bishop,77,0
+12763,2000,Jonathan Gray,OT,6,4,338,0,0,5.85,0,0,0,0,23,94,20,0,,,0,0,Jonathan,Gray,76,0
+10818,2007,Palauni Ma Sun,OG,6,5,319,0,0,5.86,0,0,5.01,0,24.5,91,22,0,,,0,0,Palauni,Ma,77,0
+9675,2011,Isaiah Thompson,OG,6,3,300,33.5,9.375,6,0,0,5.56,0,25,82,23,0,,,0,0,Isaiah,Thompson,75,0
+12499,2001,Charron Dorsey,OT,6,6,348,0,0,6.03,0,0,0,0,0,0,16,0,,,0,0,Charron,Dorsey,78,0
+11655,2004,Regis Crawford,OG,6,2,316,0,0,6.05,0,0,4.91,0,0,0,0,0,,,0,0,Regis,Crawford,74,0
+9490,2012,Ryan Broyles,WR,5,10,192,32.25,9,0,0,0,0,0,0,0,21,2,Oklahoma,22(54),22,54,Ryan,Broyles,70,0
+14649,2014,Kain Colter,WR,5,10,198,0,0,0,0,0,0,0,0,0,0,0,Northwestern,0,0,0,Kain,Colter,70,0
+14658,2014,Mike Davis,WR,6,0,197,0,0,0,0,0,0,0,0,0,10,0,Texas,0,0,0,Mike,Davis,72,0
+14762,2014,Cody Latimer,WR,6,2,215,0,0,0,0,0,0,0,0,0,23,0,Indiana,0,0,0,Cody,Latimer,74,0
+13232,1999,Rondel Menendez,WR,5,9,178,0,0,4.24,0,1.47,3.96,0,37,117,0,7,Eastern Kentucky,41(247),41,247,Rondel,Menendez,69,0
+11523,2005,Jerome Mathis,WR,5,11,181,0,0,4.26,0,0,0,0,35.5,123,0,4,Hampton,13(114),13,114,Jerome,Mathis,71,0
+9193,2013,Marquise Goodwin,WR,5,9,183,31.5,8.625,4.27,0,1.43,0,0,0,132,13,3,Texas,16(78),16,78,Marquise,Goodwin,69,0
+10113,2010,Jacoby Ford,WR,5,9,186,30.5,9.25,4.28,0,0,4.44,7,33.5,115,15,4,Clemson,10(108),10,108,Jacoby,Ford,69,0
+10422,2009,Mike Wallace,WR,6,1,199,31.375,9,4.28,2.45,1.43,4.27,0,40,129,14,3,Mississippi,20(84),20,84,Mike,Wallace,73,0
+10407,2009,Johnny Knox,WR,6,1,185,31,9,4.29,2.53,1.47,4.15,6.81,35,122,0,5,Abilene Christian,4(140),4,140,Johnny,Knox,73,0
+10403,2009,Darrius Heyward-Bey,WR,6,2,210,33.625,9,4.3,2.5,1.44,4.18,6.8,38.5,126,16,1,Maryland,7(7),7,7,Darrius,Heyward-Bey,74,0
+10420,2009,Mike Thomas,WR,5,8,195,31,9.375,4.3,0,0,4.28,6.65,40.5,126,0,4,Arizona,7(107),7,107,Mike,Thomas,68,0
+10939,2007,Yamon Figurs,WR,5,11,174,0,0,4.3,0,0,4.21,0,0,123,0,3,Kansas State,10(74),10,74,Yamon,Figurs,71,0
+9812,2011,Edmond Gates,WR,6,1,192,30.75,9.375,4.31,2.51,1.53,4.17,6.87,40,131,16,4,Abilene Christian,14(111),14,111,Edmond,Gates,73,0
+10393,2009,Deon Butler,WR,5,11,182,31,9.25,4.31,0,0,4.48,7.01,34.5,118,12,3,Penn State,27(91),27,91,Deon,Butler,71,0
+10421,2009,Tiquan Underwood,WR,6,1,184,32.25,8.5,4.31,0,0,4.11,6.62,41.5,129,7,7,Rutgers,44(253),44,253,Tiquan,Underwood,73,0
+12334,2002,Aaron Lockett,WR,5,8,155,0,0,4.31,0,0,4.11,0,35,119,0,7,Kansas State,43(254),43,254,Aaron,Lockett,68,0
+12601,2001,Santana Moss,WR,5,10,181,0,0,4.31,0,0,0,0,42,0,0,1,Miami (FL),16(16),16,16,Santana,Moss,70,0
+10414,2009,Louis Murphy,WR,6,3,203,33.625,10,4.32,2.58,1.48,4.45,6.95,34.5,117,12,4,Florida,24(124),24,124,Louis,Murphy,75,0
+10944,2007,Jason Hill,WR,6,1,204,32.25,9.25,4.32,2.5,1.49,4.22,7.02,37,123,11,3,Washington State,12(76),12,76,Jason,Hill,73,0
+11233,2006,Chad Jackson,WR,6,1,213,0,0,4.32,0,0,4.03,0,38.5,122,0,2,Florida,4(36),4,36,Chad,Jackson,73,0
+11538,2005,Troy Williamson,WR,6,2,203,0,0,4.32,0,0,4.18,0,37,0,0,1,South Carolina,7(7),7,7,Troy,Williamson,74,0
+12323,2002,Tim Carter,WR,6,1,190,0,0,4.32,0,0,3.93,0,39,126,0,2,Auburn,14(46),14,46,Tim,Carter,73,0
+10671,2008,Dexter Jackson,WR,5,10,182,0,0,4.33,0,0,4.38,0,29.5,122,0,2,Appalachian State,27(58),27,58,Dexter,Jackson,70,0
+11791,2004,Carlos Francis,WR,5,9,198,0,0,4.33,0,0,4.06,0,38.5,114,0,4,Texas Tech,3(99),3,99,Carlos,Francis,69,0
+12584,2001,Chris Chambers,WR,6,1,210,0,0,4.33,0,0,4,0,45,134,0,2,Wisconsin,21(52),21,52,Chris,Chambers,73,0
+13205,1999,Karsten Bailey,WR,6,1,205,0,0,4.33,0,0,3.99,0,40,121,0,3,Auburn,21(82),21,82,Karsten,Bailey,73,0
+14651,2014,Brandin Cooks,WR,5,10,189,0,0,4.33,0,0,3.81,6.76,36,120,16,0,Oregon St.,0,0,0,Brandin,Cooks,70,0
+9186,2013,Tavon Austin,WR,5,8,174,30,9.125,4.34,0,1.45,4.01,0,32,120,14,1,West Virginia,8(8),8,8,Tavon,Austin,68,0
+9215,2013,Ryan Swope,WR,6,0,205,31.375,8.5,4.34,0,1.47,4.25,6.76,37,125,16,6,Texas A&M,6(174),6,174,Ryan,Swope,72,0
+9503,2012,Stephen Hill,WR,6,4,215,33.375,9.375,4.34,2.52,1.5,4.51,6.89,39.5,133,14,2,Georgia Tech,11(43),11,43,Stephen,Hill,76,0
+9504,2012,T.Y. Hilton,WR,5,10,183,32,8.5,4.34,2.51,1.53,4.36,7.03,35.5,119,7,3,Florida International,29(92),29,92,T.Y.,Hilton,70,0
+9821,2011,Julio Jones,WR,6,3,220,33.75,9.75,4.34,2.47,1.5,4.25,6.66,38.5,135,17,1,Alabama,6(6),6,6,Julio,Jones,75,0
+9824,2011,Ricardo Lockette,WR,6,2,211,33.75,9.75,4.34,2.48,1.52,4.19,7.15,35.5,127,22,0,,,0,0,Ricardo,Lockette,74,0
+10117,2010,Trindon Holliday,WR,5,5,166,28.375,8.25,4.34,0,0,4.48,6.54,42,116,10,6,LSU,28(197),28,197,Trindon,Holliday,65,0
+11244,2006,Willie Reid,WR,5,11,188,0,0,4.34,0,0,4.26,0,37.5,117,0,3,Florida State,31(95),31,95,Willie,Reid,71,0
+12054,2003,Tyrone Calico,WR,6,4,223,0,0,4.34,2.62,1.63,4.26,6.73,38,127,0,2,Middle Tennessee State,28(60),28,60,Tyrone,Calico,76,0
+12604,2001,Ken-Yon Rambo,WR,6,1,196,0,0,4.34,0,0,0,0,39,0,0,7,Ohio State,29(229),29,229,Ken-Yon,Rambo,73,0
+14629,2014,John Brown,WR,5,10,179,0,0,4.34,0,0,4.12,6.91,36.5,119,0,0,Pittsburg St. (KS),0,0,0,John,Brown,70,0
+9831,2011,Aldrick Robinson,WR,5,10,184,29.5,8.75,4.35,0,0,4.09,6.65,40,126,17,6,Southern Methodist,13(178),13,178,Aldrick,Robinson,70,0
+10394,2009,Demetrius Byrd,WR,6,1,196,33.375,9,4.35,0,0,0,0,31.5,117,0,7,LSU,15(224),15,224,Demetrius,Byrd,73,0
+10659,2008,Andre Caldwell,WR,6,1,204,0,0,4.35,0,0,4.11,0,33,124,0,3,Florida,34(97),34,97,Andre,Caldwell,73,0
+10670,2008,DeSean Jackson,WR,5,10,169,0,0,4.35,2.52,1.53,4.19,6.82,34.5,120,0,2,California,18(49),18,49,DeSean,Jackson,70,0
+10947,2007,Calvin Johnson,WR,6,5,239,33.375,9.25,4.35,2.53,1.52,0,0,42.5,139,0,1,Georgia Tech,2(2),2,2,Calvin,Johnson,77,0
+10965,2007,Mike Walker,WR,6,2,209,0,0,4.35,0,0,4.39,0,36.5,121,18,3,UCF,15(79),15,79,Mike,Walker,74,0
+11217,2006,Devin Aromashodu,WR,6,3,201,0,0,4.35,0,0,4.17,0,39,120,0,7,Auburn,25(233),25,233,Devin,Aromashodu,75,0
+11232,2006,Santonio Holmes,WR,5,10.625,188,32,9.625,4.35,0,0,4.26,6.82,38,126,0,1,Ohio State,25(25),25,25,Santonio,Holmes,70.625,0
+12583,2001,Jonathan Carter,WR,6,1,180,0,0,4.35,2.54,1.55,4.25,7.28,42.5,134,0,5,Troy,31(162),31,162,Jonathan,Carter,73,0
+12867,2000,R.Jay Soward,WR,5,10,177,0,0,4.35,0,0,0,0,35,124,0,0,,,0,0,R.Jay,Soward,70,0
+9486,2012,Travis Benjamin,WR,5,9,172,31.75,8.75,4.36,0,1.58,0,0,38,119,14,4,Miami (FL),5(100),5,100,Travis,Benjamin,69,0
+9517,2012,Chris Owusu,WR,5,11,196,31.75,8.5,4.36,0,0,4.11,6.85,40,129,19,0,,,0,0,Chris,Owusu,71,0
+10416,2009,Kevin Ogletree,WR,6,1,196,31,9,4.36,0,0,4.08,6.67,36,122,0,0,,,0,0,Kevin,Ogletree,73,0
+10935,2007,David Clowney,WR,6,1,188,0,0,4.36,0,0,4.15,0,32.5,123,0,5,Virginia Tech,20(157),20,157,David,Clowney,73,0
+12341,2002,Cliff Russell,WR,6,1,185,0,0,4.36,0,0,0,0,0,0,0,3,Utah,22(87),22,87,Cliff,Russell,73,0
+10411,2009,Kenny McKinley,WR,6,1,189,31.25,9,4.37,0,0,4.1,6.96,37,113,0,5,South Carolina,5(141),5,141,Kenny,McKinley,73,0
+10661,2008,Will Franklin,WR,6,1,214,0,0,4.37,0,0,0,0,34.5,0,0,4,Missouri,6(105),6,105,Will,Franklin,73,0
+10683,2008,Arman Shields,WR,6,1,194,0,0,4.37,0,0,3.96,0,37.5,128,19,4,Richmond,26(125),26,125,Arman,Shields,73,0
+11505,2005,Mark Bradley,WR,6,2,201,31.375,8.875,4.37,2.6,1.54,4.02,6.96,39.5,128,0,2,Oklahoma,7(39),7,39,Mark,Bradley,74,0
+11527,2005,Roscoe Parrish,WR,5,10,170,0,0,4.37,2.54,1.56,4.2,6.64,36,126,10,2,Miami (FL),23(55),23,55,Roscoe,Parrish,70,0
+12847,2000,Chris Cole,WR,6,1,191,0,0,4.37,2.52,1.48,4.09,6.78,37.5,125,0,3,Texas A&M,8(70),8,70,Chris,Cole,73,0
+9189,2013,Josh Boyce,WR,5,11,206,31.25,9.25,4.38,0,1.56,4.1,6.68,34,131,22,4,TCU,5(102),5,102,Josh,Boyce,71,0
+9214,2013,Kenny Stills,WR,6,0,194,30.5,9,4.38,0,1.53,4.35,0,33.5,124,16,5,Oklahoma,11(144),11,144,Kenny,Stills,72,0
+10133,2010,Demaryius Thomas,WR,6,3.25,224,33,10.5,4.38,0,0,0,0,0,0,0,1,Georgia Tech,22(22),22,22,Demaryius,Thomas,75.25,0
+10957,2007,Laurent Robinson,WR,6,2,199,32.25,9,4.38,2.5,1.46,4.28,6.83,39,127,19,3,Illinois State,11(75),11,75,Laurent,Robinson,74,0
+11239,2006,Sinorice Moss,WR,5,8,185,0,0,4.38,2.53,1.48,0,0,42,123,0,2,Miami (FL),12(44),12,44,Sinorice,Moss,68,0
+12062,2003,Bethel Johnson,WR,5,11,201,0,0,4.38,2.6,1.55,0,0,38.5,127,17,2,Texas A&M,13(45),13,45,Bethel,Johnson,71,0
+12345,2002,Javon Walker,WR,6,3,210,32.5,9.75,4.38,2.54,1.53,4.05,6.86,39.5,126,18,1,Florida State,20(20),20,20,Javon,Walker,75,0
+9199,2013,Charles Johnson,WR,6,2,215,30.5,9.25,4.39,2.51,1.53,4.31,7.04,39.5,133,14,7,Grand Valley State,10(216),10,216,Charles,Johnson,74,0
+9507,2012,A.J. Jenkins,WR,6,0,190,32.75,9.5,4.39,0,0,4.12,6.73,38,124,12,1,Illinois,30(30),30,30,A.J.,Jenkins,72,0
+9530,2012,Devon Wylie,WR,5,9,187,30.25,9.5,4.39,0,0,0,0,39,123,17,4,Fresno State,12(107),12,107,Devon,Wylie,69,0
+10112,2010,Marcus Easley,WR,6,3,210,32.75,8.5,4.39,2.52,1.52,4.6,6.94,34,123,16,4,Connecticut,9(107),9,107,Marcus,Easley,75,0
+10402,2009,Percy Harvin,WR,5,11,192,31.625,9.375,4.39,2.51,1.47,0,0,37.5,121,19,1,Florida,22(22),22,22,Percy,Harvin,71,12
+10682,2008,Eddie Royal,WR,5,10,184,0,0,4.39,0,0,4.34,0,36,124,24,2,Virginia Tech,11(42),11,42,Eddie,Royal,70,0
+10931,2007,Aundrae Allison,WR,6,1,198,31.5,9,4.39,2.46,1.43,4.25,6.81,37,127,0,5,East Carolina,9(146),9,146,Aundrae,Allison,73,0
+10951,2007,Robert Meachem,WR,6,2,214,0,0,4.39,2.49,1.51,4.31,6.97,37.5,121,0,1,Tennessee,27(27),27,27,Robert,Meachem,74,0
+11525,2005,Terrence Murphy,WR,6,1,202,0,0,4.39,2.62,1.57,3.91,7.02,41,128,0,2,Texas A&M,26(58),26,58,Terrence,Murphy,73,0
+11789,2004,Lee Evans,WR,5,11,197,0,0,4.39,0,0,0,0,34.5,120,0,1,Wisconsin,13(13),13,13,Lee,Evans,71,0
+11802,2004,Samie Parker,WR,5,11,176,0,0,4.39,0,0,0,0,36,0,0,4,Oregon,9(105),9,105,Samie,Parker,71,0
+12582,2001,John Capel,WR,5,11,177,0,0,4.39,0,0,0,0,36.5,126,0,7,Florida,8(208),8,208,John,Capel,71,0
+12588,2001,Reggie Germany,WR,6,1,183,0,0,4.39,0,0,0,0,32,0,0,7,Ohio State,14(214),14,214,Reggie,Germany,73,0
+9525,2012,Tommy Streeter,WR,6,4,219,34.75,9.5,4.4,0,0,0,7.08,33,125,17,6,Miami (FL),28(198),28,198,Tommy,Streeter,76,0
+9815,2011,Leonard Hankerson,WR,6,2,209,32.25,10.625,4.4,2.53,1.51,4.21,6.94,36,117,14,3,Miami (FL),15(79),15,79,Leonard,Hankerson,74,0
+10127,2010,Taylor Price,WR,6,1,204,31.25,9.5,4.4,0,0,4.34,6.82,37,114,16,3,Ohio,26(90),26,90,Taylor,Price,73,0
+10129,2010,Andre Roberts,WR,5,11,195,31.5,9.5,4.4,2.58,1.52,4.15,6.77,36,120,15,3,Citadel,24(88),24,88,Andre,Roberts,71,0
+10130,2010,Emmanuel Sanders,WR,5,11,186,32,9.25,4.4,2.46,1.49,4.1,6.64,39.5,126,12,3,Southern Methodist,18(82),18,82,Emmanuel,Sanders,71,0
+10137,2010,Kyle Williams,WR,5,10,188,30,9.125,4.4,0,0,4.19,7,33,118,11,6,Arizona State,37(206),37,206,Kyle,Williams,70,0
+10408,2009,Quinten Lawrence,WR,6,0,184,30.25,8.25,4.4,0,0,0,0,0,0,20,6,McNeese State,2(175),2,175,Quinten,Lawrence,72,0
+10688,2008,Devin Thomas,WR,6,2,215,0,0,4.4,0,0,4.26,0,28,126,0,2,Michigan State,3(34),3,34,Devin,Thomas,74,0
+11250,2006,Todd Watkins,WR,6,3,202,0,0,4.4,0,0,4.25,0,37,118,0,7,Brigham Young,10(218),10,218,Todd,Watkins,75,0
+11251,2006,Jeff Webb,WR,6,2.125,211,33,8,4.4,2.61,1.51,4.08,6.81,37,126,0,6,San Diego State,21(190),21,190,Jeff,Webb,74.125,0
+11524,2005,Leron McCoy,WR,6,2,211,33,9.375,4.4,2.62,1.56,4.22,7.19,37,120,0,7,Indiana (PA),12(226),12,226,Leron,McCoy,74,0
+12061,2003,Andre Johnson,WR,6,2,230,0,0,4.4,0,0,4.1,0,39,132,17,1,Miami (FL),3(3),3,3,Andre,Johnson,74,0
+12608,2001,Chris Taylor,WR,5,11,183,0,0,4.4,0,0,3.93,0,35.5,115,0,7,Texas A&M,18(218),18,218,Chris,Taylor,71,0
+14805,2014,Donte Moncrief,WR,6,2,221,0,0,4.4,0,0,4.3,7.02,39.5,132,13,0,Mississippi,0,0,0,Donte,Moncrief,74,0
+14846,2014,Paul Richardson,WR,6,0,175,0,0,4.4,0,0,0,7.09,38,124,0,0,Colorado,0,0,0,Paul,Richardson,72,0
+9499,2012,Chris Givens,WR,5,11,198,31.25,8.25,4.41,0,0,4.23,6.97,33,118,19,4,Wake Forest,1(96),1,96,Chris,Givens,71,0
+9500,2012,T.J. Graham,WR,5,11,188,32.75,9,4.41,0,1.47,4.18,6.77,33,120,8,3,North Carolina State,6(69),6,69,T.J.,Graham,71,0
+9837,2011,Torrey Smith,WR,6,1,204,32.5,8.5,4.41,2.5,1.51,4.13,6.72,41,126,19,2,Maryland,26(58),26,58,Torrey,Smith,73,0
+10656,2008,Brandon Breazell,WR,6,1,160,0,0,4.41,0,0,0,0,30.5,115,0,0,,,0,0,Brandon,Breazell,73,0
+10953,2007,Legedu Naanee,WR,6,2,225,0,0,4.41,0,0,0,0,40,119,19,5,Boise State,35(172),35,172,Legedu,Naanee,74,0
+11230,2006,Devin Hester,WR,5,11,190,0,0,4.41,2.59,1.54,4.2,6.78,38,124,16,2,Miami (FL),25(57),25,57,Devin,Hester,71,0
+11508,2005,Mark Clayton,WR,5,11,193,30.625,9.125,4.41,2.64,1.53,4.07,6.95,36.5,118,0,1,Oklahoma,22(22),22,22,Mark,Clayton,71,0
+11531,2005,Courtney Roby,WR,6,1,189,0,0,4.41,0,0,4,0,36.5,126,0,3,Indiana,4(68),4,68,Courtney,Roby,73,0
+12606,2001,Steve Smith,WR,5,9,184,0,0,4.41,0,0,4.25,0,38.5,121,0,3,Utah,12(74),12,74,Steve,Smith,69,0
+12849,2000,Laveranues Coles,WR,5,11,192,0,0,4.41,0,0,4.39,0,34,115,0,3,Florida State,16(78),16,78,Laveranues,Coles,71,0
+13226,1999,Kevin Johnson,WR,5,11,194,0,0,4.41,0,0,3.86,0,36.5,115,0,2,Syracuse,1(32),1,32,Kevin,Johnson,71,0
+9206,2013,Cordarrelle Patterson,WR,6,2,216,31.75,9,4.42,0,1.55,0,0,37,128,0,1,Tennessee,29(29),29,29,Cordarrelle,Patterson,74,0
+9515,2012,Kashif Moore,WR,5,9,180,31,9.625,4.42,0,0,4.05,6.82,43,126,19,0,,,0,0,Kashif,Moore,69,0
+9528,2012,Jarius Wright,WR,5,10,182,31.5,8.5,4.42,0,1.45,4.03,6.93,38,120,11,4,Arkansas,23(118),23,118,Jarius,Wright,70,0
+10132,2010,Golden Tate,WR,5,10,199,30.5,9.25,4.42,0,0,4.34,7.12,35,120,17,2,Notre Dame,28(60),28,60,Golden,Tate,70,0
+10662,2008,Pierre Garcon,WR,5,11.875,210,31.125,9.5,4.42,2.56,1.5,4.19,6.9,36.5,125,20,6,Mount Union,39(205),39,205,Pierre,Garcon,71.875,0
+10684,2008,Jerome Simpson,WR,6,2,199,0,0,4.42,2.57,1.47,4.52,7.08,37.5,136,0,2,Coastal Carolina,15(46),15,46,Jerome,Simpson,74,0
+10966,2007,Chandler Williams,WR,5,11,184,0,0,4.42,0,0,4.29,0,32.5,123,0,7,Florida International,23(233),23,233,Chandler,Williams,71,0
+11235,2006,Greg Jennings,WR,5,11,197,30,9,4.42,2.6,1.57,4.18,6.69,36.5,117,0,2,Western Michigan,20(52),20,52,Greg,Jennings,71,0
+11519,2005,Brandon Jones,WR,6,2,208,0,0,4.42,0,0,4.1,0,37,114,0,3,Oklahoma,32(96),32,96,Brandon,Jones,74,0
+12055,2003,Kevin Curtis,WR,5,11,186,0,0,4.42,0,0,3.99,0,36,122,0,3,Utah State,10(74),10,74,Kevin,Curtis,71,0
+12064,2003,Kareem Kelly,WR,6,1,186,0,0,4.42,0,0,4.24,0,35,125,0,6,USC,30(203),30,203,Kareem,Kelly,73,0
+12325,2002,Andre Davis,WR,6,2,194,0,0,4.42,0,0,4.1,0,39.5,123,0,2,Virginia Tech,15(47),15,47,Andre,Davis,74,0
+12592,2001,Kevin Kasper,WR,6,1,199,0,0,4.42,0,0,3.73,0,43.5,126,0,6,Iowa,27(190),27,190,Kevin,Kasper,73,0
+14632,2014,Martavis Bryant,WR,6,4,211,0,0,4.42,0,0,4.15,7.18,39,124,16,0,Clemson,0,0,0,Martavis,Bryant,76,0
+14739,2014,Jeff Janis,WR,6,3,219,0,0,4.42,0,0,3.98,6.64,37.5,123,20,0,Saginaw Valley St.,0,0,0,Jeff,Janis,75,0
+9191,2013,Corey Fuller,WR,6,2,204,33.25,9.5,4.43,0,1.49,0,0,31.5,120,12,6,Virginia Tech,3(171),3,171,Corey,Fuller,74,0
+9208,2013,Denard Robinson,WR,5,10,199,32.625,9,4.43,0,1.56,4.22,7.09,36.5,123,0,5,Michigan,2(135),2,135,Denard,Robinson,70,0
+9826,2011,Denarius Moore,WR,6,1,194,33,9.5,4.43,2.5,1.55,4.15,6.78,36,118,13,5,Tennessee,17(148),17,148,Denarius,Moore,73,0
+9843,2011,Titus Young,WR,5,11,174,30.875,9,4.43,2.54,1.58,4.3,6.85,35,123,0,2,Boise State,12(44),12,44,Titus,Young,71,0
+10114,2010,David Gettis,WR,6,3,217,34,10,4.43,2.59,1.54,4.41,6.94,34.5,124,15,6,Baylor,29(198),29,198,David,Gettis,75,0
+10399,2009,Dominique Edison,WR,6,2,204,32.5,8.5,4.43,2.53,1.54,4.18,7.09,37,120,0,6,Stephen F. Austin,33(206),33,206,Dominique,Edison,74,0
+10413,2009,Marko Mitchell,WR,6,4,218,34.5,10.25,4.43,0,0,4.33,7.04,32,116,9,7,Nevada,34(243),34,243,Marko,Mitchell,76,0
+10650,2008,Donnie Avery,WR,5,11,192,30.25,9.75,4.43,2.58,1.5,3.91,6.3,37.5,126,16,2,Houston,2(33),2,33,Donnie,Avery,71,0
