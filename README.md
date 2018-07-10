@@ -77,3 +77,8 @@
 [3-2b]: ./week03/day2_regressionevaluation_lossfunctions_crossvalidation/lesson-2_regression-evaluation-loss-function
 [3-2c]: ./week03/day2_regressionevaluation_lossfunctions_crossvalidation/lesson-3-cross-validation-and-train-test-split
 [3-2d]: ./week03/day2_regressionevaluation_lossfunctions_crossvalidation/lab-cross-validation-and-train-test-split
+
+[3-3a]: ./week03/day3_regularisation_feature_scaling/preprocessing-feature_scaling-lesson-1
+[3-3b]: ./week03/day3_regularisation_feature_scaling/loss-functions-regression-lab-1
+[3-3c]: ./week03/day3_regularisation_feature_scaling/regression-regularisation-lesson-2
+[3-3d]: ./week03/day3_regularisation_feature_scaling/regression-regularisation-kobe-shots-lab-2
