@@ -83,5 +83,5 @@
 [3-3c]: ./week03/day3_regularisation_feature_scaling/regression-regularisation-lesson-2
 [3-3d]: ./week03/day3_regularisation_feature_scaling/regression-regularisation-kobe-shots-lab-2
 
-[3-3a]: ./week03/day4_bias_variance_regularization/bias-variance-tradeoff-lesson
+[3-4a]: ./week03/day4_bias_variance_regularization/bias-variance-tradeoff-lesson
 [3-4b]: ./week03/day4_bias_variance_regularization/bias-variance-tradeoff-lab
