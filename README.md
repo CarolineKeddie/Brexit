@@ -24,8 +24,8 @@
 
 | Session Time  | Day 1                                    | Day 2                                                  | Day 3                                             | Day 4                          | Day 5    |
 | ------------- | ---------------------------------------- | ------------------------------------------------------ | ------------------------------------------------- | ------------------------------ | -------- |
-| 9:00 - 10:30  | [Intro to modelling - Lesson][3-1a]               | [Linear regression from scratch][3-2a]                 | [Preprocessing & features scaling - lesson][3-3a] |[Bias Variance - Lesson][3-4a]  | [][3-5a] |
-| 10:45 - 12:30 | [Intro to modelling - Lab][3-1a]       | [Regression evaluation loss functions][3-2b]           | [Loss functions and regression - lab][3-3b]       |  [Bias Variance - Lab][3-4b]   | [][3-5b] |
+| 9:00 - 10:30  | [Intro to modelling - Lesson][3-1a]               | [Linear regression from scratch][3-2a]                 | [Preprocessing & features scaling - lesson][3-3a] |[Bias Variance - Lesson][3-4a]  | [Dummy Variables - Lesson][3-5a] |
+| 10:45 - 12:30 | [Intro to modelling - Lab][3-1a]       | [Regression evaluation loss functions][3-2b]           | [Loss functions and regression - lab][3-3b]       |  [Bias Variance - Lab][3-4b]   | [Regression Review][3-5b] |
 | 13:30 - 15:00 | [Simple linear regression Lab][3-1c]     | [Cross validation and train test split - lesson][3-2c] | [Regularisation lesson][3-3c]                     |    [Regularisation - Lab][3-3d]| [][3-5c] |
 | 15:15 - 17:00 | [Regression sklearn & statsmodels][3-1d] | [Cross validation and train test split - lab][3-2d]    | [Regularisation lesson][3-3c]                 |        | [][3-5d] |
 
@@ -86,3 +86,6 @@
 
 [3-4a]: ./week03/day4_bias_variance_regularization/bias-variance-tradeoff-lesson
 [3-4b]: ./week03/day4_bias_variance_regularization/bias-variance-tradeoff-lab
+
+[3-5a]: ./week03/day5_dummy_variables/dummy_variables_lesson
+[3-5b]: ./week03/day5_dummy_variables/regression-review
