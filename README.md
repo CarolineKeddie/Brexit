@@ -34,10 +34,10 @@
 
 | Session Time  | Day 1                                          | Day 2                                  | Day 3                                                  | Day 4                                              | Day 5 |
 | ------------- | ---------------------------------------------- | -------------------------------------- | ------------------------------------------------------ | -------------------------------------------------- | ----- |
-| 9:00 - 10:30  | [KNN - Intro to classification - Lesson][4-2a] | [Logistic regression - Lesson][4-3a]   | [Optimization Gridsearch Hyperparameters Lesson][4-4a] |                                                    |       |
-| 10:45 - 12:30 | [KNN - Intro to classification - Lab][4-2b]    | [Logistic Regression - Lab][4-3b]      | [Optimization Gridsearch Hyperparameters Lab][4-4b]    | [Classification scores - Lesson][4-5b]             |       |
-| 13:30 - 15:00 | [KNN - Imputation - Lab][4-2c]                 | [Classifier evaluation - Lesson][4-3c] | [DIY KNN - Lab][4-4c]                                  | [Classification - Multiple classes - Lesson][4-5c] |       |
-| 15:15 - 17:00 | [Introduction to OOP][4-2d]                    | [Classifier evaluation - Lab][4-3d]    | [Object Oriented Programming - LR][4-4d]               | [Classification - Multiple classes - Lab][4-5d]    |       |
+| 9:00 - 10:30  | [KNN - Intro to classification - Lesson][4-1a] | [Logistic regression - Lesson][4-2a]   | [Optimization Gridsearch Hyperparameters Lesson][4-3a] |                                                    |       |
+| 10:45 - 12:30 | [KNN - Intro to classification - Lab][4-1b]    | [Logistic Regression - Lab][4-2b]      | [Optimization Gridsearch Hyperparameters Lab][4-3b]    |             |       |
+| 13:30 - 15:00 | [KNN - Imputation - Lab][4-1c]                 | [Classifier evaluation - Lesson][4-2c] | Outcomes                |  |       |
+| 15:15 - 17:00 | [Introduction to OOP][4-1d]                    | [Classifier evaluation - Lab][4-2d]    | Outcomes|     |       |
 
 
 [1-1a]: ./week01/day1_intro_command_line_and_github/DSI_intro
@@ -101,7 +101,12 @@
 [3-5a]: ./week03/day5_dummy_variables/dummy_variables_lesson
 [3-5b]: ./week03/day5_dummy_variables/regression-review
 
-[4-2a]: ./week04/day1_intro_classification_knn/classification-knn_intro_to_classification-lesson
-[4-2b]: ./week04/day1_intro_classification_knn/classification-knn_intro_to_classification-lab
-[4-2c]: ./week04/day1_intro_classification_knn/classification-knn_imputation-lab
-[4-2d]: ./week04/day1_intro_classification_knn/introduction_to_object_oriented_programming/
+[4-1a]: ./week04/day1_intro_classification_knn/classification-knn_intro_to_classification-lesson
+[4-1b]: ./week04/day1_intro_classification_knn/classification-knn_intro_to_classification-lab
+[4-1c]: ./week04/day1_intro_classification_knn/classification-knn_imputation-lab
+[4-1d]: ./week04/day1_intro_classification_knn/introduction_to_object_oriented_programming/
+
+[4-2a]: ./week04/day2_logistic_regression_classifier_evaluation/logistic-regression-lesson
+[4-2b]: ./week04/day2_logistic_regression_classifier_evaluation/logistic-regression-lab
+[4-2c]: ./week04/day2_logistic_regression_classifier_evaluation/classifier-evaluation-lesson
+[4-2d]: ./week04/day2_logistic_regression_classifier_evaluation/classifier-evaluation-lab
