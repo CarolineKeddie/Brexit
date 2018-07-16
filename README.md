@@ -22,12 +22,23 @@
 
 ## Week 3: Linear Regression
 
-| Session Time  | Day 1                                    | Day 2                                                  | Day 3                                             | Day 4                          | Day 5    |
-| ------------- | ---------------------------------------- | ------------------------------------------------------ | ------------------------------------------------- | ------------------------------ | -------- |
-| 9:00 - 10:30  | [Intro to modelling - Lesson][3-1a]               | [Linear regression from scratch][3-2a]                 | [Preprocessing & features scaling - lesson][3-3a] |[Bias Variance - Lesson][3-4a]  | [Dummy Variables - Lesson][3-5a] |
-| 10:45 - 12:30 | [Intro to modelling - Lab][3-1a]       | [Regression evaluation loss functions][3-2b]           | [Loss functions and regression - lab][3-3b]       |  [Bias Variance - Lab][3-4b]   | [Regression Review][3-5b] |
-| 13:30 - 15:00 | [Simple linear regression Lab][3-1c]     | [Cross validation and train test split - lesson][3-2c] | [Regularisation lesson][3-3c]                     |    [Regularisation - Lab][3-3d]| [][3-5c] |
-| 15:15 - 17:00 | [Regression sklearn & statsmodels][3-1d] | [Cross validation and train test split - lab][3-2d]    | [Regularisation lesson][3-3c]                 |        | [][3-5d] |
+| Session Time  | Day 1                                    | Day 2                                                  | Day 3                                             | Day 4                          | Day 5                            |
+| ------------- | ---------------------------------------- | ------------------------------------------------------ | ------------------------------------------------- | ------------------------------ | -------------------------------- |
+| 9:00 - 10:30  | [Intro to modelling - Lesson][3-1a]      | [Linear regression from scratch][3-2a]                 | [Preprocessing & features scaling - lesson][3-3a] | [Bias Variance - Lesson][3-4a] | [Dummy Variables - Lesson][3-5a] |
+| 10:45 - 12:30 | [Intro to modelling - Lab][3-1a]         | [Regression evaluation loss functions][3-2b]           | [Loss functions and regression - lab][3-3b]       | [Bias Variance - Lab][3-4b]    | [Regression Review][3-5b]        |
+| 13:30 - 15:00 | [Simple linear regression Lab][3-1c]     | [Cross validation and train test split - lesson][3-2c] | [Regularisation lesson][3-3c]                     | [Regularisation - Lab][3-3d]   | [][3-5c]                         |
+| 15:15 - 17:00 | [Regression sklearn & statsmodels][3-1d] | [Cross validation and train test split - lab][3-2d]    | [Regularisation lesson][3-3c]                     |                                | [][3-5d]                         |
+
+
+## Week 4: Intro to Logistic Regression
+
+| Session Time  | Day 1                                          | Day 2                                  | Day 3                                                  | Day 4                                              | Day 5 |
+| ------------- | ---------------------------------------------- | -------------------------------------- | ------------------------------------------------------ | -------------------------------------------------- | ----- |
+| 9:00 - 10:30  | [KNN - Intro to classification - Lesson][4-2a] | [Logistic regression - Lesson][4-3a]   | [Optimization Gridsearch Hyperparameters Lesson][4-4a] |                                                    |       |
+| 10:45 - 12:30 | [KNN - Intro to classification - Lab][4-2b]    | [Logistic Regression - Lab][4-3b]      | [Optimization Gridsearch Hyperparameters Lab][4-4b]    | [Classification scores - Lesson][4-5b]             |       |
+| 13:30 - 15:00 | [KNN - Imputation - Lab][4-2c]                 | [Classifier evaluation - Lesson][4-3c] | [DIY KNN - Lab][4-4c]                                  | [Classification - Multiple classes - Lesson][4-5c] |       |
+| 15:15 - 17:00 | [Introduction to OOP][4-2d]                    | [Classifier evaluation - Lab][4-3d]    | [Object Oriented Programming - LR][4-4d]               | [Classification - Multiple classes - Lab][4-5d]    |       |
+
 
 [1-1a]: ./week01/day1_intro_command_line_and_github/DSI_intro
 [1-1b]: ./week01/day1_intro_command_line_and_github/lesson-intro-to-command-line
@@ -89,3 +100,8 @@
 
 [3-5a]: ./week03/day5_dummy_variables/dummy_variables_lesson
 [3-5b]: ./week03/day5_dummy_variables/regression-review
+
+[4-2a]: ./week04/day1_intro_classification_knn/classification-knn_intro_to_classification-lesson
+[4-2b]: ./week04/day1_intro_classification_knn/classification-knn_intro_to_classification-lab
+[4-2c]: ./week04/day1_intro_classification_knn/classification-knn_imputation-lab
+[4-2d]: ./week04/day1_intro_classification_knn/introduction_to_object_oriented_programming/
