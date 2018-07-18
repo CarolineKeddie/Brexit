@@ -111,5 +111,5 @@
 [4-2c]: ./week04/day2_logistic_regression_classifier_evaluation/classifier-evaluation-lesson
 [4-2d]: ./week04/day2_logistic_regression_classifier_evaluation/classifier-evaluation-lab
 
-[4-3a]: ./week04/day4_gridsearching_objectorientedprogramming/gridsearching_lesson
-[4-3b]: ./week04/day4_gridsearching_objectorientedprogramming/gridsearching_lab
+[4-3a]: ./week04/day3_gridsearching_objectorientedprogramming/gridsearching_lesson
+[4-3b]: ./week04/day3_gridsearching_objectorientedprogramming/gridsearching_lab
