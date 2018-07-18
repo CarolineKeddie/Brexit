@@ -34,10 +34,10 @@
 
 | Session Time  | Day 1                                          | Day 2                                  | Day 3                                                  | Day 4                                              | Day 5 |
 | ------------- | ---------------------------------------------- | -------------------------------------- | ------------------------------------------------------ | -------------------------------------------------- | ----- |
-| 9:00 - 10:30  | [KNN - Intro to classification - Lesson][4-1a] | [Logistic regression - Lesson][4-2a]   | [Optimization Gridsearch Hyperparameters Lesson][4-3a] |                                                    |       |
-| 10:45 - 12:30 | [KNN - Intro to classification - Lab][4-1b]    | [Logistic Regression - Lab][4-2b]      | [Optimization Gridsearch Hyperparameters Lab][4-3b]    |             |       |
-| 13:30 - 15:00 | [KNN - Imputation - Lab][4-1c]                 | [Classifier evaluation - Lesson][4-2c] | Outcomes                |  |       |
-| 15:15 - 17:00 | [Introduction to OOP][4-1d]                    | [Classifier evaluation - Lab][4-2d]    | Outcomes|     |       |
+| 9:00 - 10:30  | [KNN - Intro to classification - Lesson][4-1a] | [Logistic regression - Lesson][4-2a]   | [Optimization Gridsearch Hyperparameters Lesson][4-3a] | [Classification scores - Lab][4-4a]                                                   |       |
+| 10:45 - 12:30 | [KNN - Intro to classification - Lab][4-1b]    | [Logistic Regression - Lab][4-2b]      | [Optimization Gridsearch Hyperparameters Lab][4-3b]    |     [Classification with multiple classes - Lesson][4-4b]        |       |
+| 13:30 - 15:00 | [KNN - Imputation - Lab][4-1c]                 | [Classifier evaluation - Lesson][4-2c] | Outcomes                |[Classification with multiple classes - Lab][4-4c]      |       |
+| 15:15 - 17:00 | [Introduction to OOP][4-1d]                    | [Classifier evaluation - Lab][4-2d]    | Outcomes|Capstone project - Outline     |       |
 
 
 [1-1a]: ./week01/day1_intro_command_line_and_github/DSI_intro
@@ -113,3 +113,7 @@
 
 [4-3a]: ./week04/day3_gridsearching_objectorientedprogramming/gridsearching_lesson
 [4-3b]: ./week04/day3_gridsearching_objectorientedprogramming/gridsearching_lab
+
+[4-4a]: ./week04/day4_multi_class_classification/lab-classification-scores
+[4-4b]: ./week04/day4_multi_class_classification/lesson-classification-multiple-classes
+[4-4c]:./week04/day4_multi_class_classification/lab-classification-multiple-classes
