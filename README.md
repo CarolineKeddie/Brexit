@@ -36,8 +36,8 @@
 | ------------- | ---------------------------------------------- | -------------------------------------- | ------------------------------------------------------ | ----------------------------------------------------- | ---------------------------------------- |
 | 9:00 - 10:30  | [KNN - Intro to classification - Lesson][4-1a] | [Logistic regression - Lesson][4-2a]   | [Optimization Gridsearch Hyperparameters Lesson][4-3a] | [Classification scores - Lab][4-4a]                   | [DIY KNN - Lab][4-5a]                    |
 | 10:45 - 12:30 | [KNN - Intro to classification - Lab][4-1b]    | [Logistic Regression - Lab][4-2b]      | [Optimization Gridsearch Hyperparameters Lab][4-3b]    | [Classification with multiple classes - Lesson][4-4b] | [Object Oriented Programming - LR][4-5b] |
-| 13:30 - 15:00 | [KNN - Imputation - Lab][4-1c]                 | [Classifier evaluation - Lesson][4-2c] | Outcomes                                               | [Classification with multiple classes - Lab][4-4c]    | [Project 3 / 1:1]                            |
-| 15:15 - 17:00 | [Introduction to OOP][4-1d]                    | [Classifier evaluation - Lab][4-2d]    | Outcomes                                               | Capstone project - Outline                            | [Project 3 / 1:1]                                 |
+| 13:30 - 15:00 | [KNN - Imputation - Lab][4-1c]                 | [Classifier evaluation - Lesson][4-2c] | Outcomes                                               | [Classification with multiple classes - Lab][4-4c]    | [Logistic Regression Review][4-5c]                            |
+| 15:15 - 17:00 | [Introduction to OOP][4-1d]                    | [Classifier evaluation - Lab][4-2d]    | Outcomes                                               | Capstone project - Outline                            | Project 3 / 1:1                                 |
 
 
 [1-1a]: ./week01/day1_intro_command_line_and_github/DSI_intro
@@ -120,3 +120,4 @@
 
 [4-5a]: ./week04/day5_dyi_knn_oop/DIY_knn
 [4-5b]: ./week04/day5_dyi_knn_oop/regression-object_oriented_programming
+[4-5c]: ./week04/day5_dyi_knn_oop/logistic_regression_review
