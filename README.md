@@ -131,7 +131,7 @@
 [4-5b]: ./week04/day5_dyi_knn_oop/regression-object_oriented_programming
 [4-5c]: ./week04/day5_dyi_knn_oop/logistic_regression_review
 
-[5-1a]: ./week05/day1_databases_and_apis/python-web_services_apis
-[5-1b]: ./week05/day1_databases_and_apis/intro-to-html-css-lesson
+[5-1a]: ./week05/day1_databases_and_apis/intro-to-html-css-lesson
+[5-1b]: ./week05/day1_databases_and_apis/python-web_services_apis
 [5-1c]: ./week05/day1_databases_and_apis/database-fundamentals-lesson
 [5-1d]: ./week05/day1_databases_and_apis/database-sql-connecting-to-databases-lesson
