@@ -39,6 +39,15 @@
 | 13:30 - 15:00 | [KNN - Imputation - Lab][4-1c]                 | [Classifier evaluation - Lesson][4-2c] | Outcomes                                               | [Classification with multiple classes - Lab][4-4c]    | [Logistic Regression Review][4-5c]                            |
 | 15:15 - 17:00 | [Introduction to OOP][4-1d]                    | [Classifier evaluation - Lab][4-2d]    | Outcomes                                               | Capstone project - Outline                            | Project 3 / 1:1                                 |
 
+## Week 5: Databases, Apis, Web Scraping, Statistics
+
+| Session Time  | Day 1                                            | Day 2                                     | Day 3                                       | Day 4                                                  | Day 5                    |
+| ------------- | ------------------------------------------------ | ----------------------------------------- | ------------------------------------------- | ------------------------------------------------------ | ------------------------ |
+| 09:00 - 10:30 | [Intro to web services - lesson + lab][5-1a]        | [SQL - Pandas - Lab 1][5-2a]              | [Local-postgres-lesson1][5-3a]              | [Hypothesis testing - ttest - Lesson][5-4a]            | Project support          |
+| 10:45 - 12:30 | [Intro to web scraping][5-1b] | [SQL - Pandas - Lab 2][5-2b]              | [database-sql_commands_together-lab1][5-3b] | [Confidence interval - hypothesis testing - lab][5-4b] | [Tableau - Lesson][5-5b] |
+| 13:30 - 15:00 | [Databases - Fundamentals - Lesson][5-1c]     | [Intro to HTML and web scraping][5-2c]    | [python-webscraping-lesson2][5-3c]          | [Bootstrapping - Lesson][5-4c]                         | [Tableau - Lab][5-5c]    |
+| 15:15 - 17:00 | [Connecting to Databases and SQL - Lesson][5-1d]                    | [Web scraping lab (Lincoln quotes)][5-2d] | [Advanced-SQL][5-3d]                        | [Contingency tables - Lesson][5-4d]                    | [Tableau - Lab][5-5d]    |
+
 
 [1-1a]: ./week01/day1_intro_command_line_and_github/DSI_intro
 [1-1b]: ./week01/day1_intro_command_line_and_github/lesson-intro-to-command-line
@@ -121,3 +130,8 @@
 [4-5a]: ./week04/day5_dyi_knn_oop/DIY_knn
 [4-5b]: ./week04/day5_dyi_knn_oop/regression-object_oriented_programming
 [4-5c]: ./week04/day5_dyi_knn_oop/logistic_regression_review
+
+[5-1a]: ./week05/day1_databases_and_apis/python-web_services_apis
+[5-1b]: ./week05/day1_databases_and_apis/intro-to-html-css-lesson
+[5-1c]: ./week05/day1_databases_and_apis/database-fundamentals-lesson
+[5-1d]: ./week05/day1_databases_and_apis/database-sql-connecting-to-databases-lesson
