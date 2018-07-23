@@ -135,3 +135,6 @@
 [5-1b]: ./week05/day1_databases_and_apis/python-web_services_apis
 [5-1c]: ./week05/day1_databases_and_apis/database-fundamentals-lesson
 [5-1d]: ./week05/day1_databases_and_apis/database-sql-intro-lesson
+
+[5-2a]: ./week05/day2_sql_and_web_scraping/database-sql-with-pandas-lab-1
+[5-2b]: ./week05/day2_sql_and_web_scraping/database-sql-with-pandas-lab-2
