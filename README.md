@@ -134,4 +134,4 @@
 [5-1a]: ./week05/day1_databases_and_apis/intro-to-html-css-lesson
 [5-1b]: ./week05/day1_databases_and_apis/python-web_services_apis
 [5-1c]: ./week05/day1_databases_and_apis/database-fundamentals-lesson
-[5-1d]: ./week05/day1_databases_and_apis/database-sql-connecting-intro-lesson
+[5-1d]: ./week05/day1_databases_and_apis/database-sql-intro-lesson
