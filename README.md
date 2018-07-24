@@ -45,7 +45,7 @@
 | ------------- | ------------------------------------------------ | ----------------------------------------- | ------------------------------------------- | ----- | ----- |
 | 09:00 - 10:30 | [Intro to web scraping][5-1a]                    | [SQL - Pandas - Lab 1][5-2a]              | [Local-postgres-lesson1][5-3a]              |       |       |
 | 10:45 - 12:30 | [Intro to web services - lesson + lab][5-1b]     | [SQL - Pandas - Lab 2][5-2b]              | [database-sql_commands_together-lab1][5-3b] |       |       |
-| 13:30 - 15:00 | [Databases - Fundamentals - Lesson][5-1c]        | [Intro to HTML and web scraping][5-2c]    | [python-webscraping-lesson2][5-3c]          |       |       |
+| 13:30 - 15:00 | [Databases - Fundamentals - Lesson][5-1c]        | [Intro to web scraping][5-2c]    | [python-webscraping-lesson2][5-3c]          |       |       |
 | 15:15 - 17:00 | [Connecting to Databases and SQL - Lesson][5-1d] | [Web scraping lab (Lincoln quotes)][5-2d] | [Advanced-SQL][5-3d]                        |       |       |
 
 
@@ -138,3 +138,5 @@
 
 [5-2a]: ./week05/day2_sql_and_web_scraping/database-sql-with-pandas-lab-1
 [5-2b]: ./week05/day2_sql_and_web_scraping/database-sql-with-pandas-lab-2
+[5-2c]: ./week05/day2_sqlpractice_webscraping/HTML_webscraping
+[5-2d]: ./week05/day2_sqlpractice_webscraping/python-webscraping_lincoln_quotes-lab
