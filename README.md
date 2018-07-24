@@ -138,5 +138,5 @@
 
 [5-2a]: ./week05/day2_sql_and_web_scraping/database-sql-with-pandas-lab-1
 [5-2b]: ./week05/day2_sql_and_web_scraping/database-sql-with-pandas-lab-2
-[5-2c]: ./week05/day2_sqlpractice_webscraping/HTML_webscraping
-[5-2d]: ./week05/day2_sqlpractice_webscraping/python-webscraping_lincoln_quotes-lab
+[5-2c]: ./week05/day2_sql_and_web_scraping/intro-to-web-scraping-lesson
+[5-2d]: ./week05/day2_sql_and_web_scraping/python-webscraping_lincoln_quotes-lab
