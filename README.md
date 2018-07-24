@@ -43,10 +43,10 @@
 
 | Session Time  | Day 1                                            | Day 2                                     | Day 3                                       | Day 4 | Day 5 |
 | ------------- | ------------------------------------------------ | ----------------------------------------- | ------------------------------------------- | ----- | ----- |
-| 09:00 - 10:30 | [Intro to web scraping][5-1a]                    | [SQL - Pandas - Lab 1][5-2a]              | [Local-postgres-lesson1][5-3a]              |       |       |
-| 10:45 - 12:30 | [Intro to web services - lesson + lab][5-1b]     | [SQL - Pandas - Lab 2][5-2b]              | [database-sql_commands_together-lab1][5-3b] |       |       |
-| 13:30 - 15:00 | [Databases - Fundamentals - Lesson][5-1c]        | [Intro to web scraping][5-2c]    | [python-webscraping-lesson2][5-3c]          |       |       |
-| 15:15 - 17:00 | [Connecting to Databases and SQL - Lesson][5-1d] | [Web scraping lab (Lincoln quotes)][5-2d] | [Advanced-SQL][5-3d]                        |       |       |
+| 09:00 - 10:30 | [Intro to web scraping][5-1a]                    | [SQL - Pandas - Lab 1][5-2a]              | [Intro-to-web-services - lab][5-3a]              |       |       |
+| 10:45 - 12:30 | [Intro to web services - lesson + lab][5-1b]     | [SQL - Pandas - Lab 2][5-2b]              | [database-sql-commands-together-lab][5-3b] |       |       |
+| 13:30 - 15:00 | [Databases - Fundamentals - Lesson][5-1c]        | [Intro to web scraping][5-2c]    | [python-webscraping-xpath-lesson][5-3c]          |       |       |
+| 15:15 - 17:00 | [Connecting to Databases and SQL - Lesson][5-1d] | [Web scraping lab (Lincoln quotes)][5-2d] | [practice-postgres-sql][5-3d]                        |       |       |
 
 
 [1-1a]: ./week01/day1_intro_command_line_and_github/DSI_intro
@@ -140,3 +140,8 @@
 [5-2b]: ./week05/day2_sql_and_web_scraping/database-sql-with-pandas-lab-2
 [5-2c]: ./week05/day2_sql_and_web_scraping/intro-to-web-scraping-lesson
 [5-2d]: ./week05/day2_sql_and_web_scraping/python-webscraping_lincoln_quotes-lab
+
+[5-3a]: ./week05/day3_more_on_databases_scrapy/python-web_services_apis-lab
+[5-3b]: ./week05/day3_more_on_databases_scrapy/database-sql_commands_together-lab
+[5-3c]: ./week05/day3_more_on_databases_scrapy/python-webscraping-xpath-lesson
+[5-3d]: ./week05/day3_more_on_databases_scrapy/database-postgresql_practice-lab
