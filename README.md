@@ -145,3 +145,7 @@
 [5-3b]: ./week05/day3_more_on_databases_scrapy/database-sql_commands_together-lab
 [5-3c]: ./week05/day3_more_on_databases_scrapy/python-webscraping-xpath-lesson
 [5-3d]: ./week05/day3_more_on_databases_scrapy/database-postgresql_practice-lab
+
+[5-4a]: ./week05/day4_hypothesis_testing_bootstrap_tableau/statistics-hypothesis-testing
+[5-4b]: ./week05/day4_hypothesis_testing_bootstrap_tableau/statistics-bootstrap
+[5-4c]: ./week05/day4_hypothesis_testing_bootstrap_tableau/tableau-intro
