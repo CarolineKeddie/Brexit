@@ -48,6 +48,15 @@
 | 13:30 - 15:00 | [Databases - Fundamentals - Lesson][5-1c]        | [Intro to web scraping][5-2c]    | [python-webscraping-xpath-lesson][5-3c]          |[Tableau Intro][5-4c]    |   [Group project][5-5b]     |
 | 15:15 - 17:00 | [Connecting to Databases and SQL - Lesson][5-1d] | [Web scraping lab (Lincoln quotes)][5-2d] | [practice-postgres-sql][5-3d]                        | [Tableau Intro][5-4c]      |    [Group project][5-5b]    |
 
+## Week 6: Trees & Ensemble Methods, NLP
+
+| Session Time  | Day 1                           | Day 2 | Day 3 | Day 4 | Day 5 |
+| ------------- | ------------------------------- | ----- | ----- | ----- | ----- |
+| 09:00 - 10:30 | [Decision Trees - lesson][6-1a] |       |       |       |       |
+| 10:45 - 12:30 | [Decision Trees - lab1][6-1b]   |       |       |       |       |
+| 13:30 - 15:00 | [Web scraping review][6-1c]     |       |       |       |       |
+| 15:15 - 17:00 | [Decision Trees - lab2][6-1d]   |       |       |       |       |
+
 
 [1-1a]: ./week01/day1_intro_command_line_and_github/DSI_intro
 [1-1b]: ./week01/day1_intro_command_line_and_github/lesson-intro-to-command-line
@@ -151,3 +160,8 @@
 [5-4c]: ./week05/day4_hypothesis_testing_bootstrap_tableau/tableau-intro
 
 [5-5b]: ./week05/day5_group_project/group_project
+
+[6-1a]: ./week06/day1_decision_trees/trees-CARTs-lesson
+[6-1b]: ./week06/day1_decision_trees/trees-CARTs-lab
+[6-1c]: ./week06/day1_decision_trees/databases-and-webscraping
+[6-1d]: ./week06/day1_decision_trees/decision_trees_individual_practice
