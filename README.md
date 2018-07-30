@@ -52,10 +52,10 @@
 
 | Session Time  | Day 1                           | Day 2 | Day 3 | Day 4 | Day 5 |
 | ------------- | ------------------------------- | ----- | ----- | ----- | ----- |
-| 09:00 - 10:30 | [Decision Trees - lesson][6-1a] |       |       |       |       |
-| 10:45 - 12:30 | [Decision Trees - lab1][6-1b]   |       |       |       |       |
-| 13:30 - 15:00 | [Web scraping review][6-1c]     |       |       |       |       |
-| 15:15 - 17:00 | [Decision Trees - lab2][6-1d]   |       |       |       |       |
+| 09:00 - 10:30 | [Decision Trees - lesson][6-1a] |[Statistics - Bootstrapping][5-4b]|       |       |       |
+| 10:45 - 12:30 | [Decision Trees - lab1][6-1b]   |[Ensemble methods - Lesson][6-2b]       |       |       |       |
+| 13:30 - 15:00 | [Web scraping review][6-1c]     | [Bagging - Lab][6-2c]      |       |       |       |
+| 15:15 - 17:00 | [Decision Trees - lab2][6-1d]   |[Random Forest - Lab][6-2d]       |       |       |       |
 
 
 [1-1a]: ./week01/day1_intro_command_line_and_github/DSI_intro
@@ -165,3 +165,7 @@
 [6-1b]: ./week06/day1_decision_trees/trees-CARTs-lab
 [6-1c]: ./week06/day1_decision_trees/databases-and-webscraping
 [6-1d]: ./week06/day1_decision_trees/decision_trees_individual_practice
+
+[6-2b]: ./week06/day2_ensemble_methods/intro_to_ensembles_bagging_lesson
+[6-2c]: ./week06/day2_ensemble_methods/bagging_lab
+[6-2d]: ./week06/day2_ensemble_methods/random_forest_lab
