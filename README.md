@@ -50,12 +50,12 @@
 
 ## Week 6: Trees & Ensemble Methods, NLP
 
-| Session Time  | Day 1                           | Day 2 | Day 3 | Day 4 | Day 5 |
-| ------------- | ------------------------------- | ----- | ----- | ----- | ----- |
-| 09:00 - 10:30 | [Decision Trees - lesson][6-1a] |[Statistics - Bootstrapping][5-4b]|       |       |       |
-| 10:45 - 12:30 | [Decision Trees - lab1][6-1b]   |[Ensemble methods - Lesson][6-2b]       |       |       |       |
-| 13:30 - 15:00 | [Web scraping review][6-1c]     | [Bagging - Lab][6-2c]      |       |       |       |
-| 15:15 - 17:00 | [Decision Trees - lab2][6-1d]   |[Random Forest - Lab][6-2d]       |       |       |       |
+| Session Time  | Day 1                           | Day 2                              | Day 3                             | Day 4 | Day 5 |
+| ------------- | ------------------------------- | ---------------------------------- | --------------------------------- | ----- | ----- |
+| 09:00 - 10:30 | [Decision Trees - lesson][6-1a] | [Statistics - Bootstrapping][5-4b] | [Multithreading - Lesson][6-3a]   |       |       |
+| 10:45 - 12:30 | [Decision Trees - lab1][6-1b]   | [Ensemble methods - Lesson][6-2b]  | [Adaboost - Lesson][6-3b]         |       |       |
+| 13:30 - 15:00 | [Web scraping review][6-1c]     | [Bagging - Lab][6-2c]              | [Decision Trees OOP - lab2][6-3c] |       |       |
+| 15:15 - 17:00 |                                 | [Random Forest - Lab][6-2d]        |    [Adaboost - Lab][6-3d]                               |       |       |
 
 
 [1-1a]: ./week01/day1_intro_command_line_and_github/DSI_intro
@@ -169,3 +169,8 @@
 [6-2b]: ./week06/day2_ensemble_methods/intro_to_ensembles_bagging_lesson
 [6-2c]: ./week06/day2_ensemble_methods/bagging_lab
 [6-2d]: ./week06/day2_ensemble_methods/random_forest_lab
+
+[6-3a]: ./week06/day3_adaboost/Python_multithreading_module.ipynb
+[6-3b]: ./week06/day3_adaboost/ensemble-boosting_adaboost-lesson
+[6-3c]: ./week06/day3_adaboost/decision_trees_individual_practice
+[6-3d]: ./week06/day3_adaboost/ensemble-boosting_adaboost-lab
