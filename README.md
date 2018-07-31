@@ -170,7 +170,7 @@
 [6-2c]: ./week06/day2_ensemble_methods/bagging_lab
 [6-2d]: ./week06/day2_ensemble_methods/random_forest_lab
 
-[6-3a]: ./week06/day3_adaboost/Python_multithreading_module.ipynb
+[6-3a]: ./week06/day3_adaboost/python_multithreading_lesson
 [6-3b]: ./week06/day3_adaboost/ensemble-boosting_adaboost-lesson
 [6-3c]: ./week06/day3_adaboost/decision_trees_individual_practice
 [6-3d]: ./week06/day3_adaboost/ensemble-boosting_adaboost-lab
