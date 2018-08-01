@@ -52,10 +52,10 @@
 
 | Session Time  | Day 1                           | Day 2                              | Day 3                             | Day 4 | Day 5 |
 | ------------- | ------------------------------- | ---------------------------------- | --------------------------------- | ----- | ----- |
-| 09:00 - 10:30 | [Decision Trees - lesson][6-1a] | [Statistics - Bootstrapping][5-4b] | [Multithreading - Lesson][6-3a]   |       |       |
-| 10:45 - 12:30 | [Decision Trees - lab1][6-1b]   | [Ensemble methods - Lesson][6-2b]  | [Adaboost - Lesson][6-3b]         |       |       |
-| 13:30 - 15:00 | [Web scraping review][6-1c]     | [Bagging - Lab][6-2c]              | [Decision Trees OOP - lab2][6-3c] |       |       |
-| 15:15 - 17:00 |                                 | [Random Forest - Lab][6-2d]        |    [Adaboost - Lab][6-3d]                               |       |       |
+| 09:00 - 10:30 | [Decision Trees - lesson][6-1a] | [Statistics - Bootstrapping][5-4b] | [Multithreading - Lesson][6-3a]   | [NLP Intro - Lesson][6-4a]    |       |
+| 10:45 - 12:30 | [Decision Trees - lab1][6-1b]   | [Ensemble methods - Lesson][6-2b]  | [Adaboost - Lesson][6-3b]         |[NLP Intro - Lab][6-4b]       |       |
+| 13:30 - 15:00 | [Web scraping review][6-1c]     | [Bagging - Lab][6-2c]              | [Decision Trees OOP - lab2][6-3c] |[NLP Intro - Lab][6-4b]       |       |
+| 15:15 - 17:00 |                                 | [Random Forest - Lab][6-2d]        |    [Adaboost - Lab][6-3d]                               |Project       |       |
 
 
 [1-1a]: ./week01/day1_intro_command_line_and_github/DSI_intro
@@ -174,3 +174,7 @@
 [6-3b]: ./week06/day3_adaboost/ensemble-boosting_adaboost-lesson
 [6-3c]: ./week06/day3_adaboost/decision_trees_individual_practice
 [6-3d]: ./week06/day3_adaboost/ensemble-boosting_adaboost-lab
+
+
+[6-4a]: ./week06/day4_nlp_intro/nlp-intro-lesson
+[6-4b]: ./week06/day4_nlp_intro/nlp-intro-lab
