@@ -57,6 +57,16 @@
 | 13:30 - 15:00 | [Web scraping review][6-1c]     | [Bagging - Lab][6-2c]              | [Decision Trees OOP - lab2][6-3c] |[NLP Intro - Lab][6-4b]       |       |
 | 15:15 - 17:00 |                                 | [Random Forest - Lab][6-2d]        |    [Adaboost - Lab][6-3d]                               |Project       |       |
 
+## Week 7: Unsupervised Learning Methods
+
+| Session Time  | Day 1                           | Day 2                              | Day 3                             | Day 4 | Day 5 |
+| ------------- | ------------------------------- | ---------------------------------- | --------------------------------- | ----- | ----- |
+| 09:00 - 10:30 |[PCA Intro - Lesson][7-1a] | | | | |
+| 10:45 - 12:30 |[PCA Intro - Lesson][7-1a] | | | | |
+| 13:30 - 15:00 |[PCA Intro - Lab][7-1c] | | | | |
+| 15:15 - 17:00 |[PCA Visualization - Lab][7-1d] | | | | |
+
+
 
 [1-1a]: ./week01/day1_intro_command_line_and_github/DSI_intro
 [1-1b]: ./week01/day1_intro_command_line_and_github/lesson-intro-to-command-line
@@ -178,3 +188,7 @@
 
 [6-4a]: ./week06/day4_nlp_intro/nlp-intro-lesson
 [6-4b]: ./week06/day4_nlp_intro/nlp-intro-lab
+
+[7-1a]: ./week07/day1_principal_component_anlaysis/pca-intro-lesson
+[7-1c]: ./week07/day1_principal_component_anlaysis/pca-intro-lab
+[7-1d]: ./week07/day1_principal_component_anlaysis/pca-visualization-lab
