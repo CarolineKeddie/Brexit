@@ -59,12 +59,12 @@
 
 ## Week 7: Unsupervised Learning Methods
 
-| Session Time  | Day 1                           | Day 2                              | Day 3 | Day 4 | Day 5 |
-| ------------- | ------------------------------- | ---------------------------------- | ----- | ----- | ----- |
-| 09:00 - 10:30 | [PCA Intro - Lesson][7-1a]      | [Intro to Kmeans - Lesson][7-2a]   |       |       |       |
-| 10:45 - 12:30 | [PCA Intro - Lesson][7-1a]      | [Intro to Kmeans - Lab][7-2b]      |       |       |       |
-| 13:30 - 15:00 | [PCA Intro - Lab][7-1c]         | [Kmeans evaluation - Lesson][7-2c] |       |       |       |
-| 15:15 - 17:00 | [PCA Visualization - Lab][7-1d] | [Kmeans evaluation - Lab][7-2d]    |       |       |       |
+| Session Time  | Day 1                           | Day 2                              | Day 3                                    | Day 4 | Day 5 |
+| ------------- | ------------------------------- | ---------------------------------- | ---------------------------------------- | ----- | ----- |
+| 09:00 - 10:30 | [PCA Intro - Lesson][7-1a]      | [Intro to Kmeans - Lesson][7-2a]   | [Hierarchical_clustering - Lesson][7-3a] |       |       |
+| 10:45 - 12:30 | [PCA Intro - Lesson][7-1a]      | [Intro to Kmeans - Lab][7-2b]      | [Hierarchical_clustering - Lab][7-3b]    |       |       |
+| 13:30 - 15:00 | [PCA Intro - Lab][7-1c]         | [Kmeans evaluation - Lesson][7-2c] |                                          |       |       |
+| 15:15 - 17:00 | [PCA Visualization - Lab][7-1d] | [Kmeans evaluation - Lab][7-2d]    |                                          |       |       |
 
 
 
@@ -197,3 +197,6 @@
 [7-2b]: ./week07/day2_intro_unsupervised_learning_kmeans/clustering-intro_to_clustering_kmeans-lab
 [7-2c]: ./week07/day2_intro_unsupervised_learning_kmeans/clustering-cluster_evaluation_metrics-lesson
 [7-2d]: ./week07/day2_intro_unsupervised_learning_kmeans/clustering-cluster_evaluation_metrics-lab
+
+[7-3a]: ./week07/day3_hierachical_clustering/Hierarchical_clustering-lesson
+[7-3b]: ./week07/day3_hierachical_clustering/Hierarchical_clustering-lab
