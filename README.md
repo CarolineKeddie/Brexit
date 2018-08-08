@@ -61,10 +61,10 @@
 
 | Session Time  | Day 1                           | Day 2                              | Day 3                                    | Day 4 | Day 5 |
 | ------------- | ------------------------------- | ---------------------------------- | ---------------------------------------- | ----- | ----- |
-| 09:00 - 10:30 | [PCA Intro - Lesson][7-1a]      | [Intro to Kmeans - Lesson][7-2a]   | [Hierarchical_clustering - Lesson][7-3a] |       |       |
-| 10:45 - 12:30 | [PCA Intro - Lesson][7-1a]      | [Intro to Kmeans - Lab][7-2b]      | [Hierarchical_clustering - Lab][7-3b]    |       |       |
-| 13:30 - 15:00 | [PCA Intro - Lab][7-1c]         | [Kmeans evaluation - Lesson][7-2c] |[PCA Faces - Lab][7-3c]                                          |       |       |
-| 15:15 - 17:00 | [PCA Visualization - Lab][7-1d] | [Kmeans evaluation - Lab][7-2d]    |[PCA Faces - Lab][7-3c]                                          |       |       |
+| 09:00 - 10:30 | [PCA Intro - Lesson][7-1a]      | [Intro to Kmeans - Lesson][7-2a]   | [Hierarchical_clustering - Lesson][7-3a] | [DBSCAN-Intro - Lesson][7-4a]      |       |
+| 10:45 - 12:30 | [PCA Intro - Lesson][7-1a]      | [Intro to Kmeans - Lab][7-2b]      | [Hierarchical_clustering - Lab][7-3b]    | [DBSCAN - Lab][7-4b]      |       |
+| 13:30 - 15:00 | [PCA Intro - Lab][7-1c]         | [Kmeans evaluation - Lesson][7-2c] |[PCA Faces - Lab][7-3c]                                    |[DBSCAN - Lab][7-4b]       |       |
+| 15:15 - 17:00 | [PCA Visualization - Lab][7-1d] | [Kmeans evaluation - Lab][7-2d]    |[PCA Faces - Lab][7-3c]                                      |[Battle of clusterers - Lab][7-4d]       |       |
 
 
 
@@ -201,3 +201,8 @@
 [7-3a]: ./week07/day3_hierachical_clustering/Hierarchical_clustering-lesson
 [7-3b]: ./week07/day3_hierachical_clustering/Hierarchical_clustering-lab
 [7-3c]: ./week07/day3_hierachical_clustering/pca-faces-lab
+
+
+[7-4a]: ./week07/day4_DBSCAN_and_clustering_algorithm_comparison/DBSCAN-intro-lesson
+[7-4b]: ./week07/day4_DBSCAN_and_clustering_algorithm_comparison/DBSCAN-lab
+[7-4d]: ./week07/day4_DBSCAN_and_clustering_algorithm_comparison/Battle-of-clusterers-lab
