@@ -63,8 +63,8 @@
 | ------------- | ------------------------------- | ---------------------------------- | ---------------------------------------- | ----- | ----- |
 | 09:00 - 10:30 | [PCA Intro - Lesson][7-1a]      | [Intro to Kmeans - Lesson][7-2a]   | [Hierarchical_clustering - Lesson][7-3a] |       |       |
 | 10:45 - 12:30 | [PCA Intro - Lesson][7-1a]      | [Intro to Kmeans - Lab][7-2b]      | [Hierarchical_clustering - Lab][7-3b]    |       |       |
-| 13:30 - 15:00 | [PCA Intro - Lab][7-1c]         | [Kmeans evaluation - Lesson][7-2c] |                                          |       |       |
-| 15:15 - 17:00 | [PCA Visualization - Lab][7-1d] | [Kmeans evaluation - Lab][7-2d]    |                                          |       |       |
+| 13:30 - 15:00 | [PCA Intro - Lab][7-1c]         | [Kmeans evaluation - Lesson][7-2c] |[PCA Faces - Lab][7-3c]                                          |       |       |
+| 15:15 - 17:00 | [PCA Visualization - Lab][7-1d] | [Kmeans evaluation - Lab][7-2d]    |[PCA Faces - Lab][7-3c]                                          |       |       |
 
 
 
@@ -200,3 +200,4 @@
 
 [7-3a]: ./week07/day3_hierachical_clustering/Hierarchical_clustering-lesson
 [7-3b]: ./week07/day3_hierachical_clustering/Hierarchical_clustering-lab
+[7-3c]: ./week07/day3_hierachical_clustering/pca-faces-lab
