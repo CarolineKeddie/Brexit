@@ -50,21 +50,21 @@
 
 ## Week 6: Trees & Ensemble Methods, NLP
 
-| Session Time  | Day 1                           | Day 2                              | Day 3                             | Day 4 | Day 5 |
-| ------------- | ------------------------------- | ---------------------------------- | --------------------------------- | ----- | ----- |
-| 09:00 - 10:30 | [Decision Trees - lesson][6-1a] | [Statistics - Bootstrapping][5-4b] | [Multithreading - Lesson][6-3a]   | [NLP Intro - Lesson][6-4a]    |       |
-| 10:45 - 12:30 | [Decision Trees - lab1][6-1b]   | [Ensemble methods - Lesson][6-2b]  | [Adaboost - Lesson][6-3b]         |[NLP Intro - Lab][6-4b]       |       |
-| 13:30 - 15:00 | [Web scraping review][6-1c]     | [Bagging - Lab][6-2c]              | [Decision Trees OOP - lab2][6-3c] |[NLP Intro - Lab][6-4b]       |       |
-| 15:15 - 17:00 |                                 | [Random Forest - Lab][6-2d]        |    [Adaboost - Lab][6-3d]                               |Project       |       |
+| Session Time  | Day 1                           | Day 2                              | Day 3                             | Day 4                      | Day 5 |
+| ------------- | ------------------------------- | ---------------------------------- | --------------------------------- | -------------------------- | ----- |
+| 09:00 - 10:30 | [Decision Trees - lesson][6-1a] | [Statistics - Bootstrapping][5-4b] | [Multithreading - Lesson][6-3a]   | [NLP Intro - Lesson][6-4a] |       |
+| 10:45 - 12:30 | [Decision Trees - lab1][6-1b]   | [Ensemble methods - Lesson][6-2b]  | [Adaboost - Lesson][6-3b]         | [NLP Intro - Lab][6-4b]    |       |
+| 13:30 - 15:00 | [Web scraping review][6-1c]     | [Bagging - Lab][6-2c]              | [Decision Trees OOP - lab2][6-3c] | [NLP Intro - Lab][6-4b]    |       |
+| 15:15 - 17:00 |                                 | [Random Forest - Lab][6-2d]        | [Adaboost - Lab][6-3d]            | Project                    |       |
 
 ## Week 7: Unsupervised Learning Methods
 
-| Session Time  | Day 1                           | Day 2                              | Day 3                                    | Day 4 | Day 5 |
-| ------------- | ------------------------------- | ---------------------------------- | ---------------------------------------- | ----- | ----- |
-| 09:00 - 10:30 | [PCA Intro - Lesson][7-1a]      | [Intro to Kmeans - Lesson][7-2a]   | [Hierarchical_clustering - Lesson][7-3a] | [DBSCAN-Intro - Lesson][7-4a]      |       |
-| 10:45 - 12:30 | [PCA Intro - Lesson][7-1a]      | [Intro to Kmeans - Lab][7-2b]      | [Hierarchical_clustering - Lab][7-3b]    | [DBSCAN - Lab][7-4b]      |       |
-| 13:30 - 15:00 | [PCA Intro - Lab][7-1c]         | [Kmeans evaluation - Lesson][7-2c] |[PCA Faces - Lab][7-3c]                                    |[DBSCAN - Lab][7-4b]       |       |
-| 15:15 - 17:00 | [PCA Visualization - Lab][7-1d] | [Kmeans evaluation - Lab][7-2d]    |[PCA Faces - Lab][7-3c]                                      |[Battle of clusterers - Lab][7-4d]       |       |
+| Session Time  | Day 1                           | Day 2                              | Day 3                                    | Day 4                              | Day 5 |
+| ------------- | ------------------------------- | ---------------------------------- | ---------------------------------------- | ---------------------------------- | ----- |
+| 09:00 - 10:30 | [PCA Intro - Lesson][7-1a]      | [Intro to Kmeans - Lesson][7-2a]   | [Hierarchical_clustering - Lesson][7-3a] | [DBSCAN-Intro - Lesson][7-4a]      |    [Regex mini lesson][7-5a]   |
+| 10:45 - 12:30 | [PCA Intro - Lesson][7-1a]      | [Intro to Kmeans - Lab][7-2b]      | [Hierarchical_clustering - Lab][7-3b]    | [DBSCAN - Lab][7-4b]               |    [KMeans from scratch][7-5b]   |
+| 13:30 - 15:00 | [PCA Intro - Lab][7-1c]         | [Kmeans evaluation - Lesson][7-2c] | [PCA Faces - Lab][7-3c]                  | [DBSCAN - Lab][7-4b]               |       |
+| 15:15 - 17:00 | [PCA Visualization - Lab][7-1d] | [Kmeans evaluation - Lab][7-2d]    | [PCA Faces - Lab][7-3c]                  | [Battle of clusterers - Lab][7-4d] |       |
 
 
 
@@ -206,3 +206,6 @@
 [7-4a]: ./week07/day4_DBSCAN_and_clustering_algorithm_comparison/DBSCAN-intro-lesson
 [7-4b]: ./week07/day4_DBSCAN_and_clustering_algorithm_comparison/DBSCAN-lab
 [7-4d]: ./week07/day4_DBSCAN_and_clustering_algorithm_comparison/Battle-of-clusterers-lab
+
+[7-5a]: ./week07/day5_regex_kmeans_from_scratch/python-regex-lesson
+[7-5b]: ./week07/day5_regex_kmeans_from_scratch/KMeans_from_scratch
