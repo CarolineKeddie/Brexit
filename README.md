@@ -209,3 +209,8 @@
 
 [7-5a]: ./week07/day5_regex_kmeans_from_scratch/python-regex-lesson
 [7-5b]: ./week07/day5_regex_kmeans_from_scratch/KMeans_from_scratch
+
+[8-1a]: ./week08/day1_intro_to_bayesian_statistics/intro_to_bayesian_stats-lesson
+[8-1b]: ./week08/day1_intro_to_bayesian_statistics/intro_to_bayesian_stats-lab
+[8-1c]: ./week08/day1_intro_to_bayesian_statistics/naive-bayes-lesson
+[8-1d]: ./week08/day1_intro_to_bayesian_statistics/naive-bayes-spam-lab
