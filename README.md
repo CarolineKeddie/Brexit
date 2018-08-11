@@ -72,7 +72,7 @@
 | ------------- | ---------------------------------------- | ----- | ----- | ----- | ----- |
 | 09:00 - 10:30 | [Intro to bayesian stats - Lesson][8-1a] |       |       |       |       |
 | 10:45 - 12:30 | [Intro to bayesian stats - Lab][8-1b]    |       |       |       |       |
-| 13:30 - 15:00 | Naive Bayes - Lesson][8-1c]              |       |       |       |       |
+| 13:30 - 15:00 | [Naive Bayes - Lesson][8-1c]              |       |       |       |       |
 | 15:15 - 17:00 | [Naive Bayes - Lab][8-1d]                |       |       |       |       |
 
 
