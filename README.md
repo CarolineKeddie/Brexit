@@ -66,6 +66,15 @@
 | 13:30 - 15:00 | [PCA Intro - Lab][7-1c]         | [Kmeans evaluation - Lesson][7-2c] | [PCA Faces - Lab][7-3c]                  | [DBSCAN - Lab][7-4b]               |       |
 | 15:15 - 17:00 | [PCA Visualization - Lab][7-1d] | [Kmeans evaluation - Lab][7-2d]    | [PCA Faces - Lab][7-3c]                  | [Battle of clusterers - Lab][7-4d] |       |
 
+## Week 8: Bayesian Inference
+
+| Session Time  | Day 1                                    | Day 2 | Day 3 | Day 4 | Day 5 |
+| ------------- | ---------------------------------------- | ----- | ----- | ----- | ----- |
+| 09:00 - 10:30 | [Intro to bayesian stats - Lesson][8-1a] |       |       |       |       |
+| 10:45 - 12:30 | [Intro to bayesian stats - Lab][8-1b]    |       |       |       |       |
+| 13:30 - 15:00 | [Naive Bayes - Lesson][8-1c]              |       |       |       |       |
+| 15:15 - 17:00 | [Naive Bayes - Lab][8-1d]                |       |       |       |       |
+
 
 
 [1-1a]: ./week01/day1_intro_command_line_and_github/DSI_intro
@@ -209,3 +218,8 @@
 
 [7-5a]: ./week07/day5_regex_kmeans_from_scratch/python-regex-lesson
 [7-5b]: ./week07/day5_regex_kmeans_from_scratch/KMeans_from_scratch
+
+[8-1a]: ./week08/day1_intro_to_bayesian_statistics/intro_to_bayesian_stats-lesson
+[8-1b]: ./week08/day1_intro_to_bayesian_statistics/intro_to_bayesian_stats-lab
+[8-1c]: ./week08/day1_intro_to_bayesian_statistics/naive-bayes-lesson
+[8-1d]: ./week08/day1_intro_to_bayesian_statistics/naive-bayes-spam-lab
