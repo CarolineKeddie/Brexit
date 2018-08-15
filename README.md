@@ -70,10 +70,10 @@
 
 | Session Time  | Day 1                                    | Day 2 | Day 3 | Day 4 | Day 5 |
 | ------------- | ---------------------------------------- | ----- | ----- | ----- | ----- |
-| 09:00 - 10:30 | [Intro to bayesian stats - Lesson][8-1a] |[Beta-Binomial Model - Lesson][8-2a]       |       |       |       |
-| 10:45 - 12:30 | [Intro to bayesian stats - Lab][8-1b]    |[Beta-Binomial Model - Lab][8-2b]       |       |       |       |
-| 13:30 - 15:00 | [Naive Bayes - Lesson][8-1c]              |[Bayes Recap - Lab][8-2c]       |       |       |       |
-| 15:15 - 17:00 | [Naive Bayes - Lab][8-1d]                |[Intro to Pymc3 - Lesson][8-2d]       |       |       |       |
+| 09:00 - 10:30 | [Intro to bayesian stats - Lesson][8-1a] |[Beta-Binomial Model - Lesson][8-2a]| [Pymc3 - Lab][8-3a]      |       |       |
+| 10:45 - 12:30 | [Intro to bayesian stats - Lab][8-1b]    |[Beta-Binomial Model - Lab][8-2b]|[Pymc3 - Lab][8-3a]        |       |       |
+| 13:30 - 15:00 | [Naive Bayes - Lesson][8-1c]              |[Bayes Recap - Lab][8-2c]       |Outcomes       |       |       |
+| 15:15 - 17:00 | [Naive Bayes - Lab][8-1d]                |[Intro to Pymc3 - Lesson][8-2d]       |Outcomes       |       |       |
 
 
 
@@ -229,3 +229,4 @@
 [8-2b]: ./week08/day2_beta_binomial_model_and_pymc3/bayes-beta-binomial-model-lab
 [8-2c]: ./week08/day2_beta_binomial_model_and_pymc3/bayes_recap_lab
 [8-2d]: ./week08/day2_beta_binomial_model_and_pymc3/bayes-intro-to-pymc3-lesson
+[8-3a]: ./week08/day3_pymc3/pymc3_lab
