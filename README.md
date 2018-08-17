@@ -70,7 +70,7 @@
 
 | Session Time  | Day 1                                    | Day 2                                | Day 3               | Day 4                                     | Day 5 |
 | ------------- | ---------------------------------------- | ------------------------------------ | ------------------- | ----------------------------------------- | ----- |
-| 09:00 - 10:30 | [Intro to bayesian stats - Lesson][8-1a] | [Beta-Binomial Model - Lesson][8-2a] | [Pymc3 - Lab][8-3a] | [NLP - sentiment analysis - lesson][8-4b] |       |
+| 09:00 - 10:30 | [Intro to bayesian stats - Lesson][8-1a] | [Beta-Binomial Model - Lesson][8-2a] | [Pymc3 - Lab][8-3a] | [NLP - sentiment analysis - lesson][8-4b] |      [Bayesian AB testing - Lab][8-5a] |
 | 10:45 - 12:30 | [Intro to bayesian stats - Lab][8-1b]    | [Beta-Binomial Model - Lab][8-2b]    | [Pymc3 - Lab][8-3a] | [NLP - sentiment analysis - lab][8-4b]    |       |
 | 13:30 - 15:00 | [Naive Bayes - Lesson][8-1c]             | [Bayes Recap - Lab][8-2c]            | Outcomes            | [sklearn pipeline - lesson/lab][8-4c]     |       |
 | 15:15 - 17:00 | [Naive Bayes - Lab][8-1d]                | [Intro to Pymc3 - Lesson][8-2d]      | Outcomes            | [Twitter api - case study][8-4d]          |       |
@@ -236,3 +236,6 @@
 [8-4b]: ./week08/day4_nlp_sentiment_analysis_pipeline/nlp-sentiment_analysis-lab
 [8-4c]: ./week08/day4_nlp_sentiment_analysis_pipeline/sklearn-pipeline-lesson
 [8-4d]: ./week08/day4_nlp_sentiment_analysis_pipeline/nlp-twitter_api_case_study-lab
+
+
+[8-5a]: ./week08/day5_more_pymc3/bayesian_ab_testing_lab
