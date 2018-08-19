@@ -75,6 +75,14 @@
 | 13:30 - 15:00 | [Naive Bayes - Lesson][8-1c]             | [Bayes Recap - Lab][8-2c]            | Outcomes            | [sklearn pipeline - lesson/lab][8-4c]     |       |
 | 15:15 - 17:00 | [Naive Bayes - Lab][8-1d]                | [Intro to Pymc3 - Lesson][8-2d]      | Outcomes            | [Twitter api - case study][8-4d]          |       |
 
+## Week 9: Time series analysis
+
+| Session Time  | Day 1                                    | Day 2                                | Day 3               | Day 4                                     | Day 5 |
+| ------------- | ---------------------------------------- | ------------------------------------ | ------------------- | ----------------------------------------- | ----- |
+| 09:00 - 10:30 |[Time Series - Intro][9-1a]|||||
+| 10:45 - 12:30 |[Time Series datetime Lesson/Lab][9-1b]|||||
+| 13:30 - 15:00 |[Time Series Resampling - Lab][9-1c]|||||
+| 15:15 - 17:00 |[Time Series Fitting - Lab][9-1d]|||||
 
 
 [1-1a]: ./week01/day1_intro_command_line_and_github/DSI_intro
@@ -236,6 +244,9 @@
 [8-4b]: ./week08/day4_nlp_sentiment_analysis_pipeline/nlp-sentiment_analysis-lab
 [8-4c]: ./week08/day4_nlp_sentiment_analysis_pipeline/sklearn-pipeline-lesson
 [8-4d]: ./week08/day4_nlp_sentiment_analysis_pipeline/nlp-twitter_api_case_study-lab
-
-
 [8-5a]: ./week08/day5_more_pymc3/bayesian_ab_testing_lab
+
+[9-1a]: ./week09/day1_timeseries_eda/1_timeseries_intro
+[9-1b]: ./week09/day1_timeseries_eda/2_timeseries_datetime_lesson
+[9-1c]: ./week09/day1_timeseries_eda/3_timeseries_resampling_lab
+[9-1d]: ./week09/day1_timeseries_eda/4_timeseries_fitting
