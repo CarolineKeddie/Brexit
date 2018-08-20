@@ -79,10 +79,10 @@
 
 | Session Time  | Day 1                                    | Day 2                                | Day 3               | Day 4                                     | Day 5 |
 | ------------- | ---------------------------------------- | ------------------------------------ | ------------------- | ----------------------------------------- | ----- |
-| 09:00 - 10:30 |[Time Series - Intro][9-1a]|||||
-| 10:45 - 12:30 |[Time Series datetime Lesson/Lab][9-1b]|||||
-| 13:30 - 15:00 |[Time Series Resampling - Lab][9-1c]|||||
-| 15:15 - 17:00 |[Time Series Fitting - Lab][9-1d]|||||
+| 09:00 - 10:30 |[Time Series - Intro][9-1a]|[Autocorrelations - Lab][9-2a]||||
+| 10:45 - 12:30 |[Time Series datetime Lesson/Lab][9-1b]|[ARIMA - Lesson][9-2b]||||
+| 13:30 - 15:00 |[Time Series Resampling - Lab][9-1c]|[ARIMA - Lab 1][9-2c]||||
+| 15:15 - 17:00 |[Time Series Fitting - Lab][9-1d]|[ARIMA - Lab 2][9-2d]||||
 
 
 [1-1a]: ./week01/day1_intro_command_line_and_github/DSI_intro
@@ -250,3 +250,8 @@
 [9-1b]: ./week09/day1_timeseries_eda/2_timeseries_datetime_lesson
 [9-1c]: ./week09/day1_timeseries_eda/3_timeseries_resampling_lab
 [9-1d]: ./week09/day1_timeseries_eda/4_timeseries_fitting
+
+[9-2a]: ./week09/day2_arima_models/1_trends_and_autocorrelations
+[9-2b]: ./week09/day2_arima_models/2_arima_models
+[9-2c]: ./week09/day2_arima_models/3_timeseries_ex
+[9-2d]: ./week09/day2_arima_models/4_timeseries_arima_lab
