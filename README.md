@@ -260,4 +260,4 @@
 [9-3d]: ./week09/day3_seasonal_arima_models/seasonal_arima_lab
 
 [9-4b]: ./week09/day4_varma_models/VARMA_lesson
-[9-4c]: ./week09/day4_varma_models/VARMA_lesson
+[9-4c]: ./week09/day4_varma_models/VARMA_lab
