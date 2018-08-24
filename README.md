@@ -79,10 +79,10 @@
 
 | Session Time  | Day 1                                    | Day 2                                | Day 3               | Day 4                                     | Day 5 |
 | ------------- | ---------------------------------------- | ------------------------------------ | ------------------- | ----------------------------------------- | ----- |
-| 09:00 - 10:30 |[Time Series - Intro][9-1a]|[Autocorrelations - Lab][9-2a]|[ARIMA - Lab 1][9-2c]|[Seasonal Arima - Lab][9-3d]||
-| 10:45 - 12:30 |[Time Series datetime Lesson/Lab][9-1b]|[ARIMA - Lesson][9-2b]|[ARIMA - Lab 2][9-2d]|[VARMA - Lesson][9-4b]||
-| 13:30 - 15:00 |[Time Series Resampling - Lab][9-1c]|[ARIMA - Lab 1][9-2c]|[Seasonal Arima - Lesson][9-3c]|[VARMA - Lab][9-4c]||
-| 15:15 - 17:00 |[Time Series Fitting - Lab][9-1d]|[ARIMA - Lab 2][9-2d]|[Seasonal Arima - Lab][9-3d]|[VARMA - Lab][9-4c]||
+| 09:00 - 10:30 |[Time Series - Intro][9-1a]|[Autocorrelations - Lab][9-2a]|[ARIMA - Lab 1][9-2c]|[Seasonal Arima - Lab][9-3d]|[GARCH Models - Lesson][9-5a]|
+| 10:45 - 12:30 |[Time Series datetime Lesson/Lab][9-1b]|[ARIMA - Lesson][9-2b]|[ARIMA - Lab 2][9-2d]|[VARMA - Lesson][9-4b]|[GARCH Models - Lab]|
+| 13:30 - 15:00 |[Time Series Resampling - Lab][9-1c]|[ARIMA - Lab 1][9-2c]|[Seasonal Arima - Lesson][9-3c]|[VARMA - Lab][9-4c]|Capstone|
+| 15:15 - 17:00 |[Time Series Fitting - Lab][9-1d]|[ARIMA - Lab 2][9-2d]|[Seasonal Arima - Lab][9-3d]|[VARMA - Lab][9-4c]|Capstone|
 
 
 [1-1a]: ./week01/day1_intro_command_line_and_github/DSI_intro
@@ -261,3 +261,5 @@
 
 [9-4b]: ./week09/day4_varma_models/VARMA_lesson
 [9-4c]: ./week09/day4_varma_models/VARMA_lab
+
+[9-5a]: ./week09/day5_garch_models/garch_models
