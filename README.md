@@ -84,6 +84,15 @@
 | 13:30 - 15:00 |[Time Series Resampling - Lab][9-1c]|[ARIMA - Lab 1][9-2c]|[Seasonal Arima - Lesson][9-3c]|[VARMA - Lab][9-4c]|Capstone|
 | 15:15 - 17:00 |[Time Series Fitting - Lab][9-1d]|[ARIMA - Lab 2][9-2d]|[Seasonal Arima - Lab][9-3d]|[VARMA - Lab][9-4c]|Capstone|
 
+## Week 10: Big data
+
+| Session Time  | Day 1                                    | Day 2                                | Day 3               | Day 4                                     | Day 5 |
+| ------------- | ---------------------------------------- | ------------------------------------ | ------------------- | ----------------------------------------- | ----- |
+| 09:00 - 10:30 |Holiday|[Intro to Big Data - Lesson][10-2a]|[Intro to Spark - Lesson][10-2c]|||
+| 10:45 - 12:30 |Holiday|[Intro to Big Data - Lesson][10-2a]|[Intro to Spark - Lab][10-3b]|||
+| 13:30 - 15:00 |Holiday|[Intro to Spark - Lesson][10-2c]|Outcomes||Capstone|
+| 15:15 - 17:00 |Holiday|[Intro to Spark - Lesson][10-2c]|Outcomes||Capstone|
+
 
 [1-1a]: ./week01/day1_intro_command_line_and_github/DSI_intro
 [1-1b]: ./week01/day1_intro_command_line_and_github/lesson-intro-to-command-line
@@ -263,3 +272,7 @@
 [9-4c]: ./week09/day4_varma_models/VARMA_lab
 
 [9-5a]: ./week09/day5_garch_models/garch_models
+
+[10-2a]: ./week10/day2_big_data_intro/intro_to_big_data-lesson
+[10-2c]: ./week10/day2_big_data_intro/intro_to_spark
+[10-3b]: ./week10/day2_big_data_intro/spark_lab
