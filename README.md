@@ -88,10 +88,19 @@
 
 | Session Time  | Day 1                                    | Day 2                                | Day 3               | Day 4                                     | Day 5 |
 | ------------- | ---------------------------------------- | ------------------------------------ | ------------------- | ----------------------------------------- | ----- |
-| 09:00 - 10:30 |Holiday|[Intro to Big Data - Lesson][10-2a]|[Intro to Spark - Lesson][10-2c]|[AWS Intro][10-4a]||
-| 10:45 - 12:30 |Holiday|[Intro to Big Data - Lesson][10-2a]|[Intro to Spark - Lab][10-3b]|[AWS Intro][10-4a]||
+| 09:00 - 10:30 |Holiday|[Intro to Big Data - Lesson][10-2a]|[Intro to Spark - Lesson][10-2c]|[AWS Intro][10-4a]|[Hadoop - Lab][10-4d]|
+| 10:45 - 12:30 |Holiday|[Intro to Big Data - Lesson][10-2a]|[Intro to Spark - Lab][10-3b]|[AWS Intro][10-4a]|[Hive - Lab][10-5a]|
 | 13:30 - 15:00 |Holiday|[Intro to Spark - Lesson][10-2c]|Outcomes|[AWS Intro][10-4a]|Capstone|
 | 15:15 - 17:00 |Holiday|[Intro to Spark - Lesson][10-2c]|Outcomes|[Hadoop on AWS][10-4d]|Capstone|
+
+## Week 11: Advanced topics
+
+| Session Time  | Day 1                                    | Day 2                                | Day 3               | Day 4                                     | Day 5 |
+| ------------- | ---------------------------------------- | ------------------------------------ | ------------------- | ----------------------------------------- | ----- |
+| 09:00 - 10:30 |[Spark ML - Lesson][11-1a]|||||
+| 10:45 - 12:30 |[Spark ML - Lab][11-1b]|||||
+| 13:30 - 15:00 |[Support Vector Machines - Lesson][11-1c]|||||
+| 15:15 - 17:00 |[Support Vector Machines - Lab][11-1d]|||||
 
 
 [1-1a]: ./week01/day1_intro_command_line_and_github/DSI_intro
@@ -279,3 +288,10 @@
 
 [10-4a]: ./week10/day4_aws_and_hadoop/AWS_intro/
 [10-4d]: ./week10/day4_aws_and_hadoop/hadoop-big-data-lab/
+
+[10-5a]: ./week10/day5_emr_and_hive/Hive-lab
+
+[11-1a]: ./week11/day1_sparkml_and_svm/spark-ml-lesson
+[11-1b]: ./week11/day1_sparkml_and_svm/spark-ml-lab
+[11-1c]: ./week11/day1_sparkml_and_svm/support-vector-machines-lesson
+[11-1d]: ./week11/day1_sparkml_and_svm/support-vector-machines-lab-1
