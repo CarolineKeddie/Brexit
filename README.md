@@ -97,10 +97,10 @@
 
 | Session Time  | Day 1                                    | Day 2                                | Day 3               | Day 4                                     | Day 5 |
 | ------------- | ---------------------------------------- | ------------------------------------ | ------------------- | ----------------------------------------- | ----- |
-| 09:00 - 10:30 |[Spark ML - Lesson][11-1a]|||||
+| 09:00 - 10:30 |[Spark ML - Lesson][11-1a]|[Support Vector Machines - Lab 2][11-2a]||||
 | 10:45 - 12:30 |[Spark ML - Lab][11-1b]|||||
 | 13:30 - 15:00 |[Support Vector Machines - Lesson][11-1c]|||||
-| 15:15 - 17:00 |[Support Vector Machines - Lab][11-1d]|||||
+| 15:15 - 17:00 |[Support Vector Machines - Lab 1][11-1d]|||||
 
 
 [1-1a]: ./week01/day1_intro_command_line_and_github/DSI_intro
@@ -295,3 +295,5 @@
 [11-1b]: ./week11/day1_sparkml_and_svm/spark-ml-lab
 [11-1c]: ./week11/day1_sparkml_and_svm/support-vector-machines-lesson
 [11-1d]: ./week11/day1_sparkml_and_svm/support-vector-machines-lab-1
+
+[11-2a]: ./week11/day2_svm_and_flask/support-vector-machines-lab-2
