@@ -5,9 +5,9 @@
 ---
 
 ### Core
--Understand what Flask is and what a web backend does.
--Understand decorator functionality
--Understand how values are passed between a website and the Flask backend.
+-Understand what Flask is and what a web backend does.  
+-Understand decorator functionality  
+-Understand how values are passed between a website and the Flask backend.  
 
 
 
