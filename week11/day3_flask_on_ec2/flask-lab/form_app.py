@@ -12,14 +12,14 @@ with open('static/model.pkl', 'rb') as f:
 @app.route('/', methods=['GET'])
 def index():
     """Render a simple splash page."""
-    return render_template('form/index.html')
+    return render_template('index.html')
 
 
 @app.route('/submit', methods=['GET'])
 def submit():
     """Render a page containing a textarea input where the user can paste an
     article to be classified.  """
-    return render_template('form/submit.html')
+    return render_template('submit.html')
 
 
 @app.route('/predict', methods=['POST'])
