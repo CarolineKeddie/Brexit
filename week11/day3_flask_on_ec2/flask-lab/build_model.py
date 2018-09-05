@@ -11,7 +11,7 @@ python build_model.py --data path_to_input_data --out path_to_save_pickled_model
 
 FOR EXAMPLE:
 
-python build_model.py --data ./data/articles.csv --out ./static/model.pkl
+python build_model.py --data ./data/articles_small.csv --out ./static/model.pkl
 
 
 """
