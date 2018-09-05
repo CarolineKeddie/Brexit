@@ -29,7 +29,7 @@ def predict():
     """
     data = str(request.form['article_body'])
     pred = str(model.predict([data])[0])
-    return render_template('form/predict.html', article=data, predicted=pred)
+    return render_template('predict.html', article=data, predicted=pred)
 
 
 if __name__ == '__main__':
