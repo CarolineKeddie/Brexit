@@ -97,10 +97,10 @@
 
 | Session Time  | Day 1                                    | Day 2                                | Day 3               | Day 4                                     | Day 5 |
 | ------------- | ---------------------------------------- | ------------------------------------ | ------------------- | ----------------------------------------- | ----- |
-| 09:00 - 10:30 |[Spark ML - Lesson][11-1a]|[Support Vector Machines - Lab 2][11-2a]|[Flask on AWS - Lab][11-3a]|||
-| 10:45 - 12:30 |[Spark ML - Lab][11-1b]|[Support Vector Machines - Lab 2][11-2a]|[Flask on AWS - Lab][11-3a]|||
-| 13:30 - 15:00 |[Support Vector Machines - Lesson][11-1c]|[Flask - Lesson][11-2c]|[Support Vector Regression - Lab][11-3c]|||
-| 15:15 - 17:00 |[Support Vector Machines - Lab 1][11-1d]|[Flask - Lesson][11-2c]|[Support Vector Regression - Lab][11-3c]|||
+| 09:00 - 10:30 |[Spark ML - Lesson][11-1a]|[Support Vector Machines - Lab 2][11-2a]|[Flask on AWS - Lab][11-3a]|[Networks - Lesson][11-4a]||
+| 10:45 - 12:30 |[Spark ML - Lab][11-1b]|[Support Vector Machines - Lab 2][11-2a]|[Flask on AWS - Lab][11-3a]|[Networks - Lesson][11-4a]||
+| 13:30 - 15:00 |[Support Vector Machines - Lesson][11-1c]|[Flask - Lesson][11-2c]|[Support Vector Regression - Lab][11-3c]|[Networks - Lab][11-4c]||
+| 15:15 - 17:00 |[Support Vector Machines - Lab 1][11-1d]|[Flask - Lesson][11-2c]|[Support Vector Regression - Lab][11-3c]|Capstone||
 
 
 [1-1a]: ./week01/day1_intro_command_line_and_github/DSI_intro
@@ -301,3 +301,6 @@
 
 [11-3a]: ./week11/day3_flask_on_ec2
 [11-3c]: ./week11/day3_support_vector_regression/support_vector_regression_lab
+
+[11-4a]: ./week11/day4_networks/networks_lesson
+[11-4c]: ./week11/day4_networks/networks_lab
