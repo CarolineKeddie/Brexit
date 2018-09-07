@@ -1,0 +1,138 @@
+### Parasitic species
+1) Cryptocotyle lingua 
+2) Himasthla elongata 
+3) Renicola roscovita 
+4) Cercariae lebouri
+5) Podocotyle staffordi 
+6) Cryptocotyle jejuna 
+7) Himasthla continua 
+8) Maritrema oocysta 
+9) Maritrema subdolum
+10) Levinseniella sp. no.17 
+11) Microphallid sp. no.15 
+12) Notocotyledae sp. no.14 
+13) Himasthla interrupt
+14) Profilicollis botulus
+15) Amidostomum sp.
+16) Haploparaksis crassirostris 
+17) Ophryocotyle insignis
+18) Psilostomum brevicolle
+19) Catatropis verrucosa
+20) Parvatrema affine
+21) Apophallus lerouxi
+22) Levinseniella brachysoma 
+23) Maritrema humile
+24) Maritrema gratiosum
+25) Hemiuris communis
+26) Lecithaster gibbosus
+27) Derogenes varicus
+28) Opacelididii sp.
+29) Tetraphyllidean larvae
+30) Cestode sp.1
+31) Lacunovermis macomae
+32) Hysterothylacium aduncum 
+33) Cucullanus heterochrous 
+34) Anisakis sp.
+35) Zoogonoides viviparus 
+36) Spiruroid larvae
+37) Cucullanus minutus
+38) Pomphorynchus sp.
+39) Corynosoma strumosum
+40) Echinorynchus gadi 
+41) Hymenolepis sp. 1
+42) Spelotrema claviforma
+
+### Non-parasitic species
+
+43) Otter Lutra lutra
+44) Cormorant Phalacrocorax carbo
+45) Heron Ardea cinerea
+46) Mute swan Cygnus olor
+47) Shelduck Tadorna tadorna
+48) Wigeon Anas penelope
+49) Eider Somateria mollissima
+50) Eider juvenile
+51) Oystercatcher Haematopus ostralegus 
+52) Ringed plover Charadris hiaticula
+53) Golden plover Pluvialis apricaria
+54) Grey plover Pluvialis squatarola
+55) Lapwing Vanellus vanellus
+56) Dunlin Calidris alpina
+57) Bar-tailed godwit Limosa lapponica
+58) Curlew Numenius arquata
+59) Redshank Tringa totanus
+60) Turnstone Arenaria interpres
+61) Common gull Larus canus
+62) Black headed gull Larus ridibundus
+63) Herring gull Larus argentatus
+64) Great black-backed gull Larus marinus 
+65) Sandwich tern Sterna sandvicensis
+66) Common tern Sterna hirundo 
+67) Arctic tern Sterna paradise 
+68) Rook Corvus frugilegus
+69) Crow Corvus corone
+70) Spratt Sprattus sprattus
+71) Herring Clupea harengus
+72) Eel Anguilla anguilla
+73) Nilsson's pipefish Sygnathus rostellatus 
+74) Saithe Pollachius virens
+75) Five bearded rockling Ciliata mustella 
+76) Sandeel Ammodytes tobianus
+77) Butterfish Pholis gunnellus
+78) Viviparous blenny Zoarces viviparous 
+79) Sand goby Pomatoschistus minutus
+80) Common goby Pomatoschistus microps
+81) Fatherlasher Myxocephalus scorpius
+82) Pogge Agonus cataphractus
+83) Three-spined stickleback Gasterosteus aculeatus 
+84) Plaice juvenile Pleuronectes platessa
+85) Flounder Platichthyes fiesus 
+86) Flounder juvenile
+87) Trout Salmo trutta
+88) Brown shrimp Crangon crangon 
+89) Brown shrimp Crangon crangon 
+90) Ragworm Nereis diversicolor
+91) King ragworm Nereis virens 
+92) Phyllodoce mucosa
+93) Eteone longa
+94) Ostracods
+95) Calanoid copepods
+96) Harpacticoid copepods
+97) Barnacles Semibalanus balanoides 
+98) Oppossum shrimp Neomysis integer 
+99) Hyale nilssoni
+100) Talitrus saltator
+101) Corophium volutator 
+102) Bathyporeia pilosa
+103) Gammurus sp.
+104) Idotea emariginata
+105) Jaera albifrons
+106) Eurydice pulchra
+107) Nototropis sp.
+108) Pygospio elegans
+109) Parathemisto sp.
+110) Capitella capitata
+111) Manayunkia aestuarina 
+112) Aricia sp.
+113) Arenicola marina
+114) Tubificoides benedini 
+115) Tubifex costatus
+116) Hydrobia ulvae
+117) Littorina littorea
+118) Littorina saxatilis
+119) Alderia modesta
+120) Retusa obtusa
+121) Mya arenaria
+122) Macoma balthica
+123) Mytilus edulis
+124) Cerastoderma edule
+125) Nematodes
+126) Formaifera
+127) Chironomidae
+128) Dipteran larvae
+129) Acarina
+130) Hesionidae
+131) Phytoplankton
+132) Brown algae
+133) Enteromorpha
+134) P.O.M.
