@@ -317,4 +317,4 @@
 [11-5a]: ./week11/day5_networks/directed_networks
 [11-5b]: ./week11/day5_networks/tube_network
 
-[12-1a]: ,/week12/day1_neural_networks/nnet-intro-sklearn
+[12-1a]: ./week12/day1_neural_networks/nnet-intro-sklearn
