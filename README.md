@@ -106,8 +106,8 @@
 
 | Session Time  | Day 1                                    | Day 2                                | Day 3               | Day 4                                     | Day 5 |
 | ------------- | ---------------------------------------- | ------------------------------------ | ------------------- | ----------------------------------------- | ----- |
-| 09:00 - 10:30 |[Neural Networks - Lesson][12-1a]||||Presentations|
-| 10:45 - 12:30 |[Neural Networks - Lesson][12-1a]||||Presentations|
+| 09:00 - 10:30 |[Neural Networks - Lesson][12-1a]|[Tensorflow - Lesson][12-2a]|||Presentations|
+| 10:45 - 12:30 |[Neural Networks - Lesson][12-1a]|[Tensorflow - Lab][12-2b]|||Presentations|
 | 13:30 - 15:00 |Capstone|Capstone|Capstone|Capstone|Presentations|
 | 15:15 - 17:00 |Capstone|Capstone|Capstone|Capstone|Presentations|
 
@@ -318,3 +318,6 @@
 [11-5b]: ./week11/day5_networks/tube_network
 
 [12-1a]: ./week12/day1_neural_networks/nnet-intro-sklearn
+
+[12-2a]: ./week12/day2_tensorflow/tensorflow-lesson
+[12-2b]: ./week12/day2_tensorflow/tensorflow-lab
