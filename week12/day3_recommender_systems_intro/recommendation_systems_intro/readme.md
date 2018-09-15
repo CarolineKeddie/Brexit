@@ -5,7 +5,7 @@
 ---
 
 ### Core
-- Explain what a recommendation engines is
+- Understand the purpose of recommendation engines
 - Understand the types of data on which recommendations are built
 - Learn about examples where recommendation engines are used
 - Distinguish users and items
