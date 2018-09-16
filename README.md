@@ -127,7 +127,7 @@
 [1-3c]: ./week01/day3_comprehensions_and_descriptive_stats/Lab_1-sales_data_lab
 
 [1-4a]: ./week01/day4_linalgreview_datavis_pythonpractice/lesson-1-linear-algebra-review
-[1-4c]: ./week01/day4_linalgreview_dat=avis_pythonpractice/lesson-2-data-visualisation
+[1-4c]: ./week01/day4_linalgreview_datavis_pythonpractice/lesson-2-data-visualisation
 [1-4d]: ./week01/day4_linalgreview_datavis_pythonpractice/Lab_2-python_movies_lab
 
 [1-5a]: ./week01/day5_github_pt2_branching_pull_requests/lesson1-github-pull-request-branching
@@ -224,10 +224,10 @@
 [6-2c]: ./week06/day2_ensemble_methods/bagging_lab
 [6-2d]: ./week06/day2_ensemble_methods/random_forest_lab
 
-[6-3a]: ./week06/day3_adaboost/python_multithreading_lesson
-[6-3b]: ./week06/day3_adaboost/ensemble-boosting_adaboost-lesson
-[6-3c]: ./week06/day3_adaboost/decision_trees_individual_practice
-[6-3d]: ./week06/day3_adaboost/ensemble-boosting_adaboost-lab
+[6-3a]: ./week06/day3_adaboost_scraping_w_multithreading/python_multithreading_lesson
+[6-3b]: ./week06/day3_adaboost_scraping_w_multithreading/ensemble-boosting_adaboost-lesson
+[6-3c]: ./week06/day3_adaboost_scraping_w_multithreading/decision_trees_individual_practice
+[6-3d]: ./week06/day3_adaboost_scraping_w_multithreading/ensemble-boosting_adaboost-lab
 
 
 [6-4a]: ./week06/day4_nlp_intro/nlp-intro-lesson
